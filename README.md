@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
 - [learn-video/continue-watching-api](https://github.com/learn-video/continue-watching-api) - 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
@@ -210,6 +211,7 @@
 
 ## JavaScript 
 
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [sibelius/intern-to-cto](https://github.com/sibelius/intern-to-cto) - Intern to CTO path
 - [vit0rr/todo-meteor](https://github.com/vit0rr/todo-meteor) - A ToDo CRUD App using MeteorJS
@@ -604,7 +606,7 @@
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [EduardoJM/django-full-text-search](https://github.com/EduardoJM/django-full-text-search) - Projeto que visa implementar o sistema de Full-Text Search do Postgres com o Django
 - [EmanuelCampos/questions-classifier](https://github.com/EmanuelCampos/questions-classifier) - Classifier questions as good or bad using logistic regression
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
