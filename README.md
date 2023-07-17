@@ -521,7 +521,7 @@
 - [appcumbuca/desafios](https://github.com/appcumbuca/desafios) - Desafios de contratação. Vem fazer parte do nosso time!
 - [Camilotk/aprenda-clojure](https://github.com/Camilotk/aprenda-clojure) - Lista de materiais e ferramentas para quem quer aprender Clojure
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [ZXVentures/ze-code-challenges](https://github.com/ZXVentures/ze-code-challenges) - 
@@ -732,7 +732,7 @@
 - [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
 - [dellamora/ModalExample-CreatePortal-React](https://github.com/dellamora/ModalExample-CreatePortal-React) - 
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
