@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
 - [learn-video/continue-watching-api](https://github.com/learn-video/continue-watching-api) - 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
