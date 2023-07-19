@@ -770,7 +770,6 @@
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
@@ -1297,7 +1296,7 @@
 - [dellamora/Framer-Motion-Intersection-Observer-API-animations](https://github.com/dellamora/Framer-Motion-Intersection-Observer-API-animations) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
 - [joaotuliojt/churras-trinca](https://github.com/joaotuliojt/churras-trinca) - Desafio técnico da trin.ca
-- [henri1i/money-transaction-system](https://github.com/henri1i/money-transaction-system) - 
+- [hnribs/money-transaction-system](https://github.com/hnribs/money-transaction-system) - 
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
