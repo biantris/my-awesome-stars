@@ -592,7 +592,7 @@
 ## PHP 
 
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [hnrink/money-transaction-system](https://github.com/hnrink/money-transaction-system) - 
+- [henr1n/money-transaction-system](https://github.com/henr1n/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 
@@ -855,7 +855,7 @@
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
 - [FuelLabs/fuel-ui](https://github.com/FuelLabs/fuel-ui) - Fuel design system
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc
-- [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel v2 TypeScript SDK
+- [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [MelonRuntime/Melon](https://github.com/MelonRuntime/Melon) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
 - [antoniolopesg/faketter](https://github.com/antoniolopesg/faketter) - A GraphQL + Relay Fullstack Twitter Clone
