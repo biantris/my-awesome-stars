@@ -1296,7 +1296,7 @@
 - [dellamora/Framer-Motion-Intersection-Observer-API-animations](https://github.com/dellamora/Framer-Motion-Intersection-Observer-API-animations) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
 - [joaotuliojt/churras-trinca](https://github.com/joaotuliojt/churras-trinca) - Desafio técnico da trin.ca
-- [henr1n/money-transaction-system](https://github.com/henr1n/money-transaction-system) - 
+- [hnrbs/money-transaction-system](https://github.com/hnrbs/money-transaction-system) - 
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
