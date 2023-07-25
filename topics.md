@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [hnrbs/lambda-calculus](https://github.com/hnrbs/lambda-calculus) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -1642,7 +1643,7 @@
 
 ## pwa 
 
-- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking news headlines app. Trusted journalism to fight against misinformation.
+- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking News Headlines. Trusted journalism to fight against misinformation.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
