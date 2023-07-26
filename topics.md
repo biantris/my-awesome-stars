@@ -698,7 +698,6 @@
 - [graphql/graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [daniloab/rbaf-web](https://github.com/daniloab/rbaf-web) - Website Dashboard Manager built with React, Relay and GraphQL
-- [antoniolopesg/faketter](https://github.com/antoniolopesg/faketter) - A GraphQL + Relay Fullstack Twitter Clone
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
@@ -1643,7 +1642,7 @@
 
 ## pwa 
 
-- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking News Headlines. Trusted journalism to fight against misinformation.
+- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking news headlines app. Trusted journalism to fight against misinformation.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
@@ -1800,7 +1799,6 @@
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
-- [antoniolopesg/faketter](https://github.com/antoniolopesg/faketter) - A GraphQL + Relay Fullstack Twitter Clone
 - [akinncar/frogchain](https://github.com/akinncar/frogchain) - :frog: :purple_heart: Crypto Wallet made with React Native
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
 - [akinncar/ar-nft](https://github.com/akinncar/ar-nft) - 👾 A React Native app to visualize your NFTs in AR
@@ -2034,7 +2032,6 @@
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [MelonRuntime/Melon](https://github.com/MelonRuntime/Melon) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
-- [antoniolopesg/faketter](https://github.com/antoniolopesg/faketter) - A GraphQL + Relay Fullstack Twitter Clone
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 13 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
