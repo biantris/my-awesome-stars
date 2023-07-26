@@ -771,7 +771,7 @@
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking News Headlines. Trusted journalism to fight against misinformation.
+- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking news headlines app. Trusted journalism to fight against misinformation.
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
@@ -859,7 +859,6 @@
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [MelonRuntime/Melon](https://github.com/MelonRuntime/Melon) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
-- [antoniolopesg/faketter](https://github.com/antoniolopesg/faketter) - A GraphQL + Relay Fullstack Twitter Clone
 - [arantespp/cryptobot](https://github.com/arantespp/cryptobot) - 
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 13 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
