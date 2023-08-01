@@ -265,7 +265,6 @@
 - [Nick-Gabe/DiscordV13-template](https://github.com/Nick-Gabe/DiscordV13-template) - A template to use for creating a Discord Bot using version 13.
 - [VikramTiwari/reverse-geocode](https://github.com/VikramTiwari/reverse-geocode) - get reverse-geocoded :earth_americas: data from latitude and longitude values :globe_with_meridians:
 - [eslint/eslint.org](https://github.com/eslint/eslint.org) - ESLint website
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [colbyfayock/next-leaflet-starter](https://github.com/colbyfayock/next-leaflet-starter) - 🍃 A Next.js starter with Leafet to quickly build React apps with a map!
 - [GBDev13/ip-address-tracker](https://github.com/GBDev13/ip-address-tracker) - Aplicação desenvolvida durante um desafio do Front-end Mentor
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -819,6 +818,7 @@
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [pedroperegrinaa/twitter-banner-followers](https://github.com/pedroperegrinaa/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
