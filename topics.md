@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
 - [hnrbs/lambda-calculus](https://github.com/hnrbs/lambda-calculus) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
@@ -1215,7 +1216,7 @@
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [entria/woovi-playground](https://github.com/entria/woovi-playground) - 
-- [SouJunior/soujunior-lab](https://github.com/SouJunior/soujunior-lab) - List of projects SouJunior Lab
+- [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Lab
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
