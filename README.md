@@ -453,9 +453,10 @@
 
 ## Others 
 
+- [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [SouJunior/soujunior-lab](https://github.com/SouJunior/soujunior-lab) - List of projects SouJunior Lab
+- [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Lab
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
