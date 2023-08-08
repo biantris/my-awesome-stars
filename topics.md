@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
 - [hnrbs/lambda-calculus](https://github.com/hnrbs/lambda-calculus) - 
