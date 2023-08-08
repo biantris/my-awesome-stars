@@ -685,6 +685,7 @@
 
 ## TypeScript 
 
+- [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [EmanuelCampos/monorepo-llama-index](https://github.com/EmanuelCampos/monorepo-llama-index) - Packages to use llama indexes on a react app with flask
