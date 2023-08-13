@@ -65,6 +65,7 @@
 ## Astro 
 
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
+- [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
 
 ## C# # 
 
@@ -457,7 +458,7 @@
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
-- [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Lab
+- [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -899,7 +900,6 @@
 - [blipapp/vite-ssr-starter](https://github.com/blipapp/vite-ssr-starter) - A server-side-rendered project that leverages Vite, Relay, Prisma, and GiraphQL.
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [fersilva16/openpix-client](https://github.com/fersilva16/openpix-client) - OpenPIX API client for JavaScript
-- [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
 - [jondcallahan/remix-auth](https://github.com/jondcallahan/remix-auth) - A fully featured auth system built on Remix
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
