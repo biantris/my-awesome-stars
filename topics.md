@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [bellamariz/nginx-playground](https://github.com/bellamariz/nginx-playground) - 
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
@@ -1971,6 +1972,7 @@
 
 ## typescript 
 
+- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
 - [Nick-Gabe/central-nickgabe](https://github.com/Nick-Gabe/central-nickgabe) - Um site para ver assuntos dos quais eu já ensinei.
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
