@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [bellamariz/nginx-playground](https://github.com/bellamariz/nginx-playground) - 
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
@@ -1342,7 +1343,7 @@
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [calixtocarolina/Pensamento-Computacional](https://github.com/calixtocarolina/Pensamento-Computacional) - Um repositório que ajuda a compreender os aspectos teóricos e práticos do Pensamento Computacional!
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
-- [grandehe4rt/woovi-challenge](https://github.com/grandehe4rt/woovi-challenge) - 
+- [gmdias727/woovi-challenge](https://github.com/gmdias727/woovi-challenge) - 
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
 - [TroyTae/game-of-life](https://github.com/TroyTae/game-of-life) - 
 - [thenicolau/openpix-sdk-go](https://github.com/thenicolau/openpix-sdk-go) - SDK OpenPix in Golang
