@@ -237,6 +237,7 @@
 - [Odorizzi1/CRUD-graphql](https://github.com/Odorizzi1/CRUD-graphql) - 
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
 - [biantris/basic-api](https://github.com/biantris/basic-api) - API w/ Node.js, Express.js, MongoDB and Mongoose
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
@@ -607,6 +608,7 @@
 
 ## Python 
 
+- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
@@ -732,7 +734,6 @@
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [Guilherme775/zod-express-endpoint](https://github.com/Guilherme775/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
