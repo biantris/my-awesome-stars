@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [bellamariz/nginx-playground](https://github.com/bellamariz/nginx-playground) - 
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
