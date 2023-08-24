@@ -38,6 +38,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [PostScript](#postscript)
 - [Python](#python)
 - [ReScript](#rescript)
@@ -602,13 +603,16 @@
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 
+## PLpgSQL 
+
+- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
+
 ## PostScript 
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
 ## Python 
 
-- [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
