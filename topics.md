@@ -1266,7 +1266,7 @@
 - [Odorizzi1/CRUD-graphql](https://github.com/Odorizzi1/CRUD-graphql) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
 - [isaitgirl/curiouscat-cli](https://github.com/isaitgirl/curiouscat-cli) - Uma command line boba para ler posts do curious cat
-- [lffg/fdb](https://github.com/lffg/fdb) - A simple database management system.
+- [lffg/fdb](https://github.com/lffg/fdb) - A simple (and unfinished!!) database management system.
 - [BemteviSeguros/antd-input-mask](https://github.com/BemteviSeguros/antd-input-mask) - A Masked Input Component based on Ant Design.
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [ladamalina/coursera-startup](https://github.com/ladamalina/coursera-startup) - Startup Engineering. Lecture Slides (june 2013)
