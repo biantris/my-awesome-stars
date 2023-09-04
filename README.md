@@ -936,7 +936,6 @@
 - [microsoft/pxt-adafruit](https://github.com/microsoft/pxt-adafruit) - Microsoft MakeCode editor for Adafruit Circuit Playground Express
 - [entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [luiznasciment0/relayflix](https://github.com/luiznasciment0/relayflix) - Relayflix is a project that I'm building to learn backend development, postgresql, AWS, relay, graphql, and many other things. (WIP)
 - [Wellers0n/Backend-diff](https://github.com/Wellers0n/Backend-diff) - graphql vs rest
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
 - [arantespp/arantespp.com](https://github.com/arantespp/arantespp.com) - 
@@ -964,7 +963,6 @@
 - [allabouttech0803/graphql-mongodb-typescript-blog](https://github.com/allabouttech0803/graphql-mongodb-typescript-blog) - 
 - [Open-Pix/expo-openpix-demo](https://github.com/Open-Pix/expo-openpix-demo) - OpenPix Demo Integration with Expo
 - [Open-Pix/node-backend-integration](https://github.com/Open-Pix/node-backend-integration) - OpenPix Backend Integration
-- [luiznasciment0/saving-goal](https://github.com/luiznasciment0/saving-goal) - React.js, Next.js and TypeScript studies. In this project I tried to apply knowledges from some courses I've taken. Testing with react testing library, styling with styled components, etc.
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [sibelius/recoil-todo](https://github.com/sibelius/recoil-todo) - Recoil Todo App
@@ -997,7 +995,7 @@
 
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
-- [JavascriptMick/nuxt3-boilerplate](https://github.com/JavascriptMick/nuxt3-boilerplate) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
+- [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [MonkeyDevelopers/boilerplate-nuxt3](https://github.com/MonkeyDevelopers/boilerplate-nuxt3) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
