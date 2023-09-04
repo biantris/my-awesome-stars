@@ -1112,7 +1112,6 @@
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
-- [luiznasciment0/saving-goal](https://github.com/luiznasciment0/saving-goal) - React.js, Next.js and TypeScript studies. In this project I tried to apply knowledges from some courses I've taken. Testing with react testing library, styling with styled components, etc.
 
 ## node 
 
@@ -1237,7 +1236,7 @@
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
 - [italosantana/barbershop](https://github.com/italosantana/barbershop) - solution for scheduling and monitoring in your barbershop.
 - [vmcustodio/tests-with-vuejs](https://github.com/vmcustodio/tests-with-vuejs) - 
-- [JavascriptMick/nuxt3-boilerplate](https://github.com/JavascriptMick/nuxt3-boilerplate) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
+- [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
@@ -1544,7 +1543,6 @@
 - [Streeterxs/mongoose-partial-dump](https://github.com/Streeterxs/mongoose-partial-dump) - A partial dumper for mongoose/mongoDB
 - [microsoft/pxt-adafruit](https://github.com/microsoft/pxt-adafruit) - Microsoft MakeCode editor for Adafruit Circuit Playground Express
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
-- [luiznasciment0/relayflix](https://github.com/luiznasciment0/relayflix) - Relayflix is a project that I'm building to learn backend development, postgresql, AWS, relay, graphql, and many other things. (WIP)
 - [matheus1lva/manage-repos](https://github.com/matheus1lva/manage-repos) - 
 - [Surnet/swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc) - Generates swagger/openapi specification based on jsDoc comments and YAML files.
 - [he4rt/he4rtconf](https://github.com/he4rt/he4rtconf) - 
@@ -1794,7 +1792,6 @@
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
 - [filippobarcellos/instagram-clone-react](https://github.com/filippobarcellos/instagram-clone-react) - Instagram clone built with React & Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [luiznasciment0/saving-goal](https://github.com/luiznasciment0/saving-goal) - React.js, Next.js and TypeScript studies. In this project I tried to apply knowledges from some courses I've taken. Testing with react testing library, styling with styled components, etc.
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -2063,7 +2060,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [daniloab/koa-crud-backend](https://github.com/daniloab/koa-crud-backend) - Backend implementation of REST api with Node.js, Koa.js, MongoDB and Jest Tests
-- [luiznasciment0/saving-goal](https://github.com/luiznasciment0/saving-goal) - React.js, Next.js and TypeScript studies. In this project I tried to apply knowledges from some courses I've taken. Testing with react testing library, styling with styled components, etc.
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [NinjaCodeGen/angular-landing-page](https://github.com/NinjaCodeGen/angular-landing-page) - Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary, and nice animations/scrolling.
