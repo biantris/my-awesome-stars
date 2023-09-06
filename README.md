@@ -414,6 +414,7 @@
 
 ## Lean 
 
+- [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Logos 
@@ -646,6 +647,7 @@
 
 ## Rust 
 
+- [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
 - [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
