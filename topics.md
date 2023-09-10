@@ -77,7 +77,6 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
-- [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -303,7 +302,6 @@
 ## blockchain 
 
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
-- [AlaskaLabs/unlearn.day](https://github.com/AlaskaLabs/unlearn.day) - 🇧🇷 [PT-BR] Conhecimento sobre Blockchain, DeFi, e NFTs em português, com objetivo de expandir o conhecimento e mitigar riscos de quem está aprendendo.
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
@@ -401,7 +399,6 @@
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
-- [AlaskaLabs/alaska-ui](https://github.com/AlaskaLabs/alaska-ui) - 🎛 UI Library with primitives built on Pug (Jade) for static interfaces.
 - [mpfdev/spaceTourismChallenge](https://github.com/mpfdev/spaceTourismChallenge) - Frontend Mentor | Space tourism multi-page website
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [Apiki/front-end-challenge](https://github.com/Apiki/front-end-challenge) - Desafio para candidatos a front-end.
@@ -725,10 +722,6 @@
 - [sibelius/relay-workshop](https://github.com/sibelius/relay-workshop) - Material for my Relay Workshop
 - [entria/jobs](https://github.com/entria/jobs) - Come and join the Entria team
 
-## gulp 
-
-- [AlaskaLabs/alaska](https://github.com/AlaskaLabs/alaska) - ⚙️ Static site boilerplate. Using Gulp, PugJS, and Sass.
-
 ## hacktoberfest 
 
 - [herbsjs/herbs](https://github.com/herbsjs/herbs) - A domain-first framework. Code your domain and your infrastructure will follow
@@ -803,7 +796,6 @@
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
-- [AlaskaLabs/alaska-ui](https://github.com/AlaskaLabs/alaska-ui) - 🎛 UI Library with primitives built on Pug (Jade) for static interfaces.
 - [mpfdev/spaceTourismChallenge](https://github.com/mpfdev/spaceTourismChallenge) - Frontend Mentor | Space tourism multi-page website
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [Apiki/front-end-challenge](https://github.com/Apiki/front-end-challenge) - Desafio para candidatos a front-end.
@@ -1445,7 +1437,6 @@
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [ZXVentures/ze-code-challenges](https://github.com/ZXVentures/ze-code-challenges) - 
-- [AlaskaLabs/typography](https://github.com/AlaskaLabs/typography) - 🖌 [CC0] Open Source Typography Principles.
 - [DarioBallerini/mercado-reddit](https://github.com/DarioBallerini/mercado-reddit) - frontend for r/mercadoreddit posts
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -1890,8 +1881,6 @@
 ## sass 
 
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
-- [AlaskaLabs/alaska](https://github.com/AlaskaLabs/alaska) - ⚙️ Static site boilerplate. Using Gulp, PugJS, and Sass.
-- [AlaskaLabs/alaska-ui](https://github.com/AlaskaLabs/alaska-ui) - 🎛 UI Library with primitives built on Pug (Jade) for static interfaces.
 
 ## security 
 
