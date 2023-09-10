@@ -188,7 +188,6 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
-- [AlaskaLabs/alaska-ui](https://github.com/AlaskaLabs/alaska-ui) - 🎛 UI Library with primitives built on Pug (Jade) for static interfaces.
 - [endel/shieldsio-patreon](https://github.com/endel/shieldsio-patreon) - 🛡 Shields.io endpoint to display amount of donations/patrons you have on Patreon
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -319,7 +318,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
 - [pixelsbyeryc/home-bills](https://github.com/pixelsbyeryc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
-- [AlaskaLabs/alaska](https://github.com/AlaskaLabs/alaska) - ⚙️ Static site boilerplate. Using Gulp, PugJS, and Sass.
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [daniloab/rbaf-web](https://github.com/daniloab/rbaf-web) - Website Dashboard Manager built with React, Relay and GraphQL
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -535,10 +533,8 @@
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [ZXVentures/ze-code-challenges](https://github.com/ZXVentures/ze-code-challenges) - 
-- [AlaskaLabs/typography](https://github.com/AlaskaLabs/typography) - 🖌 [CC0] Open Source Typography Principles.
 - [daniloab/second-brain](https://github.com/daniloab/second-brain) - my second brain
 - [shanirivers/open-source-mathematics-degree](https://github.com/shanirivers/open-source-mathematics-degree) - The open-source curriculum for learning Mathematics.
-- [AlaskaLabs/unlearn.day](https://github.com/AlaskaLabs/unlearn.day) - 🇧🇷 [PT-BR] Conhecimento sobre Blockchain, DeFi, e NFTs em português, com objetivo de expandir o conhecimento e mitigar riscos de quem está aprendendo.
 - [kinvoapp/kinvo-front-end-test](https://github.com/kinvoapp/kinvo-front-end-test) - Teste para candidatos à vaga de Front-End
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [significa/frontend-challenge](https://github.com/significa/frontend-challenge) - Significa's frontend challenge.
