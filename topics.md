@@ -737,7 +737,6 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
-- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural design methodology for Frontend projects
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
@@ -1336,6 +1335,7 @@
 - [Luisnadachi/SQL4Noobs](https://github.com/Luisnadachi/SQL4Noobs) - 
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [arthur404dev/ZooApi](https://github.com/arthur404dev/ZooApi) - RESTful API written in GOlang to be used as a boilerplate for GOlang projects.
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural design methodology for Frontend projects
 - [guilhermerodz/veist-theme](https://github.com/guilhermerodz/veist-theme) - A dark theme inspired by Vercel & Geist ⚡️
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
