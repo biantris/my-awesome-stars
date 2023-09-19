@@ -1194,6 +1194,7 @@
 
 ## others 
 
+- [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
 - [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
@@ -1343,7 +1344,6 @@
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
 - [gmdias727/woovi-challenge](https://github.com/gmdias727/woovi-challenge) - 
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
-- [TroyTae/game-of-life](https://github.com/TroyTae/game-of-life) - 
 - [thenicolau/openpix-sdk-go](https://github.com/thenicolau/openpix-sdk-go) - SDK OpenPix in Golang
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
 - [antonio-ricardo/sql-node](https://github.com/antonio-ricardo/sql-node) - repositorio para estudar postgres e coisas de banco relacionais
