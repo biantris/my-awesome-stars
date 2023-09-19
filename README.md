@@ -183,7 +183,6 @@
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
-- [TroyTae/game-of-life](https://github.com/TroyTae/game-of-life) - 
 - [birobirobiro/macos-portfolio](https://github.com/birobirobiro/macos-portfolio) - Portfolio based in macOS Classic
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
@@ -690,6 +689,7 @@
 
 ## TypeScript 
 
+- [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react [in progress]
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
