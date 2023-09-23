@@ -362,6 +362,7 @@
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [jmealo/koa-request-to-curl](https://github.com/jmealo/koa-request-to-curl) - Adds a toCurl method to each request context that converts that request into a ready to run Curl command.
 - [akinncar/talk-rn-architecture-21](https://github.com/akinncar/talk-rn-architecture-21) - 
+- [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [brainnco/desafios-pre-work-b-academy](https://github.com/brainnco/desafios-pre-work-b-academy) - Desafios para a semana de pré-work do B. Academy
 - [daniloab/graphql-real-world](https://github.com/daniloab/graphql-real-world) - GraphQL - Real World - https://daniloab.github.io/graphql-real-world/#0 | https://github.com/daniloab/graphql-real-world-server
 - [ricokahler/hocify](https://github.com/ricokahler/hocify) - a simple library that converts hooks to HOCs for compatibility with class-based components.
@@ -929,7 +930,6 @@
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [sibelius/ui-boilerplate](https://github.com/sibelius/ui-boilerplate) - Basic UI boilerplate to practice CSS
 - [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A tool for building your best shopping app
-- [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [akinncar/rn-mirror-lists](https://github.com/akinncar/rn-mirror-lists) - 🪞 Mirror scroll lists for React Native
 - [Streeterxs/mongoose-partial-dump](https://github.com/Streeterxs/mongoose-partial-dump) - A partial dumper for mongoose/mongoDB
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
