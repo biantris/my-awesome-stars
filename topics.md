@@ -736,6 +736,7 @@
 
 ## hacktoberfest 
 
+- [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [herbsjs/herbs](https://github.com/herbsjs/herbs) - A domain-first framework. Code your domain and your infrastructure will follow
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
@@ -777,6 +778,7 @@
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -785,11 +787,13 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - The companion to the Youtube tutorials
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [getomni/omni](https://github.com/getomni/omni) - Dark theme created by Rocketseat 🚀
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -926,6 +930,7 @@
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
 - [gregnb/react-to-print](https://github.com/gregnb/react-to-print) - Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE
+- [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development :rocket:
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
@@ -1526,7 +1531,6 @@
 - [mercurius-js/cache](https://github.com/mercurius-js/cache) - Adds an in-process caching layer to Mercurius. Federation is fully supported.
 - [edumaciel10/digital-garden](https://github.com/edumaciel10/digital-garden) - This repo is a zettelkasten, created on obsidian with community
 - [Clemensss/TeachYourselfCS-PT](https://github.com/Clemensss/TeachYourselfCS-PT) - TeachYourselfCS Portuguese Translation
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
@@ -1562,7 +1566,6 @@
 - [sindresorhus/ponyfill](https://github.com/sindresorhus/ponyfill) - 🦄 Like polyfill but with pony pureness
 - [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [getomni/jetbrains](https://github.com/getomni/jetbrains) - 🎨 Omni for JetBrains IDEs (IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, WebStorm, etc)
-- [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [b2w-marketplace/challenge-front](https://github.com/b2w-marketplace/challenge-front) - 
 - [sibelius/relay-realworld](https://github.com/sibelius/relay-realworld) - Relay Real World example
 - [designerjgames/Jack](https://github.com/designerjgames/Jack) - Enhanced Jack Compiler (with inheritance, polymorphism and more)
@@ -1792,6 +1795,7 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [gregnb/react-to-print](https://github.com/gregnb/react-to-print) - Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE
+- [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [sibelius/ast-i18n](https://github.com/sibelius/ast-i18n) - Easily migrate your existing React codebase to use i18n
 - [remotion-dev/template-three](https://github.com/remotion-dev/template-three) - ⚛️  🎥 3️⃣  A minimal boilerplate for Remotion + React Three Fiber
 - [relay-tools/relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks
