@@ -8,7 +8,6 @@
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Astro](#astro)
-- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -68,12 +67,9 @@
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
 
-## C 
-
-- [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
-
 ## C# # 
 
+- [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
