@@ -69,7 +69,6 @@
 
 ## C# # 
 
-- [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -209,6 +208,7 @@
 
 ## Java 
 
+- [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [TwilioDevEd/api-snippets](https://github.com/TwilioDevEd/api-snippets) - Code snippets for the Twilio API Documentation
 - [akinncar/ar-nft](https://github.com/akinncar/ar-nft) - 👾 A React Native app to visualize your NFTs in AR
@@ -459,6 +459,7 @@
 
 ## Others 
 
+- [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
