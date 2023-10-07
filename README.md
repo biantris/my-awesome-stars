@@ -264,7 +264,7 @@
 - [NicolasPereira/nodejs-api-tcc](https://github.com/NicolasPereira/nodejs-api-tcc) - API feita em NodeJS para cadastrar e gerenciar lista de compras
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [mauvieira/template-modern-spa](https://github.com/mauvieira/template-modern-spa) - React, TypeScript, Tailwind, Vite, Vitest, React Testing Library, MSW and React Query
-- [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers) - ESLint plugin to help enforce a configurable order for import statements
+- [willhoney7/eslint-plugin-import-helpers](https://github.com/willhoney7/eslint-plugin-import-helpers) - ESLint plugin to help enforce a configurable order for import statements
 - [akinncar/compress](https://github.com/akinncar/compress) - node script to compress/optimize png images
 - [Nick-Gabe/DiscordV13-template](https://github.com/Nick-Gabe/DiscordV13-template) - A template to use for creating a Discord Bot using version 13.
 - [VikramTiwari/reverse-geocode](https://github.com/VikramTiwari/reverse-geocode) - get reverse-geocoded :earth_americas: data from latitude and longitude values :globe_with_meridians:
