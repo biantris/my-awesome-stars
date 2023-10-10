@@ -991,6 +991,7 @@
 
 ## Vim Script 
 
+- [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 
