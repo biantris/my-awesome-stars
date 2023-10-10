@@ -18,7 +18,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -293,15 +292,6 @@
 - [Hy-Vee/lerna-yarn-workspaces-monorepo](https://github.com/Hy-Vee/lerna-yarn-workspaces-monorepo) - 🐉 A Monorepo with multiple packages and a shared build, test, and release process.
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
-
-## backend 
-
-- [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
-- [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
-- [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [Wellers0n/Backend-diff](https://github.com/Wellers0n/Backend-diff) - graphql vs rest
-- [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
 
 ## bash 
 
@@ -1218,6 +1208,7 @@
 
 ## others 
 
+- [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
 - [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
