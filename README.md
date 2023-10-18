@@ -98,6 +98,7 @@
 
 ## Clojure 
 
+- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [zoedsoupe/weather-playlist](https://github.com/zoedsoupe/weather-playlist) - Generates a Spotify song playlist based on your city's temperature!
@@ -664,6 +665,7 @@
 ## SCSS 
 
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
+- [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
 - [bedimcode/portfolio-responsive-complete](https://github.com/bedimcode/portfolio-responsive-complete) - Responsive Personal Portfolio Website HTML CSS & JavaScript
 
 ## Shell 
@@ -801,7 +803,6 @@
 - [its-danny/use-lilius](https://github.com/its-danny/use-lilius) - 📅 A headless calendar hook for React.
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
-- [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
 - [jrsousadev/fullcalendar-scheduler-web](https://github.com/jrsousadev/fullcalendar-scheduler-web) - 🗓️ Component inspired by google calendar [Next/React/Mui/Styled]
 - [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for Node.js
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
