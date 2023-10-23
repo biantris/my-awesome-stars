@@ -475,7 +475,6 @@
 - [atomotavio/XML4Noobs](https://github.com/atomotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ladamalina/coursera-startup](https://github.com/ladamalina/coursera-startup) - Startup Engineering. Lecture Slides (june 2013)
-- [dellamora/GirlsTechTalkClub](https://github.com/dellamora/GirlsTechTalkClub) - 
 - [sandersn/manual](https://github.com/sandersn/manual) - Explanatory writing
 - [mdh266/SQL-Practice](https://github.com/mdh266/SQL-Practice) - Solutions to Problems For SQL on Leetcode, Hackerrank & DataLemur
 - [computacaoraiz/aprenda-lisp](https://github.com/computacaoraiz/aprenda-lisp) - Estudo de Common Lisp pelo livro do Touretzky
@@ -718,7 +717,7 @@
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
 - [entria/apiWithLog](https://github.com/entria/apiWithLog) - Powerful Fetch
-- [dellamora/GraphQL-query-example](https://github.com/dellamora/GraphQL-query-example) - 
+- [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖Discord bot to see your github notifications
@@ -732,7 +731,7 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-- [dellamora/rickandmorty-reactQuery-TSGenerics](https://github.com/dellamora/rickandmorty-reactQuery-TSGenerics) - 
+- [dellamora/react-query-ts-generics](https://github.com/dellamora/react-query-ts-generics) - 
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [BemteviSeguros/antd-input-mask](https://github.com/BemteviSeguros/antd-input-mask) - A Masked Input Component based on Ant Design.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -747,13 +746,13 @@
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [Guilherme775/zod-express-endpoint](https://github.com/Guilherme775/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
 - [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
-- [dellamora/ModalExample-CreatePortal-React](https://github.com/dellamora/ModalExample-CreatePortal-React) - 
+- [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
-- [dellamora/Framer-Motion-Intersection-Observer-API-animations](https://github.com/dellamora/Framer-Motion-Intersection-Observer-API-animations) - 
+- [dellamora/framer-motion-intersection-observer-animations](https://github.com/dellamora/framer-motion-intersection-observer-animations) - 
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [joaotuliojt/churras-trinca](https://github.com/joaotuliojt/churras-trinca) - Desafio técnico da trin.ca
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
@@ -880,7 +879,6 @@
 - [daniloab/relay-13-nextjs](https://github.com/daniloab/relay-13-nextjs) - relay nextjs implementation
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite) - A builder plugin to run and build Storybooks with Vite
-- [dellamora/VDC](https://github.com/dellamora/VDC) - 
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - The easiest way to collect, manage, and consume real-time data to fuel personalized experiences.
