@@ -1269,7 +1269,7 @@
 - [ramonxm/functional-programming](https://github.com/ramonxm/functional-programming) - 🔢 |  Repository applying functional programming.
 - [entria/apiWithLog](https://github.com/entria/apiWithLog) - Powerful Fetch
 - [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
-- [dellamora/GraphQL-query-example](https://github.com/dellamora/GraphQL-query-example) - 
+- [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
 - [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖Discord bot to see your github notifications
@@ -1287,7 +1287,7 @@
 - [lanjoni/lpi4noobs](https://github.com/lanjoni/lpi4noobs) - Guia completo para preparação da certificação LPI Essentials (LPI LE-1)! 🐧
 - [Odorizzi1/Udemy-courses](https://github.com/Odorizzi1/Udemy-courses) - 
 - [Odorizzi1/discord](https://github.com/Odorizzi1/discord) - 
-- [dellamora/rickandmorty-reactQuery-TSGenerics](https://github.com/dellamora/rickandmorty-reactQuery-TSGenerics) - 
+- [dellamora/react-query-ts-generics](https://github.com/dellamora/react-query-ts-generics) - 
 - [Luisgustavom1/bundlers](https://github.com/Luisgustavom1/bundlers) - Repository to study how bundlers work behind the scenes.
 - [Odorizzi1/CRUD-graphql](https://github.com/Odorizzi1/CRUD-graphql) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
@@ -1296,7 +1296,6 @@
 - [BemteviSeguros/antd-input-mask](https://github.com/BemteviSeguros/antd-input-mask) - A Masked Input Component based on Ant Design.
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [ladamalina/coursera-startup](https://github.com/ladamalina/coursera-startup) - Startup Engineering. Lecture Slides (june 2013)
-- [dellamora/GirlsTechTalkClub](https://github.com/dellamora/GirlsTechTalkClub) - 
 - [sandersn/manual](https://github.com/sandersn/manual) - Explanatory writing
 - [zoedsoupe/war.ex](https://github.com/zoedsoupe/war.ex) - War card game implemented in Elixir
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
@@ -1317,14 +1316,14 @@
 - [Guilherme775/zod-express-endpoint](https://github.com/Guilherme775/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
 - [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
 - [biantris/basic-api](https://github.com/biantris/basic-api) - API w/ Node.js, Express.js, MongoDB and Mongoose
-- [dellamora/ModalExample-CreatePortal-React](https://github.com/dellamora/ModalExample-CreatePortal-React) - 
+- [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [akinncar/business-name-generator](https://github.com/akinncar/business-name-generator) - 🤖 Generate business names with ChatGPT3 API
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
-- [dellamora/Framer-Motion-Intersection-Observer-API-animations](https://github.com/dellamora/Framer-Motion-Intersection-Observer-API-animations) - 
+- [dellamora/framer-motion-intersection-observer-animations](https://github.com/dellamora/framer-motion-intersection-observer-animations) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
 - [joaotuliojt/churras-trinca](https://github.com/joaotuliojt/churras-trinca) - Desafio técnico da trin.ca
 - [hnrbs/money-transaction-system](https://github.com/hnrbs/money-transaction-system) - 
@@ -1479,7 +1478,6 @@
 - [kinvoapp/kinvo-front-end-test](https://github.com/kinvoapp/kinvo-front-end-test) - Teste para candidatos à vaga de Front-End
 - [riccigrj/prd_provas_digitais_homofobia](https://github.com/riccigrj/prd_provas_digitais_homofobia) - Trabalho de Conclusão de Curso Ciência da Computação
 - [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite) - A builder plugin to run and build Storybooks with Vite
-- [dellamora/VDC](https://github.com/dellamora/VDC) - 
 - [significa/frontend-challenge](https://github.com/significa/frontend-challenge) - Significa's frontend challenge.
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 - [endel/shieldsio-patreon](https://github.com/endel/shieldsio-patreon) - 🛡 Shields.io endpoint to display amount of donations/patrons you have on Patreon
