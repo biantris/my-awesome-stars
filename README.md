@@ -653,7 +653,6 @@
 - [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
 - [lffg/fdb](https://github.com/lffg/fdb) - A simple (and unfinished!!) database management system.
-- [ddanielsantos/sober-ferris](https://github.com/ddanielsantos/sober-ferris) - Simple Rest API, made with Rust, Diesel and Rocket
 - [fnapi/fnapi](https://github.com/fnapi/fnapi) - A function is enough
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - 
