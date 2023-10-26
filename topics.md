@@ -756,6 +756,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
@@ -1330,7 +1331,6 @@
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp effectively and become a happy programmer :)
 - [LukeberryPi/job-log](https://github.com/LukeberryPi/job-log) - personal writings of my daily triumphs and challenges as a junior software engineer
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
