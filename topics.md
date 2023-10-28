@@ -33,6 +33,7 @@
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -387,6 +388,21 @@
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
+
+## computer-science 
+
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## computer-vision 
 
@@ -1322,7 +1338,6 @@
 - [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [akinncar/business-name-generator](https://github.com/akinncar/business-name-generator) - 🤖 Generate business names with ChatGPT3 API
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
 - [dellamora/framer-motion-intersection-observer-animations](https://github.com/dellamora/framer-motion-intersection-observer-animations) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
@@ -1345,7 +1360,7 @@
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [vinibgoulart/zettelkasten](https://github.com/vinibgoulart/zettelkasten) - 📄 Thoughts and Blog
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-- [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Vagas
+- [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Tech Magic Cube - Divulgação de Vagas
 - [daniloab/generate-key-crypto](https://github.com/daniloab/generate-key-crypto) - generat a key from crypto
 - [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech) - Tereza Tech monorepo
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
@@ -1354,7 +1369,6 @@
 - [Gabriel-Valin/control-infra-api](https://github.com/Gabriel-Valin/control-infra-api) - 
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [nandokferrari/woovi-front](https://github.com/nandokferrari/woovi-front) - 
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
 - [vit0rr/rescript-overview](https://github.com/vit0rr/rescript-overview) - Just an ReScript overview
 - [Universidade-Livre/matematica](https://github.com/Universidade-Livre/matematica) - 🧮 Um caminho para a educação autodidata em Matemática!
@@ -1420,7 +1434,6 @@
 - [vit0rr/play-pause](https://github.com/vit0rr/play-pause) - 
 - [DataWithDanny/sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) - 
 - [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
-- [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
