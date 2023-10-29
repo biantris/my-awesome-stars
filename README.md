@@ -648,7 +648,7 @@
 ## Rust 
 
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
-- [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [lang-vulpi/vulpi](https://github.com/lang-vulpi/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
 - [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
