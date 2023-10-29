@@ -1241,7 +1241,7 @@
 
 - [s2te/study-projects](https://github.com/s2te/study-projects) - repository to share study projects, including courses and my own.
 - [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
-- [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [lang-vulpi/vulpi](https://github.com/lang-vulpi/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
