@@ -845,7 +845,7 @@
 - [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
 - [padelis/relay-workshop](https://github.com/padelis/relay-workshop) - Material for my Relay Workshop
-- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [EmanuelCampos/proxy-contract](https://github.com/EmanuelCampos/proxy-contract) - A basic proxy contract
 - [jacques-blom/recoil-course](https://github.com/jacques-blom/recoil-course) - The code for my free Recoil Course, learnrecoil.com
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
