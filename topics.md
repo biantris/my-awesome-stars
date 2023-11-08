@@ -580,7 +580,7 @@
 
 ## ethereum 
 
-- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [web3brasil/web3brasil](https://github.com/web3brasil/web3brasil) - Recursos pra aprender Web3 e DeFi
@@ -1146,7 +1146,7 @@
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
-- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 13 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
@@ -1779,7 +1779,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [remarkjs/react-remark](https://github.com/remarkjs/react-remark) - React component and hook to use remark to render markdown
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
-- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
 - [jacques-blom/recoil-course](https://github.com/jacques-blom/recoil-course) - The code for my free Recoil Course, learnrecoil.com
 - [vit0rr/crud-react](https://github.com/vit0rr/crud-react) - React crud using LocalStorage
@@ -1835,7 +1835,7 @@
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [rafae2k/rocketbank-mobile](https://github.com/rafae2k/rocketbank-mobile) - Rocket Bank is a finance mobile app built for XP Mobile Challenge.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
-- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [akinncar/frogchain](https://github.com/akinncar/frogchain) - :frog: :purple_heart: Crypto Wallet made with React Native
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
