@@ -325,7 +325,7 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [ThiagoDellaNoce/javascript4noobs](https://github.com/ThiagoDellaNoce/javascript4noobs) - Este repositório tem como propósito fornecer uma iniciação na linguagem mais amada da Web.
 - [Gabriel-Valin/estrutura-de-dados-js](https://github.com/Gabriel-Valin/estrutura-de-dados-js) - The basics data structures implemented with javascript.
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [mgechev/mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
