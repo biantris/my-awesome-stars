@@ -821,7 +821,6 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [getomni/omni](https://github.com/getomni/omni) - Dark theme created by Rocketseat 🚀
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -930,6 +929,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -1485,7 +1485,6 @@
 - [ThiagoDellaNoce/javascript4noobs](https://github.com/ThiagoDellaNoce/javascript4noobs) - Este repositório tem como propósito fornecer uma iniciação na linguagem mais amada da Web.
 - [Gabriel-Valin/estrutura-de-dados-js](https://github.com/Gabriel-Valin/estrutura-de-dados-js) - The basics data structures implemented with javascript.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [mgechev/mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
 - [daniloab/relay-13-nextjs](https://github.com/daniloab/relay-13-nextjs) - relay nextjs implementation
 - [justleoo/helloWorld](https://github.com/justleoo/helloWorld) - :hibiscus: just a project to show all types of hello world available!
