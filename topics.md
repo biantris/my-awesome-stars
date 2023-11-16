@@ -197,7 +197,7 @@
 - [NinjaCodeGen/angular-landing-page](https://github.com/NinjaCodeGen/angular-landing-page) - Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary, and nice animations/scrolling.
 - [angular/flex-layout](https://github.com/angular/flex-layout) - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## ansible 
 
@@ -967,7 +967,7 @@
 - [daniloab/fullstack-playground](https://github.com/daniloab/fullstack-playground) - Monorepo playground with GraphQL Server, Rest API Server, typescript config, test utils, jest config, webpack and more
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## js 
 
@@ -1544,7 +1544,7 @@
 - [entria/codemods](https://github.com/entria/codemods) - Node.js/Javascript codemods used at @entria
 - [rolfschr/GSWL-book](https://github.com/rolfschr/GSWL-book) - This repository contains the content of the book Getting Started With Ledger.
 - [sibelius/create-react-app-relay-modern](https://github.com/sibelius/create-react-app-relay-modern) - Create React App + Relay Modern
-- [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - 
+- [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
 - [Cesar-Roberto/random-quote-generator](https://github.com/Cesar-Roberto/random-quote-generator) - A Random Quote Generator app created using ClojureScript, gets quotes from an api and can post them to your Twitter!
 - [noghartt/fakeddit](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB
 - [Camilotk/exercicios-algoritmos](https://github.com/Camilotk/exercicios-algoritmos) - 📖 Exercicios de Algoritmos da UBL
@@ -1680,7 +1680,7 @@
 
 - [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Headly is a breaking news headlines reader. Trusted journalism to fight against misinformation.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## python 
 
@@ -2095,7 +2095,7 @@
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [NinjaCodeGen/angular-landing-page](https://github.com/NinjaCodeGen/angular-landing-page) - Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary, and nice animations/scrolling.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## vim 
 
@@ -2140,7 +2140,7 @@
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## web-components 
 
