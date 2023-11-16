@@ -655,7 +655,7 @@
 - [lffg/fdb](https://github.com/lffg/fdb) - A simple (and unfinished!!) database management system.
 - [fnapi/fnapi](https://github.com/fnapi/fnapi) - A function is enough
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
-- [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - 
+- [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -982,7 +982,7 @@
 - [glaucia86/curso-typescript-zero-to-hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Repositório responsável pelo Curso de TypeScript - Zero to Hero
 - [RenanRB/curso-angular](https://github.com/RenanRB/curso-angular) - Curso desenvolvido para a plataforma https://digitalinnovation.one/
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [rafaelsza/Proffy](https://github.com/rafaelsza/Proffy) - [ Proffy ] Projeto construído durante a Next Level Week #2 utilizando TypeScript, NodeJS, ReactJS, React Native com Expo e MariaDB.
 
 ## V 
