@@ -523,7 +523,7 @@
 - [worklab1/fullstack_challenge](https://github.com/worklab1/fullstack_challenge) - 
 - [maateusilva/display-automations](https://github.com/maateusilva/display-automations) - Scripts made with AppleScript to automate the display settings on Macs.
 - [tractian/fake-api](https://github.com/tractian/fake-api) - 
-- [DataWithDanny/sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) - 
+- [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
@@ -713,13 +713,14 @@
 - [italosantana/barbershop](https://github.com/italosantana/barbershop) - solution for scheduling and monitoring in your barbershop.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
 - [entria/apiWithLog](https://github.com/entria/apiWithLog) - Powerful Fetch
 - [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
-- [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖Discord bot to see your github notifications
+- [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖 Discord bot to see your github notifications
 - [joaopcm/nodepad](https://github.com/joaopcm/nodepad) - Revolutionize your coding experience with Nodepad - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.getnodepad.com 🚀🌟
 - [joao-pedrozo/shoppingify-client](https://github.com/joao-pedrozo/shoppingify-client) - 
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
@@ -999,7 +1000,6 @@
 
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
-- [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [MonkeyDevelopers/boilerplate-nuxt3](https://github.com/MonkeyDevelopers/boilerplate-nuxt3) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
