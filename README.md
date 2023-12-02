@@ -535,7 +535,7 @@
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-- [ZXVentures/ze-code-challenges](https://github.com/ZXVentures/ze-code-challenges) - 
+- [ab-inbev-ze-company/ze-code-challenges](https://github.com/ab-inbev-ze-company/ze-code-challenges) - 
 - [daniloab/second-brain](https://github.com/daniloab/second-brain) - my second brain
 - [shanirivers/open-source-mathematics-degree](https://github.com/shanirivers/open-source-mathematics-degree) - The open-source curriculum for learning Mathematics.
 - [kinvoapp/kinvo-front-end-test](https://github.com/kinvoapp/kinvo-front-end-test) - Teste para candidatos à vaga de Front-End
