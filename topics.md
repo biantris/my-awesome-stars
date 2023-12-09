@@ -1240,6 +1240,8 @@
 
 ## others 
 
+- [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
+- [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [s2te/study-projects](https://github.com/s2te/study-projects) - repository to share study projects, including courses and my own.
 - [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
 - [lang-vulpi/vulpi](https://github.com/lang-vulpi/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
@@ -1916,6 +1918,7 @@
 
 ## sass 
 
+- [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
 
 ## security 
@@ -2159,6 +2162,7 @@
 
 ## webpack 
 
+- [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
 
