@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 - [HenriqueBros/Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) - Tutorial de Arduino para iniciantes
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
@@ -217,6 +218,7 @@
 
 ## JavaScript 
 
+- [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -997,6 +999,7 @@
 
 ## Vue 
 
+- [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
