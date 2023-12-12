@@ -612,6 +612,7 @@
 
 ## Python 
 
+- [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
@@ -779,7 +780,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech) - Tereza Tech monorepo
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
 - [Gabriel-Valin/control-infra-api](https://github.com/Gabriel-Valin/control-infra-api) - 
 - [nandokferrari/woovi-front](https://github.com/nandokferrari/woovi-front) - 
