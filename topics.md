@@ -1240,6 +1240,7 @@
 
 ## others 
 
+- [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [s2te/study-projects](https://github.com/s2te/study-projects) - repository to share study projects, including courses and my own.
@@ -1364,7 +1365,7 @@
 - [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Tech Magic Cube - Divulgação de Vagas
 - [daniloab/generate-key-crypto](https://github.com/daniloab/generate-key-crypto) - generat a key from crypto
 - [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech) - Tereza Tech monorepo
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [jeffque/digital-garden](https://github.com/jeffque/digital-garden) - Meu próprio jardim digital
 - [ccsseraphini/sibsday-xmas](https://github.com/ccsseraphini/sibsday-xmas) - 
 - [Gabriel-Valin/control-infra-api](https://github.com/Gabriel-Valin/control-infra-api) - 
