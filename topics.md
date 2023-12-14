@@ -1686,6 +1686,7 @@
 
 ## python 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
@@ -1942,6 +1943,7 @@
 
 ## shell 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
