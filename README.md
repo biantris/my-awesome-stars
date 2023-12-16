@@ -129,6 +129,7 @@
 
 ## Elixir 
 
+- [OpiumAI/opium](https://github.com/OpiumAI/opium) - 
 - [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings) - rustlings but for elixir this time
 - [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma) - Plataforma digital PEA PESCARTE
 - [zoedsoupe/war.ex](https://github.com/zoedsoupe/war.ex) - War card game implemented in Elixir
@@ -146,6 +147,7 @@
 
 ## Go 
 
+- [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication and Redis cache
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
