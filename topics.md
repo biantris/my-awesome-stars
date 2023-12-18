@@ -1365,7 +1365,7 @@
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Tech Magic Cube - Divulgação de Vagas
 - [daniloab/generate-key-crypto](https://github.com/daniloab/generate-key-crypto) - generat a key from crypto
-- [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech) - Tereza Tech monorepo
+- [tereza-org/tereza](https://github.com/tereza-org/tereza) - Tereza monorepo
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [jeffque/digital-garden](https://github.com/jeffque/digital-garden) - Meu próprio jardim digital
 - [ccsseraphini/sibsday-xmas](https://github.com/ccsseraphini/sibsday-xmas) - 
