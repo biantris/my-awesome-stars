@@ -785,7 +785,7 @@
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [terezatech/tereza-tech](https://github.com/terezatech/tereza-tech) - Tereza Tech monorepo
+- [tereza-org/tereza](https://github.com/tereza-org/tereza) - Tereza monorepo
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
