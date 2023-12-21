@@ -186,7 +186,6 @@
 - [Grubba27/golings-site](https://github.com/Grubba27/golings-site) - Golings website
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [lincolixavier/crimson-template](https://github.com/lincolixavier/crimson-template) - A starter portfolio/blog theme designed by me and created for developers tell stories about their work. 🚀
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
 - [birobirobiro/macos-portfolio](https://github.com/birobirobiro/macos-portfolio) - Portfolio based in macOS Classic
@@ -249,6 +248,7 @@
 - [biantris/basic-api](https://github.com/biantris/basic-api) - API w/ Node.js, Express.js, MongoDB and Mongoose
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
+- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [Odorizzi1/my-design](https://github.com/Odorizzi1/my-design) - 
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [Grazinascito/Brainzi](https://github.com/Grazinascito/Brainzi) - 🧠A document that contains my learnings about web development and software engineering. Inspired by @biantris
@@ -616,6 +616,7 @@
 
 ## Python 
 
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
