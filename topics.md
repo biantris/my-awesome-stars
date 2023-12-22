@@ -1421,7 +1421,6 @@
 - [TwilioDevEd/api-snippets](https://github.com/TwilioDevEd/api-snippets) - Code snippets for the Twilio API Documentation
 - [NicolasPereira/nodejs-api-tcc](https://github.com/NicolasPereira/nodejs-api-tcc) - API feita em NodeJS para cadastrar e gerenciar lista de compras
 - [joaotuliojt/motivation](https://github.com/joaotuliojt/motivation) - 
-- [joao-pedrozo/poll-app](https://github.com/joao-pedrozo/poll-app) - ✨ Real-time poll app with Typescript, Node.js, Socket.io, React and TailwindCSS ✨
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [sgillespie/lambda-calculus](https://github.com/sgillespie/lambda-calculus) - An introduction to the Lambda Calculus
 - [mauvieira/template-modern-spa](https://github.com/mauvieira/template-modern-spa) - React, TypeScript, Tailwind, Vite, Vitest, React Testing Library, MSW and React Query
