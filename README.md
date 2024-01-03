@@ -361,7 +361,6 @@
 - [mercurius-js/cache](https://github.com/mercurius-js/cache) - Adds an in-process caching layer to Mercurius. Federation is fully supported.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [edumaciel10/digital-garden](https://github.com/edumaciel10/digital-garden) - This repo is a zettelkasten, created on obsidian with community
-- [ederchristian/filhodoceu.com.br](https://github.com/ederchristian/filhodoceu.com.br) - ✝ Site com a listagem de 10 músicas de Padre Fábio de Melo utilizando a API do Spotify
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
@@ -879,7 +878,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
 - [FuelLabs/fuel-ui](https://github.com/FuelLabs/fuel-ui) - Fuel design system
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus with Redoc
