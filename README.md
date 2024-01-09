@@ -220,7 +220,7 @@
 
 ## JavaScript 
 
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -705,6 +705,7 @@
 
 ## TypeScript 
 
+- [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [murillo-nahas/data-structures](https://github.com/murillo-nahas/data-structures) - 💻 Some data structures, algorithms and other stuff
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 - [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
@@ -885,7 +886,7 @@
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
 - [arantespp/cryptobot](https://github.com/arantespp/cryptobot) - 
-- [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 13 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
+- [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [daniloab/relay-13-nextjs](https://github.com/daniloab/relay-13-nextjs) - relay nextjs implementation
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
