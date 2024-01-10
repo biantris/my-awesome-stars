@@ -129,6 +129,7 @@
 
 ## Elixir 
 
+- [rwillians/bookk](https://github.com/rwillians/bookk) - A basic double-entry bookkeeping accounting library.
 - [opium-co/opium](https://github.com/opium-co/opium) - 
 - [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings) - rustlings but for elixir this time
 - [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma) - Plataforma digital PEA PESCARTE
@@ -510,7 +511,7 @@
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
 - [DanielHe4rt/livecoding4noobs](https://github.com/DanielHe4rt/livecoding4noobs) - 
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
-- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python Coding Interview Questions Answered to help you get ready for your next coding interview.
+- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2024.
 - [asklisa/fullstack-challenge](https://github.com/asklisa/fullstack-challenge) - Full Stack Engineer Challenge
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
