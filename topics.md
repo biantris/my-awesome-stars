@@ -347,6 +347,7 @@
 
 ## cli 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -762,6 +763,7 @@
 
 ## hacktoberfest 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [herbsjs/herbs](https://github.com/herbsjs/herbs) - A domain-first framework. Code your domain and your infrastructure will follow
@@ -1170,6 +1172,7 @@
 
 ## nodejs 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [joaopcm/nodepad](https://github.com/joaopcm/nodepad) - Revolutionize your coding experience with Nodepad - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.getnodepad.com 🚀🌟
