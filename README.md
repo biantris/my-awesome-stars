@@ -934,7 +934,7 @@
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [aelbore/esbuild-jest](https://github.com/aelbore/esbuild-jest) - A Jest transformer using esbuild
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [entria/graphql-mongoose-loader](https://github.com/entria/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
