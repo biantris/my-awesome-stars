@@ -105,6 +105,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mongoose](#mongoose)
@@ -1078,6 +1079,10 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 
+## microsoft 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## mobile 
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -1243,6 +1248,7 @@
 
 ## others 
 
+- [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
 - [rwillians/bookk](https://github.com/rwillians/bookk) - A basic double-entry bookkeeping accounting library.
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
@@ -1485,7 +1491,6 @@
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [ab-inbev-ze-company/ze-code-challenges](https://github.com/ab-inbev-ze-company/ze-code-challenges) - 
-- [DarioBallerini/mercado-reddit](https://github.com/DarioBallerini/mercado-reddit) - frontend for r/mercadoreddit posts
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [arantespp/cryptobot](https://github.com/arantespp/cryptobot) - 
