@@ -109,6 +109,7 @@
 
 ## Common Lisp 
 
+- [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
 - [rajasegar/cl-warehouse](https://github.com/rajasegar/cl-warehouse) - A sample Warehouse management app in Common Lisp
 - [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 - [fukamachi/caveman](https://github.com/fukamachi/caveman) - Lightweight web application framework for Common Lisp.
@@ -1021,7 +1022,6 @@
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
 - [LFSCamargo/vue.pnpm](https://github.com/LFSCamargo/vue.pnpm) - Vue and PNPM Monorepo
 - [Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend) - Cv Keep front end official repository
-- [DarioBallerini/mercado-reddit](https://github.com/DarioBallerini/mercado-reddit) - frontend for r/mercadoreddit posts
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 
 ## Zig 
