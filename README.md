@@ -618,6 +618,7 @@
 
 ## Python 
 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
