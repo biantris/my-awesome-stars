@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video) - Generate mosaics from video inputs
 - [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication and Redis cache
