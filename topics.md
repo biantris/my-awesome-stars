@@ -164,6 +164,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -234,6 +235,7 @@
 
 ## awesome 
 
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
@@ -257,6 +259,7 @@
 
 ## awesome-list 
 
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1254,6 +1257,7 @@
 
 ## others 
 
+- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video) - Generate mosaics from video inputs
@@ -2186,6 +2190,12 @@
 ## web-components 
 
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
+
+## web-development 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## webapp 
 
