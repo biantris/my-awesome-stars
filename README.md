@@ -225,6 +225,7 @@
 
 ## JavaScript 
 
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
@@ -421,6 +422,7 @@
 
 ## Kotlin 
 
+- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 
 - [getomni/jetbrains](https://github.com/getomni/jetbrains) - 🎨 Omni for JetBrains IDEs (IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, WebStorm, etc)
 
 ## Lean 
