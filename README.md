@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [C#](#c#)
@@ -53,10 +52,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
-
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -201,6 +196,7 @@
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [italosantana/jogo-do-bicho-javascript](https://github.com/italosantana/jogo-do-bicho-javascript) - 
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [florinpop17/10websites-design-to-html-css](https://github.com/florinpop17/10websites-design-to-html-css) - 
 
 ## Haskell 
@@ -422,7 +418,7 @@
 
 ## Kotlin 
 
-- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 
+- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - A repository to implementation search voice in React Native
 - [getomni/jetbrains](https://github.com/getomni/jetbrains) - 🎨 Omni for JetBrains IDEs (IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, WebStorm, etc)
 
 ## Lean 
