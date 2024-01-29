@@ -20,6 +20,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -318,6 +319,10 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
+## bitcoin 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+
 ## blockchain 
 
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
@@ -325,6 +330,7 @@
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 ## bootstrap 
 
@@ -1257,7 +1263,6 @@
 
 ## others 
 
-- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video) - Generate mosaics from video inputs
@@ -1634,7 +1639,6 @@
 - [sibelius/mongodb-transactions](https://github.com/sibelius/mongodb-transactions) - Mongodb Transactions using Two Phase commits
 - [daniloab/covid19-explicado](https://github.com/daniloab/covid19-explicado) - Repositório criado com o intuito de explicar, conscientizar e alertar a população sobre o vírus que gerou a pandemia.
 - [sibelius/LALG](https://github.com/sibelius/LALG) - LALG Compiler
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [google/data-layer-helper](https://github.com/google/data-layer-helper) - JavaScript library for working with dataLayer message queues.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [contra/graphql-helix](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server 🧬
@@ -1865,6 +1869,7 @@
 
 ## react-native 
 
+- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - A repository to implementation search voice in React Native
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [rafae2k/rocketbank-mobile](https://github.com/rafae2k/rocketbank-mobile) - Rocket Bank is a finance mobile app built for XP Mobile Challenge.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
