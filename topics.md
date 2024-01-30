@@ -110,6 +110,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mongoose](#mongoose)
+- [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
@@ -1126,6 +1127,10 @@
 - [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [entria/graphql-mongoose-loader](https://github.com/entria/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 
+## music 
+
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
+
 ## mysql 
 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1263,6 +1268,8 @@
 
 ## others 
 
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
+- [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video) - Generate mosaics from video inputs
