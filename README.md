@@ -65,6 +65,7 @@
 
 ## C# # 
 
+- [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
@@ -223,6 +224,7 @@
 
 ## JavaScript 
 
+- [JPHutchins/open-energy-view](https://github.com/JPHutchins/open-energy-view) - View resource consumption trends, history, analysis, and insights.
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1018,6 +1020,7 @@
 
 ## Vue 
 
+- [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
 - [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
