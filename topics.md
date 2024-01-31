@@ -86,6 +86,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
@@ -878,6 +879,10 @@
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
+## iot 
+
+- [JPHutchins/open-energy-view](https://github.com/JPHutchins/open-energy-view) - View resource consumption trends, history, analysis, and insights.
+
 ## ipfs 
 
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
@@ -1268,6 +1273,8 @@
 
 ## others 
 
+- [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
+- [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
