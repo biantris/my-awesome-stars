@@ -436,6 +436,7 @@
 
 ## css 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [Allyhere/expert-css](https://github.com/Allyhere/expert-css) - Repositório contendo materiais de estudo de CSS avançado
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
@@ -776,6 +777,7 @@
 
 ## hacktoberfest 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
@@ -852,6 +854,7 @@
 
 ## html 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
@@ -895,6 +898,7 @@
 
 ## javascript 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1186,6 +1190,7 @@
 
 ## node 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1202,6 +1207,7 @@
 
 ## nodejs 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
@@ -1279,7 +1285,7 @@
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
-- [mauricioabreu/mosaic-video](https://github.com/mauricioabreu/mosaic-video) - Generate mosaics from video inputs
+- [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video) - Generate mosaics from video inputs
 - [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
 - [rwillians/bookk](https://github.com/rwillians/bookk) - A basic double-entry bookkeeping accounting library.
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
@@ -1957,6 +1963,7 @@
 
 ## ruby 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
