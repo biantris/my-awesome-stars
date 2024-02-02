@@ -376,7 +376,7 @@
 ## code 
 
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 
 ## code-quality 
 
@@ -1889,7 +1889,7 @@
 
 ## react-native 
 
-- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - A repository to implementation search voice in React Native
+- [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 🔊 | A repository to implementation search voice in React Native
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [rafae2k/rocketbank-mobile](https://github.com/rafae2k/rocketbank-mobile) - Rocket Bank is a finance mobile app built for XP Mobile Challenge.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
@@ -2009,7 +2009,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 
 ## solidity 
 
