@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -62,6 +63,10 @@
 
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
+
+## C 
+
+- [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
 
 ## C# # 
 
