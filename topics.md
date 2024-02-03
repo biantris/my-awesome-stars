@@ -1279,6 +1279,7 @@
 
 ## others 
 
+- [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
