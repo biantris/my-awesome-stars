@@ -132,7 +132,7 @@
 
 ## Elixir 
 
-- [rwillians/bookk](https://github.com/rwillians/bookk) - A basic double-entry bookkeeping accounting library.
+- [rwillians/bookk](https://github.com/rwillians/bookk) - Bookk is a simple library that provides building blocks for manipulating ledgers using double-entry bookkeeping
 - [opium-co/opium](https://github.com/opium-co/opium) - 
 - [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings) - rustlings but for elixir this time
 - [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma) - Plataforma digital PEA PESCARTE
