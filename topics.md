@@ -1297,7 +1297,7 @@
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video) - Generate mosaics from video inputs
 - [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
-- [rwillians/bookk](https://github.com/rwillians/bookk) - A basic double-entry bookkeeping accounting library.
+- [rwillians/bookk](https://github.com/rwillians/bookk) - Bookk is a simple library that provides building blocks for manipulating ledgers using double-entry bookkeeping
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
