@@ -308,7 +308,6 @@
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [vit0rr/relay-basics](https://github.com/vit0rr/relay-basics) - Step-by-step relay guide
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
@@ -479,6 +478,8 @@
 
 ## Others 
 
+- [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
+- [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
@@ -877,6 +878,7 @@
 - [remarkjs/react-remark](https://github.com/remarkjs/react-remark) - React component and hook to use remark to render markdown
 - [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [padelis/relay-workshop](https://github.com/padelis/relay-workshop) - Material for my Relay Workshop
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [EmanuelCampos/proxy-contract](https://github.com/EmanuelCampos/proxy-contract) - A basic proxy contract
