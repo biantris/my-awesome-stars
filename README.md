@@ -726,6 +726,7 @@
 
 ## TypeScript 
 
+- [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
