@@ -1036,6 +1036,7 @@
 
 ## Vue 
 
+- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
