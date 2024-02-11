@@ -1300,6 +1300,7 @@
 
 ## others 
 
+- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
