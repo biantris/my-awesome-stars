@@ -492,7 +492,7 @@
 - [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
 - [atomotavio/XML4Noobs](https://github.com/atomotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
@@ -678,6 +678,7 @@
 
 ## Rust 
 
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [lang-vulpi/vulpi](https://github.com/lang-vulpi/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
@@ -727,6 +728,7 @@
 
 ## TypeScript 
 
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [likui628/vue3-realworld-example-app](https://github.com/likui628/vue3-realworld-example-app) - real world example app
 - [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
