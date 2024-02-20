@@ -1304,6 +1304,7 @@
 
 ## others 
 
+- [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [igorfelipeduca/meteor-zodern](https://github.com/igorfelipeduca/meteor-zodern) - 
 - [zodern/meteor-relay](https://github.com/zodern/meteor-relay) - Type safe Meteor methods and publications
 - [Grubba27/meteor-rpc](https://github.com/Grubba27/meteor-rpc) - Meteor Methods Evolved
