@@ -38,6 +38,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [PostScript](#postscript)
 - [Python](#python)
 - [ReScript](#rescript)
@@ -629,6 +630,10 @@
 - [hnrbs/money-transaction-system](https://github.com/hnrbs/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
+
+## PLpgSQL 
+
+- [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 
 ## PostScript 
 
