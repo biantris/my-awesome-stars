@@ -1304,6 +1304,8 @@
 
 ## others 
 
+- [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
+- [Gabriel-Valin/elk-node](https://github.com/Gabriel-Valin/elk-node) - 
 - [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [igorfelipeduca/meteor-zodern](https://github.com/igorfelipeduca/meteor-zodern) - 
 - [zodern/meteor-relay](https://github.com/zodern/meteor-relay) - Type safe Meteor methods and publications
@@ -1818,6 +1820,7 @@
 
 ## react 
 
+- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
