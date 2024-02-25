@@ -1708,7 +1708,6 @@
 - [JulianSuringa/quickstart-relay-modern](https://github.com/JulianSuringa/quickstart-relay-modern) - CRUD relay modern
 - [AJ-7885/React-Simple-ToDo-list](https://github.com/AJ-7885/React-Simple-ToDo-list) - The application base on Relay Kick Start kit . ( React.JS , Relay , GraphQL , Webpack and Yarn build process , )
 - [filippobarcellos/todolist](https://github.com/filippobarcellos/todolist) - Todo List built with React + Context Api + React Testing Library.
-- [diasjuniorr/foton-web-challenge](https://github.com/diasjuniorr/foton-web-challenge) - Developed a Book Search App as a challenge for Foton Tech.
 - [rafaelsza/gobarber-web](https://github.com/rafaelsza/gobarber-web) - [ GoBarber ] (Em desenvolvimento) Projeto web sendo desenvolvido durante o bootcamp GoStack da Rocketseat, utilizando ReactJS e TypeScript.
 - [lukemorales/gobarber-web](https://github.com/lukemorales/gobarber-web) - React Front-end for GoBarber App
 - [jonabf1/GoBarber](https://github.com/jonabf1/GoBarber) - 
