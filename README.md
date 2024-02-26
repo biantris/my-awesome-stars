@@ -1030,7 +1030,6 @@
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [angular/flex-layout](https://github.com/angular/flex-layout) - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [diasjuniorr/foton-web-challenge](https://github.com/diasjuniorr/foton-web-challenge) - Developed a Book Search App as a challenge for Foton Tech.
 - [rafaelsza/gobarber-web](https://github.com/rafaelsza/gobarber-web) - [ GoBarber ] (Em desenvolvimento) Projeto web sendo desenvolvido durante o bootcamp GoStack da Rocketseat, utilizando ReactJS e TypeScript.
 - [sibelius/landing-vpn](https://github.com/sibelius/landing-vpn) - Landing Page to practice CSS
 - [sibelius/relay-workshop](https://github.com/sibelius/relay-workshop) - Material for my Relay Workshop
@@ -1053,6 +1052,7 @@
 
 ## Vue 
 
+- [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
