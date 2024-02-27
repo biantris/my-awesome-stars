@@ -1443,7 +1443,7 @@
 - [LukeberryPi/job-log](https://github.com/LukeberryPi/job-log) - personal writings of my daily triumphs and challenges as a junior software engineer
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
 - [Odorizzi1/my-design](https://github.com/Odorizzi1/my-design) - 
 - [cxxxr/sblint](https://github.com/cxxxr/sblint) - A linter for Common Lisp source code using SBCL
