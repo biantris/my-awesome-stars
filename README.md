@@ -58,7 +58,7 @@
 
 ## Assembly 
 
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [justleoo/helloWorld](https://github.com/justleoo/helloWorld) - :hibiscus: just a project to show all types of hello world available!
 
 ## Astro 
