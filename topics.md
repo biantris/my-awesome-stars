@@ -1305,6 +1305,8 @@
 
 ## others 
 
+- [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to start building a full-stack application on Cloudflare.
+- [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
 - [healeycodes/doom-checkboxes](https://github.com/healeycodes/doom-checkboxes) - 🕹️ DOOM rendered via checkboxes in a web browser.
 - [MattCozendey/doom-console-log](https://github.com/MattCozendey/doom-console-log) - 🕹️ DOOM rendered via console.log() in a web browser.
 - [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
@@ -2124,6 +2126,7 @@
 
 ## typescript 
 
+- [mutoe/vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Explore the charm of Vue composition API! Vite?
 - [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [likui628/vue3-realworld-example-app](https://github.com/likui628/vue3-realworld-example-app) - real world example app
