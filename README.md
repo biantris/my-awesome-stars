@@ -501,6 +501,7 @@
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
 - [atomotavio/XML4Noobs](https://github.com/atomotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -717,7 +718,6 @@
 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lucasm/terminal](https://github.com/lucasm/terminal) - 💻 My terminal configs for macOS, Linux, and Windows.
-- [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [lanjoni/lpi4noobs](https://github.com/lanjoni/lpi4noobs) - Guia completo para preparação da certificação LPI Essentials (LPI LE-1)! 🐧
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
@@ -743,6 +743,8 @@
 
 ## TypeScript 
 
+- [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [mutoe/vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Explore the charm of Vue composition API! Vite?
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [Gabriel-Valin/elk-node](https://github.com/Gabriel-Valin/elk-node) - 
@@ -1056,6 +1058,7 @@
 
 ## Vue 
 
+- [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to start building a full-stack application on Cloudflare.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
 - [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
