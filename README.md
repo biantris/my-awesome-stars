@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
@@ -225,6 +226,7 @@
 
 ## Java 
 
+- [Quackster/Kepler](https://github.com/Quackster/Kepler) - A Habbo Hotel v14 server written in Java
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [TwilioDevEd/api-snippets](https://github.com/TwilioDevEd/api-snippets) - Code snippets for the Twilio API Documentation
