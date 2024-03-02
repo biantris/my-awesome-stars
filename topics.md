@@ -584,6 +584,7 @@
 
 ## emulator 
 
+- [Quackster/Kepler](https://github.com/Quackster/Kepler) - A Habbo Hotel v14 server written in Java
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 
 ## es6 
@@ -906,6 +907,7 @@
 
 ## java 
 
+- [Quackster/Kepler](https://github.com/Quackster/Kepler) - A Habbo Hotel v14 server written in Java
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -1308,6 +1310,7 @@
 
 ## others 
 
+- [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to start building a full-stack application on Cloudflare.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
@@ -2046,6 +2049,7 @@
 
 ## server 
 
+- [Quackster/Kepler](https://github.com/Quackster/Kepler) - A Habbo Hotel v14 server written in Java
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
