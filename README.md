@@ -1061,7 +1061,7 @@
 ## Vue 
 
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
-- [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to start building a full-stack application on Cloudflare.
+- [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to build a full-stack application on Cloudflare, with zero configuration.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
 - [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
