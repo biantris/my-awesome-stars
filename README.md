@@ -482,12 +482,13 @@
 
 ## OCaml 
 
-- [hnrbs/lambda-calculus](https://github.com/hnrbs/lambda-calculus) - 
+- [nothenrin/lambda-calculus](https://github.com/nothenrin/lambda-calculus) - 
 - [teikalang/teika](https://github.com/teikalang/teika) - 
 - [Camilotk/ocaml4noobs](https://github.com/Camilotk/ocaml4noobs) - Tutorial de OCaml para iniciantes na Linguagem.
 
 ## Others 
 
+- [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
@@ -634,7 +635,7 @@
 ## PHP 
 
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [hnrbs/money-transaction-system](https://github.com/hnrbs/money-transaction-system) - 
+- [nothenrin/money-transaction-system](https://github.com/nothenrin/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 
@@ -873,7 +874,7 @@
 - [wrongbyte/tuwuitter](https://github.com/wrongbyte/tuwuitter) - :sparkles: fullstack twitter clone developed with GraphQL and Relay
 - [fersilva16/ts-report-action](https://github.com/fersilva16/ts-report-action) - GitHub Action to report TypeScript errors in Pull Requests
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ the first open-source redis client made with care and acessibility-first 🚀
+- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ redis client made with care and acessibility-first 🚀
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [NicolasLopes7/personal-notification-system](https://github.com/NicolasLopes7/personal-notification-system) - Notification system, that schedules alarms on redis and send to all consumers.
