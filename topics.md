@@ -566,7 +566,7 @@
 
 ## electron 
 
-- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ the first open-source redis client made with care and acessibility-first 🚀
+- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ redis client made with care and acessibility-first 🚀
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1315,6 +1315,7 @@
 
 ## others 
 
+- [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
@@ -1359,7 +1360,7 @@
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
-- [hnrbs/lambda-calculus](https://github.com/hnrbs/lambda-calculus) - 
+- [nothenrin/lambda-calculus](https://github.com/nothenrin/lambda-calculus) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -1450,7 +1451,7 @@
 - [dellamora/framer-motion-intersection-observer-animations](https://github.com/dellamora/framer-motion-intersection-observer-animations) - 
 - [LFSCamargo/splitfy.app](https://github.com/LFSCamargo/splitfy.app) - Application to split bills
 - [joaotuliojt/churras-trinca](https://github.com/joaotuliojt/churras-trinca) - Desafio técnico da trin.ca
-- [hnrbs/money-transaction-system](https://github.com/hnrbs/money-transaction-system) - 
+- [nothenrin/money-transaction-system](https://github.com/nothenrin/money-transaction-system) - 
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
@@ -1878,7 +1879,7 @@
 - [wrongbyte/tuwuitter](https://github.com/wrongbyte/tuwuitter) - :sparkles: fullstack twitter clone developed with GraphQL and Relay
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ the first open-source redis client made with care and acessibility-first 🚀
+- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ redis client made with care and acessibility-first 🚀
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [danestves/danestves.com](https://github.com/danestves/danestves.com) - ✨ My portfolio built with Remix, Tailwind, Prisma, and Fly.io.
@@ -2188,7 +2189,7 @@
 - [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
 - [jrsousadev/fullcalendar-scheduler-web](https://github.com/jrsousadev/fullcalendar-scheduler-web) - 🗓️ Component inspired by google calendar [Next/React/Mui/Styled]
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
-- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ the first open-source redis client made with care and acessibility-first 🚀
+- [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ redis client made with care and acessibility-first 🚀
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [NicolasLopes7/personal-notification-system](https://github.com/NicolasLopes7/personal-notification-system) - Notification system, that schedules alarms on redis and send to all consumers.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
