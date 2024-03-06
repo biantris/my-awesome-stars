@@ -770,9 +770,9 @@
 - [oscartbeaumont/vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - A vite plugin for Relay
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [LauraBeatris/graphql-academy](https://github.com/LauraBeatris/graphql-academy) - Repository with all the code references from my workshop called "GraphQL Academy"
-- [entria/graphql-mongoose-loader](https://github.com/entria/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
+- [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
-- [entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
+- [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [guilhermedinardi/entria](https://github.com/guilhermedinardi/entria) - 
 - [Wellers0n/Backend-diff](https://github.com/Wellers0n/Backend-diff) - graphql vs rest
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
@@ -1153,7 +1153,7 @@
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
-- [entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
+- [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [guilhermedinardi/entria](https://github.com/guilhermedinardi/entria) - 
 - [matheustanaka/challengeGraphql](https://github.com/matheustanaka/challengeGraphql) - CRUD using Graphql, Apollo server and Mongodb.
 - [daniloab/koa-crud-backend](https://github.com/daniloab/koa-crud-backend) - Backend implementation of REST api with Node.js, Koa.js, MongoDB and Jest Tests
@@ -1162,7 +1162,7 @@
 
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
-- [entria/graphql-mongoose-loader](https://github.com/entria/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
+- [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 
 ## music 
 
@@ -1373,7 +1373,7 @@
 - [yayaflc/portfolio](https://github.com/yayaflc/portfolio) - 🌸 portfolio yaya.dev
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [entria/woovi-playground](https://github.com/entria/woovi-playground) - 
+- [woovibr/woovi-playground](https://github.com/woovibr/woovi-playground) - 
 - [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
@@ -1395,7 +1395,7 @@
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [ramonxm/functional-programming](https://github.com/ramonxm/functional-programming) - 🔢 |  Repository applying functional programming.
-- [entria/apiWithLog](https://github.com/entria/apiWithLog) - Powerful Fetch
+- [woovibr/apiWithLog](https://github.com/woovibr/apiWithLog) - Powerful Fetch
 - [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
@@ -1649,7 +1649,7 @@
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
 - [Guilherme775/Transfer-cardano](https://github.com/Guilherme775/Transfer-cardano) - simple plutus script to transfer ada
 - [tanhauhau/byo-bundler](https://github.com/tanhauhau/byo-bundler) - Build Your Own Bundler
-- [entria/codemods](https://github.com/entria/codemods) - Node.js/Javascript codemods used at @entria
+- [woovibr/codemods](https://github.com/woovibr/codemods) - Node.js/Javascript codemods used at @entria
 - [rolfschr/GSWL-book](https://github.com/rolfschr/GSWL-book) - This repository contains the content of the book Getting Started With Ledger.
 - [sibelius/create-react-app-relay-modern](https://github.com/sibelius/create-react-app-relay-modern) - Create React App + Relay Modern
 - [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
@@ -1719,7 +1719,7 @@
 - [contra/graphql-helix](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server 🧬
 - [allabouttech0803/graphql-mongodb-typescript-blog](https://github.com/allabouttech0803/graphql-mongodb-typescript-blog) - 
 - [Open-Pix/expo-openpix-demo](https://github.com/Open-Pix/expo-openpix-demo) - OpenPix Demo Integration with Expo
-- [Open-Pix/node-backend-integration](https://github.com/Open-Pix/node-backend-integration) - OpenPix Backend Integration
+- [woovibr/node-backend-integration](https://github.com/woovibr/node-backend-integration) - OpenPix Backend Integration
 - [sibelius/tiny-koa-graphql](https://github.com/sibelius/tiny-koa-graphql) - a tiny koa GraphQL implementation using Webpack
 - [sibelius/recoil-todo](https://github.com/sibelius/recoil-todo) - Recoil Todo App
 - [JulianSuringa/quickstart-relay-modern](https://github.com/JulianSuringa/quickstart-relay-modern) - CRUD relay modern
@@ -2229,7 +2229,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
-- [entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
+- [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
