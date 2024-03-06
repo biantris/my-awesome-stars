@@ -770,7 +770,7 @@
 - [EmanuelCampos/monorepo-llama-index](https://github.com/EmanuelCampos/monorepo-llama-index) - Packages to use llama indexes on a react app with flask
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
-- [entria/woovi-playground](https://github.com/entria/woovi-playground) - 
+- [woovibr/woovi-playground](https://github.com/woovibr/woovi-playground) - 
 - [Nick-Gabe/central-nickgabe](https://github.com/Nick-Gabe/central-nickgabe) - Um site para ver assuntos dos quais eu já ensinei ou falei sobre.
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
@@ -782,7 +782,7 @@
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
-- [entria/apiWithLog](https://github.com/entria/apiWithLog) - Powerful Fetch
+- [woovibr/apiWithLog](https://github.com/woovibr/apiWithLog) - Powerful Fetch
 - [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
@@ -979,7 +979,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ktfth/typescript-livro-de-bolso](https://github.com/ktfth/typescript-livro-de-bolso) - Um livro breve para conceitos avançados utilizando typescript
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
-- [entria/codemods](https://github.com/entria/codemods) - Node.js/Javascript codemods used at @entria
+- [woovibr/codemods](https://github.com/woovibr/codemods) - Node.js/Javascript codemods used at @entria
 - [noghartt/fakeddit](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
@@ -988,7 +988,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [aelbore/esbuild-jest](https://github.com/aelbore/esbuild-jest) - A Jest transformer using esbuild
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
-- [entria/graphql-mongoose-loader](https://github.com/entria/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
+- [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [sibelius/arena](https://github.com/sibelius/arena) - arena UI for bulljs runner
 - [relay-tools/relay-compiler-language-typescript](https://github.com/relay-tools/relay-compiler-language-typescript) - ⛔️ Obsolete - A language plugin for Relay that adds TypeScript support, including emitting type definitions.
@@ -1002,7 +1002,7 @@
 - [Streeterxs/mongoose-partial-dump](https://github.com/Streeterxs/mongoose-partial-dump) - A partial dumper for mongoose/mongoDB
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
 - [microsoft/pxt-adafruit](https://github.com/microsoft/pxt-adafruit) - Microsoft MakeCode editor for Adafruit Circuit Playground Express
-- [entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
+- [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Wellers0n/Backend-diff](https://github.com/Wellers0n/Backend-diff) - graphql vs rest
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
@@ -1030,7 +1030,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [allabouttech0803/graphql-mongodb-typescript-blog](https://github.com/allabouttech0803/graphql-mongodb-typescript-blog) - 
 - [Open-Pix/expo-openpix-demo](https://github.com/Open-Pix/expo-openpix-demo) - OpenPix Demo Integration with Expo
-- [Open-Pix/node-backend-integration](https://github.com/Open-Pix/node-backend-integration) - OpenPix Backend Integration
+- [woovibr/node-backend-integration](https://github.com/woovibr/node-backend-integration) - OpenPix Backend Integration
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [sibelius/recoil-todo](https://github.com/sibelius/recoil-todo) - Recoil Todo App
