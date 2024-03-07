@@ -1061,6 +1061,7 @@
 
 ## Vue 
 
+- [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to build a full-stack application on Cloudflare, with zero configuration.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
