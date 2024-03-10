@@ -1008,7 +1008,7 @@
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
 - [arantespp/arantespp.com](https://github.com/arantespp/arantespp.com) - 
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
-- [gregnb/react-to-print](https://github.com/gregnb/react-to-print) - Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE
+- [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print) - Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE
 - [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [sibelius/relay-realworld](https://github.com/sibelius/relay-realworld) - Relay Real World example
 - [sibelius/js-playground](https://github.com/sibelius/js-playground) - JavaScript Playground similar to runkit but on top of MDX and local first
