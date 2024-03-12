@@ -792,7 +792,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - Micro Frontends Next Generation – A Serverless RSC Playground
-- [LukeberryPi/phived](https://github.com/LukeberryPi/phived) - phived.com is the anti-procrastination to-do list. list five things you wish to get done. to add more tasks, complete existing ones! no login, no cookies, no images and no ads. just you and your next 
+- [LukeberryPi/phived](https://github.com/LukeberryPi/phived) - An anti-procrastination to-do list.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
