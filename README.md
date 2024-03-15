@@ -38,7 +38,6 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [PostScript](#postscript)
 - [Python](#python)
 - [ReScript](#rescript)
@@ -193,6 +192,7 @@
 
 ## HTML 
 
+- [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [yayaflc/portfolio](https://github.com/yayaflc/portfolio) - 🌸 portfolio yaya.dev
 - [Grubba27/golings-site](https://github.com/Grubba27/golings-site) - Golings website
@@ -641,10 +641,6 @@
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 
-## PLpgSQL 
-
-- [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
-
 ## PostScript 
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -793,7 +789,7 @@
 - [joao-pedrozo/shoppingify-client](https://github.com/joao-pedrozo/shoppingify-client) - 
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
-- [unstubbable/mfng](https://github.com/unstubbable/mfng) - Micro Frontends Next Generation – A Serverless RSC Playground
+- [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
 - [LukeberryPi/phived](https://github.com/LukeberryPi/phived) - An anti-procrastination to-do list.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
