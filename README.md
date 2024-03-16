@@ -214,10 +214,10 @@
 ## Haskell 
 
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides
-- [Guilherme775/Haskell-CRUD](https://github.com/Guilherme775/Haskell-CRUD) - the best CRUD in the world
-- [Guilherme775/lisp-to-js](https://github.com/Guilherme775/lisp-to-js) - Simple Lisp to JavaScript compiler written in Haskell :)
+- [KindaSloth/Haskell-CRUD](https://github.com/KindaSloth/Haskell-CRUD) - the best CRUD in the world
+- [KindaSloth/lisp-to-js](https://github.com/KindaSloth/lisp-to-js) - Simple Lisp to JavaScript compiler written in Haskell :)
 - [fersilva16/aoc2021](https://github.com/fersilva16/aoc2021) - Advent of Code solutions in Haskell
-- [Guilherme775/Transfer-cardano](https://github.com/Guilherme775/Transfer-cardano) - simple plutus script to transfer ada
+- [KindaSloth/Transfer-cardano](https://github.com/KindaSloth/Transfer-cardano) - simple plutus script to transfer ada
 
 ## Idris 
 
@@ -416,6 +416,7 @@
 - [sibelius/graphql-mock-api](https://github.com/sibelius/graphql-mock-api) - A GraphQL mock to any GraphQL schema
 - [daniloab/covid19-explicado](https://github.com/daniloab/covid19-explicado) - Repositório criado com o intuito de explicar, conscientizar e alertar a população sobre o vírus que gerou a pandemia.
 - [google/data-layer-helper](https://github.com/google/data-layer-helper) - JavaScript library for working with dataLayer message queues.
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [filippobarcellos/instagram-clone-react](https://github.com/filippobarcellos/instagram-clone-react) - Instagram clone built with React & Node.js
 - [sibelius/tiny-koa-graphql](https://github.com/sibelius/tiny-koa-graphql) - a tiny koa GraphQL implementation using Webpack
 - [JulianSuringa/quickstart-relay-modern](https://github.com/JulianSuringa/quickstart-relay-modern) - CRUD relay modern
@@ -601,7 +602,7 @@
 - [juntossomosmais/frontend-challenge](https://github.com/juntossomosmais/frontend-challenge) - 🚀 Our hiring challenge to Front-end Developers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
-- [Guilherme775/Haskell4Noobs](https://github.com/Guilherme775/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
+- [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
@@ -808,7 +809,7 @@
 - [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
-- [Guilherme775/zod-express-endpoint](https://github.com/Guilherme775/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
+- [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
 - [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
 - [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
@@ -1019,7 +1020,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [sibelius/mongodb-transactions](https://github.com/sibelius/mongodb-transactions) - Mongodb Transactions using Two Phase commits
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
 - [daniloab/fullstack-playground](https://github.com/daniloab/fullstack-playground) - Monorepo playground with GraphQL Server, Rest API Server, typescript config, test utils, jest config, webpack and more
