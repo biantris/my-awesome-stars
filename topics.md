@@ -861,7 +861,7 @@
 ## haskell 
 
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides
-- [Guilherme775/Haskell4Noobs](https://github.com/Guilherme775/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
+- [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 
 ## homebrew 
 
@@ -1440,7 +1440,7 @@
 - [lincolixavier/crimson-template](https://github.com/lincolixavier/crimson-template) - A starter portfolio/blog theme designed by me and created for developers tell stories about their work. 🚀
 - [mauricioabreu/tutorial-de-go](https://github.com/mauricioabreu/tutorial-de-go) - 
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
-- [Guilherme775/zod-express-endpoint](https://github.com/Guilherme775/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
+- [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
 - [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
 - [biantris/basic-api](https://github.com/biantris/basic-api) - API w/ Node.js, Express.js, MongoDB and Mongoose
 - [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
@@ -1615,8 +1615,8 @@
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [csr632/test-vite](https://github.com/csr632/test-vite) - 
-- [Guilherme775/Haskell-CRUD](https://github.com/Guilherme775/Haskell-CRUD) - the best CRUD in the world
-- [Guilherme775/lisp-to-js](https://github.com/Guilherme775/lisp-to-js) - Simple Lisp to JavaScript compiler written in Haskell :)
+- [KindaSloth/Haskell-CRUD](https://github.com/KindaSloth/Haskell-CRUD) - the best CRUD in the world
+- [KindaSloth/lisp-to-js](https://github.com/KindaSloth/lisp-to-js) - Simple Lisp to JavaScript compiler written in Haskell :)
 - [sibelius/circleci-cancel](https://github.com/sibelius/circleci-cancel) - Cancel CircleCI pipeline per branch
 - [Wellers0n/4Fun-Fullstack](https://github.com/Wellers0n/4Fun-Fullstack) - Boilerplate fullstack using backend with graphql and frontend with relay
 - [sibelius/relay-concepts](https://github.com/sibelius/relay-concepts) - Relay Concepts
@@ -1649,7 +1649,7 @@
 - [fersilva16/aoc2021](https://github.com/fersilva16/aoc2021) - Advent of Code solutions in Haskell
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
-- [Guilherme775/Transfer-cardano](https://github.com/Guilherme775/Transfer-cardano) - simple plutus script to transfer ada
+- [KindaSloth/Transfer-cardano](https://github.com/KindaSloth/Transfer-cardano) - simple plutus script to transfer ada
 - [tanhauhau/byo-bundler](https://github.com/tanhauhau/byo-bundler) - Build Your Own Bundler
 - [woovibr/codemods](https://github.com/woovibr/codemods) - Node.js/Javascript codemods used at @entria
 - [rolfschr/GSWL-book](https://github.com/rolfschr/GSWL-book) - This repository contains the content of the book Getting Started With Ledger.
