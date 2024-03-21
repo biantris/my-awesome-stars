@@ -745,6 +745,7 @@
 
 ## TypeScript 
 
+- [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [mutoe/vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Explore the charm of Vue composition API! Vite?
