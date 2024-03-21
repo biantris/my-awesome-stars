@@ -1317,6 +1317,7 @@
 
 ## others 
 
+- [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 - [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
