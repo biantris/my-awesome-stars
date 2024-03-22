@@ -416,7 +416,6 @@
 - [sibelius/graphql-mock-api](https://github.com/sibelius/graphql-mock-api) - A GraphQL mock to any GraphQL schema
 - [daniloab/covid19-explicado](https://github.com/daniloab/covid19-explicado) - Repositório criado com o intuito de explicar, conscientizar e alertar a população sobre o vírus que gerou a pandemia.
 - [google/data-layer-helper](https://github.com/google/data-layer-helper) - JavaScript library for working with dataLayer message queues.
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [filippobarcellos/instagram-clone-react](https://github.com/filippobarcellos/instagram-clone-react) - Instagram clone built with React & Node.js
 - [sibelius/tiny-koa-graphql](https://github.com/sibelius/tiny-koa-graphql) - a tiny koa GraphQL implementation using Webpack
 - [JulianSuringa/quickstart-relay-modern](https://github.com/JulianSuringa/quickstart-relay-modern) - CRUD relay modern
@@ -1021,6 +1020,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [sibelius/mongodb-transactions](https://github.com/sibelius/mongodb-transactions) - Mongodb Transactions using Two Phase commits
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [browniebroke/gatsby-image-gallery](https://github.com/browniebroke/gatsby-image-gallery) - Very basic gallery grid based on gatsby-image
 - [daniloab/fullstack-playground](https://github.com/daniloab/fullstack-playground) - Monorepo playground with GraphQL Server, Rest API Server, typescript config, test utils, jest config, webpack and more
