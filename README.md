@@ -657,7 +657,7 @@
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [EduardoJM/django-full-text-search](https://github.com/EduardoJM/django-full-text-search) - Projeto que visa implementar o sistema de Full-Text Search do Postgres com o Django
 - [EmanuelCampos/questions-classifier](https://github.com/EmanuelCampos/questions-classifier) - Classifier questions as good or bad using logistic regression
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
