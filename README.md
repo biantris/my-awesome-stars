@@ -744,6 +744,7 @@
 
 ## TypeScript 
 
+- [samthor/kuto](https://github.com/samthor/kuto) - Faster updates for big JS projects
 - [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
