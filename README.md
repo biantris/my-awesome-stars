@@ -744,6 +744,8 @@
 
 ## TypeScript 
 
+- [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
+- [transitive-bullshit/react-static-tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
 - [samthor/kuto](https://github.com/samthor/kuto) - Faster updates for big JS projects
 - [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
