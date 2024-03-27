@@ -744,6 +744,7 @@
 
 ## TypeScript 
 
+- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
 - [transitive-bullshit/react-static-tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
 - [samthor/kuto](https://github.com/samthor/kuto) - Faster updates for big JS projects
