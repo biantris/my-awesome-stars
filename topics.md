@@ -954,7 +954,7 @@
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1651,7 +1651,7 @@
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
 - [italosantana/jogo-do-bicho-javascript](https://github.com/italosantana/jogo-do-bicho-javascript) - 
-- [lincolixavier/eXtreme-Programming-resources](https://github.com/lincolixavier/eXtreme-Programming-resources) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
+- [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
 - [jondcallahan/remix-auth](https://github.com/jondcallahan/remix-auth) - A fully featured auth system built on Remix
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ktfth/typescript-livro-de-bolso](https://github.com/ktfth/typescript-livro-de-bolso) - Um livro breve para conceitos avançados utilizando typescript
@@ -1891,7 +1891,7 @@
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [wrongbyte/tuwuitter](https://github.com/wrongbyte/tuwuitter) - :sparkles: fullstack twitter clone developed with GraphQL and Relay
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -2321,7 +2321,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - A lightweight React library for rendering complex After Effects animations in real time using Lottie.
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
