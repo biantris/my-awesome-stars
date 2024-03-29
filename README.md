@@ -200,7 +200,6 @@
 - [lincolixavier/crimson-template](https://github.com/lincolixavier/crimson-template) - A starter portfolio/blog theme designed by me and created for developers tell stories about their work. 🚀
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
 - [birobirobiro/macos-portfolio](https://github.com/birobirobiro/macos-portfolio) - Portfolio based in macOS Classic
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
@@ -287,6 +286,7 @@
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
 - [Epharmix/Toureiro](https://github.com/Epharmix/Toureiro) - A web monitor for the bull library.
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
@@ -592,7 +592,7 @@
 - [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
-- [lincolixavier/eXtreme-Programming-resources](https://github.com/lincolixavier/eXtreme-Programming-resources) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
+- [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [web3brasil/web3brasil](https://github.com/web3brasil/web3brasil) - Recursos pra aprender Web3 e DeFi
 - [Camilotk/exercicios-algoritmos](https://github.com/Camilotk/exercicios-algoritmos) - 📖 Exercicios de Algoritmos da UBL
