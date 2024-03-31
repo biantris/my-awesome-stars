@@ -26,6 +26,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Logos](#logos)
@@ -436,6 +437,10 @@
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you understand python from the scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
+## Just 
+
+- [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
+
 ## Kotlin 
 
 - [ramonxm/searchvoice](https://github.com/ramonxm/searchvoice) - 🔊 | A repository to implementation search voice in React Native
@@ -490,7 +495,6 @@
 
 ## Others 
 
-- [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
 - [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
