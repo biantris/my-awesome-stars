@@ -1328,6 +1328,7 @@
 
 ## others 
 
+- [jgcmarins/mongodb-for-fintechs](https://github.com/jgcmarins/mongodb-for-fintechs) - 
 - [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
 - [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 - [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
