@@ -153,7 +153,7 @@
 
 ## Go 
 
-- [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
+- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
