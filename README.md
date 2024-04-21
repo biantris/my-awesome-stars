@@ -153,7 +153,7 @@
 
 ## Go 
 
-- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
+- [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
@@ -815,7 +815,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [NicolasLopes7/ts-async-kit](https://github.com/NicolasLopes7/ts-async-kit) - the easiest API to deal with promises in Typescript. Currently, ↩️ Retrying 🏃‍♂️ looping & 😴 sleeping
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
 - [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
@@ -956,7 +956,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite) - A builder plugin to run and build Storybooks with Vite
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
-- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - The easiest way to collect, manage, and consume real-time data to fuel personalized experiences.
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [alvarosabu/modern-three](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.
@@ -1082,7 +1082,7 @@
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
 - [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
 - [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
