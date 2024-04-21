@@ -726,7 +726,7 @@
 
 ## golang 
 
-- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
+- [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
 - [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication and Redis cache
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
@@ -1407,7 +1407,7 @@
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [Grubba27/golings-site](https://github.com/Grubba27/golings-site) - Golings website
 - [rajasegar/cl-warehouse](https://github.com/rajasegar/cl-warehouse) - A sample Warehouse management app in Common Lisp
 - [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
@@ -1456,7 +1456,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [computacaoraiz/aprenda-lisp](https://github.com/computacaoraiz/aprenda-lisp) - Estudo de Common Lisp pelo livro do Touretzky
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [extensibleweb/manifesto](https://github.com/extensibleweb/manifesto) - The Extensible Web Manifesto
 - [kaduwaengertner/obs4noobs](https://github.com/kaduwaengertner/obs4noobs) - 
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
@@ -1633,7 +1633,7 @@
 - [endel/shieldsio-patreon](https://github.com/endel/shieldsio-patreon) - 🛡 Shields.io endpoint to display amount of donations/patrons you have on Patreon
 - [learning-in-public/learn-you-computer-science](https://github.com/learning-in-public/learn-you-computer-science) - 
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
-- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
