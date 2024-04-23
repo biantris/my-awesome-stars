@@ -1339,6 +1339,7 @@
 
 ## others 
 
+- [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [leandronsp/magali](https://github.com/leandronsp/magali) - A minimalist yet multi-threaded HTTP server coded in pure Assembly x86
 - [jgcmarins/mongodb-for-fintechs](https://github.com/jgcmarins/mongodb-for-fintechs) - 
