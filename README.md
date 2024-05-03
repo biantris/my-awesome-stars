@@ -563,7 +563,6 @@
 - [luistak/idp-guideline](https://github.com/luistak/idp-guideline) - This guideline aims to help you prepare and elaborate your development plan based on a kaizen recurrent methodology.
 - [worklab1/fullstack_challenge](https://github.com/worklab1/fullstack_challenge) - 
 - [maateusilva/display-automations](https://github.com/maateusilva/display-automations) - Scripts made with AppleScript to automate the display settings on Macs.
-- [tractian/fake-api](https://github.com/tractian/fake-api) - 
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
