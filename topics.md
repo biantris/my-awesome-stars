@@ -1563,7 +1563,6 @@
 - [scarletquasar/docker-api-melon](https://github.com/scarletquasar/docker-api-melon) - Docker MelonRuntime API + Dockerfile
 - [eslint/eslint.org](https://github.com/eslint/eslint.org) - ESLint website
 - [maateusilva/display-automations](https://github.com/maateusilva/display-automations) - Scripts made with AppleScript to automate the display settings on Macs.
-- [tractian/fake-api](https://github.com/tractian/fake-api) - 
 - [GBDev13/ip-address-tracker](https://github.com/GBDev13/ip-address-tracker) - Aplicação desenvolvida durante um desafio do Front-end Mentor
 - [Wellers0n/binary-search-javascript](https://github.com/Wellers0n/binary-search-javascript) - binary search using javascript
 - [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
