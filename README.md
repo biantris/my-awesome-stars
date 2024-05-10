@@ -48,6 +48,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -740,6 +741,10 @@
 
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - The companion to the Youtube tutorials
+
+## Svelte 
+
+- [duplicateduuid/banoffee](https://github.com/duplicateduuid/banoffee) - Banoffee is a social networking platform tailored for avid readers and knowledge seekers.
 
 ## TeX 
 
