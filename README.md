@@ -495,6 +495,7 @@
 
 ## Others 
 
+- [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 - [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
