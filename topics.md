@@ -53,6 +53,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -554,6 +555,10 @@
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus with Redoc
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+## dotfiles 
+
+- [zoedsoupe/zoeyrinha](https://github.com/zoedsoupe/zoeyrinha) - Venha você pra zoeyrinha também ksksks (config pessoal feita em nix)
 
 ## dotnet 
 
@@ -1414,7 +1419,6 @@
 - [rajasegar/cl-warehouse](https://github.com/rajasegar/cl-warehouse) - A sample Warehouse management app in Common Lisp
 - [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 - [EmanuelCampos/questions-classifier](https://github.com/EmanuelCampos/questions-classifier) - Classifier questions as good or bad using logistic regression
-- [zoedsoupe/zoeyrinha](https://github.com/zoedsoupe/zoeyrinha) - Venha você pra zoeyrinha também ksksks (config pessoal feita em nix)
 - [glaucia86/dab-workshop](https://github.com/glaucia86/dab-workshop) - 
 - [vncsmrqs/test-globo-api](https://github.com/vncsmrqs/test-globo-api) - 
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
