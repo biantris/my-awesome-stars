@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -124,6 +125,10 @@
 - [franzinc/aserve](https://github.com/franzinc/aserve) - AllegroServe, a web server written in Common Lisp
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
+
+## Cuda 
+
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 
 ## Dart 
 
@@ -696,7 +701,6 @@
 
 ## Rust 
 
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
