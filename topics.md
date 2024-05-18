@@ -483,7 +483,6 @@
 
 ## data-structures 
 
-- [murillo-nahas/data-structures](https://github.com/murillo-nahas/data-structures) - 💻 Some data structures, algorithms and other stuff
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
@@ -1124,6 +1123,7 @@
 
 ## macos 
 
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
@@ -1198,6 +1198,7 @@
 
 ## neovim 
 
+- [rafa-thayto/lazy-thayto-vim](https://github.com/rafa-thayto/lazy-thayto-vim) - LazyVIM blaster master custom configs 🔥
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1343,6 +1344,8 @@
 
 ## others 
 
+- [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [duplicateduuid/banoffee](https://github.com/duplicateduuid/banoffee) - Banoffee is a social networking platform tailored for avid readers and knowledge seekers.
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
@@ -2202,7 +2205,6 @@
 - [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [murillo-nahas/data-structures](https://github.com/murillo-nahas/data-structures) - 💻 Some data structures, algorithms and other stuff
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
