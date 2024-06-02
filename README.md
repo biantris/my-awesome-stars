@@ -705,6 +705,7 @@
 
 ## Rust 
 
+- [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
