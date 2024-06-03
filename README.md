@@ -502,6 +502,7 @@
 
 ## Others 
 
+- [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
 - [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
