@@ -1344,6 +1344,7 @@
 
 ## others 
 
+- [DanielHe4rt/ascii-image-converter-rs](https://github.com/DanielHe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
