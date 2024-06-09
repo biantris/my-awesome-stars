@@ -887,7 +887,7 @@
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
-- [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
+- [thiagosousa-dev/myPortfolio](https://github.com/thiagosousa-dev/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
 - [mpfdev/spaceTourismChallenge](https://github.com/mpfdev/spaceTourismChallenge) - Frontend Mentor | Space tourism multi-page website
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
@@ -989,7 +989,7 @@
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [Nick-Gabe/hackerman](https://github.com/Nick-Gabe/hackerman) - Website to simulate writing code, just as how films show.
-- [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
+- [thiagosousa-dev/myPortfolio](https://github.com/thiagosousa-dev/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1957,7 +1957,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
-- [thiagodanobrega/myPortfolio](https://github.com/thiagodanobrega/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
+- [thiagosousa-dev/myPortfolio](https://github.com/thiagosousa-dev/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
 - [danbovey/react-infinite-scroller](https://github.com/danbovey/react-infinite-scroller) - ⏬ Infinite scroll component for React in ES6
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
