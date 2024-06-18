@@ -641,7 +641,7 @@
 
 ## finance 
 
-- [pixelsbyeryc/home-bills](https://github.com/pixelsbyeryc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
+- [eryc-cc/home-bills](https://github.com/eryc-cc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
 
 ## firebase 
 
