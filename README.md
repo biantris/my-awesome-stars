@@ -89,7 +89,7 @@
 - [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 - [HenriqueBros/Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) - Tutorial de Arduino para iniciantes
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [designerjgames/Jack](https://github.com/designerjgames/Jack) - Enhanced Jack Compiler (with inheritance, polymorphism and more)
@@ -108,7 +108,7 @@
 
 ## Clojure 
 
-- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
+- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - ✨ Programming Language Research, Applied PLT & Compilers
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [zoedsoupe/weather-playlist](https://github.com/zoedsoupe/weather-playlist) - Generates a Spotify song playlist based on your city's temperature!
@@ -288,7 +288,7 @@
 - [Grazinascito/Brainzi](https://github.com/Grazinascito/Brainzi) - 🧠A document that contains my learnings about web development and software engineering. Inspired by @biantris
 - [discord/eslint-traverse](https://github.com/discord/eslint-traverse) - Create a sub-traversal of an AST node in your ESLint plugin
 - [vinibgoulart/zettelkasten](https://github.com/vinibgoulart/zettelkasten) - 📄 Thoughts and Blog
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
@@ -297,7 +297,7 @@
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
 - [Epharmix/Toureiro](https://github.com/Epharmix/Toureiro) - A web monitor for the bull library.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
