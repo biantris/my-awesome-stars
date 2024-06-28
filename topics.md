@@ -201,7 +201,7 @@
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -411,7 +411,7 @@
 
 ## compiler 
 
-- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
+- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - ✨ Programming Language Research, Applied PLT & Compilers
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [mgechev/tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and compiler of arithmetic expressions.
@@ -427,7 +427,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
@@ -491,7 +491,7 @@
 
 ## data-structures 
 
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -668,7 +668,7 @@
 - [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [mauriciomutte/learn-frontend-infrastructure](https://github.com/mauriciomutte/learn-frontend-infrastructure) - 📚 Studies about Frontend infrastructure
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
@@ -964,7 +964,7 @@
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
@@ -972,7 +972,7 @@
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -993,7 +993,7 @@
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [Nick-Gabe/hackerman](https://github.com/Nick-Gabe/hackerman) - Website to simulate writing code, just as how films show.
 - [thiagosousa-dev/myPortfolio](https://github.com/thiagosousa-dev/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
@@ -1872,7 +1872,7 @@
 - [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2024.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1936,7 +1936,7 @@
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [wrongbyte/tuwuitter](https://github.com/wrongbyte/tuwuitter) - :sparkles: fullstack twitter clone developed with GraphQL and Relay
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -2262,7 +2262,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
@@ -2383,7 +2383,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - A lightweight React library for rendering complex After Effects animations in real time using Lottie.
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
