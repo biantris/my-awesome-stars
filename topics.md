@@ -670,7 +670,7 @@
 - [mauriciomutte/learn-frontend-infrastructure](https://github.com/mauriciomutte/learn-frontend-infrastructure) - 📚 Studies about Frontend infrastructure
 - [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
+- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
@@ -970,7 +970,7 @@
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
-- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
+- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -1933,7 +1933,7 @@
 - [its-danny/use-lilius](https://github.com/its-danny/use-lilius) - 📅 A headless calendar hook for React.
 - [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
 - [jrsousadev/fullcalendar-scheduler-web](https://github.com/jrsousadev/fullcalendar-scheduler-web) - 🗓️ Component inspired by google calendar [Next/React/Mui/Styled]
-- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - Research, studies, and practice on Frontend
+- [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
