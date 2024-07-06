@@ -231,7 +231,7 @@
 ## Idris 
 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
-- [algebraic-sofia/Idris2Noobs](https://github.com/algebraic-sofia/Idris2Noobs) - Idris2 para falantes de portugues.
+- [the-sofi-uwu/Idris2Noobs](https://github.com/the-sofi-uwu/Idris2Noobs) - Idris2 para falantes de portugues.
 
 ## Java 
 
@@ -454,7 +454,7 @@
 
 ## Lean 
 
-- [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
+- [the-sofi-uwu/soda](https://github.com/the-sofi-uwu/soda) - 🥤 | Toy parser combinator
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Logos 
@@ -470,7 +470,7 @@
 ## MDX 
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural design methodology for Frontend projects
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
 ## Makefile 
@@ -710,7 +710,7 @@
 - [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
-- [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [the-sofi-uwu/vulpi](https://github.com/the-sofi-uwu/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
 - [somecodingwitch/rust-rest-api](https://github.com/somecodingwitch/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
