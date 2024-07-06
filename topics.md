@@ -669,6 +669,7 @@
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [mauriciomutte/learn-frontend-infrastructure](https://github.com/mauriciomutte/learn-frontend-infrastructure) - 📚 Studies about Frontend infrastructure
 - [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
@@ -834,7 +835,7 @@
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
-- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural design methodology for Frontend projects
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
@@ -1409,8 +1410,8 @@
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [s2te/study_projects](https://github.com/s2te/study_projects) - repository to share study projects, including courses and my own.
 - [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
-- [algebraic-sofia/vulpi](https://github.com/algebraic-sofia/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
-- [algebraic-sofia/soda](https://github.com/algebraic-sofia/soda) - 🥤 | Toy parser combinator
+- [the-sofi-uwu/vulpi](https://github.com/the-sofi-uwu/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [the-sofi-uwu/soda](https://github.com/the-sofi-uwu/soda) - 🥤 | Toy parser combinator
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [bellamariz/nginx-playground](https://github.com/bellamariz/nginx-playground) - 
@@ -1719,7 +1720,7 @@
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
 - [fersilva16/minimalistic-icons](https://github.com/fersilva16/minimalistic-icons) - 
-- [algebraic-sofia/Idris2Noobs](https://github.com/algebraic-sofia/Idris2Noobs) - Idris2 para falantes de portugues.
+- [the-sofi-uwu/Idris2Noobs](https://github.com/the-sofi-uwu/Idris2Noobs) - Idris2 para falantes de portugues.
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
 - [sibelius/arena](https://github.com/sibelius/arena) - arena UI for bulljs runner
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
