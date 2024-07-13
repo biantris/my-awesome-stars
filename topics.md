@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
@@ -88,6 +89,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -206,6 +208,10 @@
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## android 
+
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 
 ## angular 
 
@@ -922,6 +928,10 @@
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
+## ios 
+
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
+
 ## iot 
 
 - [JPHutchins/open-energy-view](https://github.com/JPHutchins/open-energy-view) - View resource consumption trends, history, analysis, and insights.
@@ -1170,6 +1180,7 @@
 
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 
 ## mongodb 
 
@@ -1181,7 +1192,7 @@
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
@@ -1193,7 +1204,7 @@
 ## mongoose 
 
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
-- [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 
 ## music 
@@ -1992,6 +2003,7 @@
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
 - [ricokahler/hocify](https://github.com/ricokahler/hocify) - a simple library that converts hooks to HOCs for compatibility with class-based components.
 - [guilhermedinardi/entria](https://github.com/guilhermedinardi/entria) - 
@@ -2023,7 +2035,7 @@
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
 - [akinncar/ar-nft](https://github.com/akinncar/ar-nft) - 👾 A React Native app to visualize your NFTs in AR
 - [akinncar/talk-rn-architecture-21](https://github.com/akinncar/talk-rn-architecture-21) - 
-- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A tool for building your best shopping app
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [akinncar/rn-mirror-lists](https://github.com/akinncar/rn-mirror-lists) - 🪞 Mirror scroll lists for React Native
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
@@ -2206,7 +2218,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
-- [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [jgcmarins/rtl-everywhere](https://github.com/jgcmarins/rtl-everywhere) - [WIP] React Testing Library everywhere
 
 ## twitter 
@@ -2310,6 +2322,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
