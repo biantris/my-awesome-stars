@@ -950,7 +950,7 @@
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [codecov/example-typescript](https://github.com/codecov/example-typescript) - Example repo for uploading reports to Codecov https://codecov.io
-- [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
 - [FotonTech/golden-stack](https://github.com/FotonTech/golden-stack) - The Golden Stack - Foton Tech secrets and playground for bleeding edge concepts
@@ -1031,7 +1031,7 @@
 - [Streeterxs/mongoose-partial-monorepo-example](https://github.com/Streeterxs/mongoose-partial-monorepo-example) - example of monorepo package which uses mongoose-partial-dump
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [sibelius/ui-boilerplate](https://github.com/sibelius/ui-boilerplate) - Basic UI boilerplate to practice CSS
-- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A tool for building your best shopping app
+- [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [akinncar/rn-mirror-lists](https://github.com/akinncar/rn-mirror-lists) - 🪞 Mirror scroll lists for React Native
 - [Streeterxs/mongoose-partial-dump](https://github.com/Streeterxs/mongoose-partial-dump) - A partial dumper for mongoose/mongoDB
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
