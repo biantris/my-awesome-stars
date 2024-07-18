@@ -1192,7 +1192,7 @@
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
@@ -1204,7 +1204,7 @@
 ## mongoose 
 
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
-- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
 - [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
 
 ## music 
@@ -2218,7 +2218,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
-- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
+- [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
 - [jgcmarins/rtl-everywhere](https://github.com/jgcmarins/rtl-everywhere) - [WIP] React Testing Library everywhere
 
 ## twitter 
