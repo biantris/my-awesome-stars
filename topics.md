@@ -149,6 +149,7 @@
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -1683,7 +1684,6 @@
 - [somecodingwitch/ReactTsWebpack.QuickBoilerplate](https://github.com/somecodingwitch/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 Readme Generator for Visual Studio Code ❤️
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [csr632/test-vite](https://github.com/csr632/test-vite) - 
@@ -2104,6 +2104,10 @@
 ## reverse-engineering 
 
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
+
+## robotics 
+
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 
 ## ruby 
 
