@@ -683,7 +683,7 @@
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [mthmontes/project-bd-python](https://github.com/mthmontes/project-bd-python) - 
 - [riccigrj/prd_provas_digitais_homofobia](https://github.com/riccigrj/prd_provas_digitais_homofobia) - Trabalho de Conclusão de Curso Ciência da Computação
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [fersilva16/minimalistic-icons](https://github.com/fersilva16/minimalistic-icons) - 
 
