@@ -540,6 +540,7 @@
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [LukeberryPi/job-log](https://github.com/LukeberryPi/job-log) - personal writings of my daily triumphs and challenges as a junior software engineer
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
 - [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Tech Magic Cube - Divulgação de Vagas
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 - [daniloab/generate-key-crypto](https://github.com/daniloab/generate-key-crypto) - generat a key from crypto
@@ -737,7 +738,6 @@
 - [lucasm/terminal](https://github.com/lucasm/terminal) - 💻 My terminal configs for macOS, Linux, and Windows.
 - [lanjoni/lpi4noobs](https://github.com/lanjoni/lpi4noobs) - Guia completo para preparação da certificação LPI Essentials (LPI LE-1)! 🐧
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [stefanzweifel/changelog-updater-action](https://github.com/stefanzweifel/changelog-updater-action) - A GitHub Action to automatically update a "Keep a Changelog" CHANGELOG with the latest release notes.
 - [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
