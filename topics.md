@@ -1419,7 +1419,6 @@
 - [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video) - Generate mosaics from video inputs
 - [fukamachi/clack](https://github.com/fukamachi/clack) - Web server abstraction layer for Common Lisp
 - [rwillians/bookk](https://github.com/rwillians/bookk) - Bookk is a simple library that provides building blocks for manipulating ledgers using double-entry bookkeeping
-- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [opium-co/opium](https://github.com/opium-co/opium) - 
@@ -1877,6 +1876,7 @@
 
 ## python 
 
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
