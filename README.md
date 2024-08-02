@@ -1100,7 +1100,7 @@
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
-- [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Nuxt template to build a full-stack application on Cloudflare, with zero configuration.
+- [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application running on Cloudflare Pages, with zero configuration. Support D1, R2 and KV storages.
 - [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
 - [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
