@@ -2363,7 +2363,7 @@
 
 ## vue 
 
-- [Atinux/instadraw](https://github.com/Atinux/instadraw) - Share your drawings with the world.
+- [Atinux/atidraw](https://github.com/Atinux/atidraw) - Share your drawings with the world.
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
