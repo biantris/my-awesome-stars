@@ -1394,7 +1394,7 @@
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
-- [Atinux/talks](https://github.com/Atinux/talks) - Slides & code for my talks.
+- [atinux/talks](https://github.com/atinux/talks) - Slides & code for my talks.
 - [healeycodes/doom-checkboxes](https://github.com/healeycodes/doom-checkboxes) - 🕹️ DOOM rendered via checkboxes in a web browser.
 - [MattCozendey/doom-console-log](https://github.com/MattCozendey/doom-console-log) - 🕹️ DOOM rendered via console.log() in a web browser.
 - [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
@@ -2363,7 +2363,7 @@
 
 ## vue 
 
-- [Atinux/atidraw](https://github.com/Atinux/atidraw) - Share your drawings with the world.
+- [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world.
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
