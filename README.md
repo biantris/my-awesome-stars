@@ -532,7 +532,7 @@
 - [computacaoraiz/aprenda-lisp](https://github.com/computacaoraiz/aprenda-lisp) - Estudo de Common Lisp pelo livro do Touretzky
 - [extensibleweb/manifesto](https://github.com/extensibleweb/manifesto) - The Extensible Web Manifesto
 - [kaduwaengertner/obs4noobs](https://github.com/kaduwaengertner/obs4noobs) - 
-- [yurimutti/recursosfrontend](https://github.com/yurimutti/recursosfrontend) - 
+- [yurimutti/frontend-resources](https://github.com/yurimutti/frontend-resources) - 
 - [Allyhere/expert-css](https://github.com/Allyhere/expert-css) - Repositório contendo materiais de estudo de CSS avançado
 - [iamakulov/devtools-perf-features](https://github.com/iamakulov/devtools-perf-features) - Chrome DevTools’ little known features for perf debugging
 - [gdiasb/ClubeHe4rtDelas](https://github.com/gdiasb/ClubeHe4rtDelas) - Repositório para organização do clube do livro do He4rt Delas.
@@ -768,6 +768,7 @@
 
 ## TypeScript 
 
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
