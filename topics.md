@@ -819,6 +819,7 @@
 
 ## hacktoberfest 
 
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -1247,6 +1248,7 @@
 
 ## nextjs 
 
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [transitive-bullshit/react-static-tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
 - [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
@@ -1505,7 +1507,7 @@
 - [extensibleweb/manifesto](https://github.com/extensibleweb/manifesto) - The Extensible Web Manifesto
 - [kaduwaengertner/obs4noobs](https://github.com/kaduwaengertner/obs4noobs) - 
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [yurimutti/recursosfrontend](https://github.com/yurimutti/recursosfrontend) - 
+- [yurimutti/frontend-resources](https://github.com/yurimutti/frontend-resources) - 
 - [zoedsoupe/weather-playlist](https://github.com/zoedsoupe/weather-playlist) - Generates a Spotify song playlist based on your city's temperature!
 - [iamakulov/devtools-perf-features](https://github.com/iamakulov/devtools-perf-features) - Chrome DevTools’ little known features for perf debugging
 - [gdiasb/ClubeHe4rtDelas](https://github.com/gdiasb/ClubeHe4rtDelas) - Repositório para organização do clube do livro do He4rt Delas.
@@ -1911,6 +1913,7 @@
 
 ## react 
 
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
@@ -2238,6 +2241,7 @@
 
 ## typescript 
 
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
