@@ -166,7 +166,7 @@
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video) - Generate mosaics from video inputs
-- [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication and Redis cache
+- [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication, Redis cache and MongoDB for logging
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
@@ -231,7 +231,7 @@
 ## Idris 
 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
-- [the-sofi-uwu/Idris2Noobs](https://github.com/the-sofi-uwu/Idris2Noobs) - Idris2 para falantes de portugues.
+- [algebraic-dev/idris-4-noobs](https://github.com/algebraic-dev/idris-4-noobs) - 📘 | Idris2 for Portuguese speakers. (Its called idris2noobs as a reference to the version 2 of the language).
 
 ## Java 
 
@@ -453,7 +453,7 @@
 
 ## Lean 
 
-- [the-sofi-uwu/soda](https://github.com/the-sofi-uwu/soda) - 🥤 | Toy parser combinator
+- [algebraic-dev/soda](https://github.com/algebraic-dev/soda) - 🥤 | Toy parser combinator
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Logos 
@@ -710,7 +710,7 @@
 - [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
-- [the-sofi-uwu/vulpi](https://github.com/the-sofi-uwu/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [algebraic-dev/vulpi](https://github.com/algebraic-dev/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
 - [somecodingwitch/rust-rest-api](https://github.com/somecodingwitch/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
