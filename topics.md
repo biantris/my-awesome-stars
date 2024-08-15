@@ -747,7 +747,7 @@
 ## golang 
 
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
-- [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication and Redis cache
+- [araujo88/golang-rest-api-template](https://github.com/araujo88/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication, Redis cache and MongoDB for logging
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1429,8 +1429,8 @@
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [s2te/study_projects](https://github.com/s2te/study_projects) - repository to share study projects, including courses and my own.
 - [LFSCamargo/vimrc](https://github.com/LFSCamargo/vimrc) - Simple Neovim Configuration, Including Github Copilot, NERD Tree, Dracula, CoC Completion and much more...
-- [the-sofi-uwu/vulpi](https://github.com/the-sofi-uwu/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
-- [the-sofi-uwu/soda](https://github.com/the-sofi-uwu/soda) - 🥤 | Toy parser combinator
+- [algebraic-dev/vulpi](https://github.com/algebraic-dev/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
+- [algebraic-dev/soda](https://github.com/algebraic-dev/soda) - 🥤 | Toy parser combinator
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [bellamariz/nginx-playground](https://github.com/bellamariz/nginx-playground) - 
@@ -1738,7 +1738,7 @@
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
 - [fersilva16/minimalistic-icons](https://github.com/fersilva16/minimalistic-icons) - 
-- [the-sofi-uwu/Idris2Noobs](https://github.com/the-sofi-uwu/Idris2Noobs) - Idris2 para falantes de portugues.
+- [algebraic-dev/idris-4-noobs](https://github.com/algebraic-dev/idris-4-noobs) - 📘 | Idris2 for Portuguese speakers. (Its called idris2noobs as a reference to the version 2 of the language).
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
 - [sibelius/arena](https://github.com/sibelius/arena) - arena UI for bulljs runner
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
