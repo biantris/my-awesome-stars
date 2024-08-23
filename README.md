@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [vit0rr/eslint-meteor-error](https://github.com/vit0rr/eslint-meteor-error) - Eslint rule for MeteorJS to use only Meteor.Error constructor
