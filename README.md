@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [mauricioabreu/learn-request-coalescing](https://github.com/mauricioabreu/learn-request-coalescing) - 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
@@ -770,6 +771,7 @@
 
 ## TypeScript 
 
+- [samsantosb/code-challenge](https://github.com/samsantosb/code-challenge) - A code challenge i did
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
