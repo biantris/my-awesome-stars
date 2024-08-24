@@ -1389,6 +1389,8 @@
 
 ## others 
 
+- [samsantosb/code-challenge](https://github.com/samsantosb/code-challenge) - A code challenge i did
+- [mauricioabreu/learn-request-coalescing](https://github.com/mauricioabreu/learn-request-coalescing) - 
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [DanielHe4rt/ascii-image-converter-rs](https://github.com/DanielHe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
