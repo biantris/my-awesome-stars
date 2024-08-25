@@ -2290,7 +2290,7 @@
 - [Nick-Gabe/central-nickgabe](https://github.com/Nick-Gabe/central-nickgabe) - Um site para ver assuntos dos quais eu já ensinei ou falei sobre.
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖 Discord bot to see your github notifications
