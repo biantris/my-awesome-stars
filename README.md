@@ -273,6 +273,7 @@
 - [ramonxm/functional-programming](https://github.com/ramonxm/functional-programming) - 🔢 |  Repository applying functional programming.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [fersilva16/type-level-typescript-talk](https://github.com/fersilva16/type-level-typescript-talk) - 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [ThePrimeagen/fem-algos](https://github.com/ThePrimeagen/fem-algos) - FrontEnd Master algorithms!
 - [Odorizzi1/Udemy-courses](https://github.com/Odorizzi1/Udemy-courses) - 
@@ -825,7 +826,6 @@
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖 Discord bot to see your github notifications
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [joao-pedrozo/shoppingify-client](https://github.com/joao-pedrozo/shoppingify-client) - 
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
@@ -1100,7 +1100,7 @@
 
 ## Vue 
 
-- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Share your Open Source Contributions (pull requests).
+- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue.
