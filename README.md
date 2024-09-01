@@ -942,7 +942,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
-- [pedroperegrinaa/twitter-banner-followers](https://github.com/pedroperegrinaa/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
+- [lunaperegrina/twitter-banner-followers](https://github.com/lunaperegrina/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
 - [Nick-Gabe/netlify-functions-tutorial](https://github.com/Nick-Gabe/netlify-functions-tutorial) - Repo trying to teach how to use Netlify with Javascript and Typescript
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
