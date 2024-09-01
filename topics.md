@@ -1336,7 +1336,7 @@
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [pedroperegrinaa/twitter-banner-followers](https://github.com/pedroperegrinaa/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
+- [lunaperegrina/twitter-banner-followers](https://github.com/lunaperegrina/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -2345,7 +2345,7 @@
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [eruptionjs/core](https://github.com/eruptionjs/core) - Boilerplate for React/Typescript, built on top of Vite ⚡️
-- [pedroperegrinaa/twitter-banner-followers](https://github.com/pedroperegrinaa/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
+- [lunaperegrina/twitter-banner-followers](https://github.com/lunaperegrina/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
 - [Nick-Gabe/netlify-functions-tutorial](https://github.com/Nick-Gabe/netlify-functions-tutorial) - Repo trying to teach how to use Netlify with Javascript and Typescript
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
