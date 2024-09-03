@@ -772,6 +772,11 @@
 
 ## TypeScript 
 
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+- [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
+- [conanbatt/interview-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
@@ -823,7 +828,7 @@
 - [italosantana/barbershop](https://github.com/italosantana/barbershop) - solution for scheduling and monitoring in your barbershop.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
 - [woovibr/apiWithLog](https://github.com/woovibr/apiWithLog) - Powerful Fetch
 - [dellamora/graphql-query-example](https://github.com/dellamora/graphql-query-example) - 
