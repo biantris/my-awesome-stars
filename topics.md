@@ -1394,6 +1394,7 @@
 
 ## others 
 
+- [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Place here links of repos with features involving BlueSky that you like!
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
