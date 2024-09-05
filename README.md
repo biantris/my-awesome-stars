@@ -505,6 +505,7 @@
 
 ## Others 
 
+- [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Place here links of repos with features involving BlueSky that you like!
 - [patrickn2/OpenVPNServer](https://github.com/patrickn2/OpenVPNServer) - How to create an OPENVPN Server
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
