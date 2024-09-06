@@ -102,7 +102,6 @@
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [mpfdev/spaceTourismChallenge](https://github.com/mpfdev/spaceTourismChallenge) - Frontend Mentor | Space tourism multi-page website
 - [rolfschr/GSWL-book](https://github.com/rolfschr/GSWL-book) - This repository contains the content of the book Getting Started With Ledger.
-- [Streeterxs/timeout-server](https://github.com/Streeterxs/timeout-server) - node server to timeout requests
 - [ShaifArfan/one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
 
 ## Clojure 
@@ -913,7 +912,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [antonio-ricardo/sql-node](https://github.com/antonio-ricardo/sql-node) - repositorio para estudar postgres e coisas de banco relacionais
 - [myat-hsu-mon/GuardRails-FullStack-Engineer-Challenge](https://github.com/myat-hsu-mon/GuardRails-FullStack-Engineer-Challenge) - Application security scanning results challenge
-- [its-danny/use-lilius](https://github.com/its-danny/use-lilius) - 📅 A headless calendar hook for React.
+- [Avarios/use-lilius](https://github.com/Avarios/use-lilius) - 📅 A headless calendar hook for React.
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [jrsousadev/fullcalendar-scheduler-web](https://github.com/jrsousadev/fullcalendar-scheduler-web) - 🗓️ Component inspired by google calendar [Next/React/Mui/Styled]
@@ -1045,6 +1044,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [daniloab/canvas-rectangle](https://github.com/daniloab/canvas-rectangle) - https://canvas-football-field.netlify.app/
 - [Streeterxs/mongoose-partial-monorepo-example](https://github.com/Streeterxs/mongoose-partial-monorepo-example) - example of monorepo package which uses mongoose-partial-dump
+- [Streeterxs/timeout-server](https://github.com/Streeterxs/timeout-server) - node server to timeout requests
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [sibelius/ui-boilerplate](https://github.com/sibelius/ui-boilerplate) - Basic UI boilerplate to practice CSS
 - [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
