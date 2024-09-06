@@ -1979,7 +1979,7 @@
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
-- [its-danny/use-lilius](https://github.com/its-danny/use-lilius) - 📅 A headless calendar hook for React.
+- [Avarios/use-lilius](https://github.com/Avarios/use-lilius) - 📅 A headless calendar hook for React.
 - [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
 - [jrsousadev/fullcalendar-scheduler-web](https://github.com/jrsousadev/fullcalendar-scheduler-web) - 🗓️ Component inspired by google calendar [Next/React/Mui/Styled]
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
