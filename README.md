@@ -140,6 +140,7 @@
 
 ## Elixir 
 
+- [adolfont/caes005-introduction-to-functional-programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) - CAES005 - Introdução à Programação Funcional
 - [rwillians/bookk](https://github.com/rwillians/bookk) - Bookk is a simple library that provides building blocks for manipulating ledgers using double-entry bookkeeping
 - [opium-co/opium](https://github.com/opium-co/opium) - 
 - [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings) - rustlings but for elixir this time
