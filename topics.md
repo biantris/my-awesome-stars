@@ -1345,7 +1345,7 @@
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
-- [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for Node.js
+- [lsongdev/node-escpos](https://github.com/lsongdev/node-escpos) - 🖨️ ESC/POS Printer driver for Node.js
 - [NicolasLopes7/personal-notification-system](https://github.com/NicolasLopes7/personal-notification-system) - Notification system, that schedules alarms on redis and send to all consumers.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1405,6 +1405,7 @@
 
 ## others 
 
+- [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
 - [adolfont/caes005-introduction-to-functional-programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) - CAES005 - Introdução à Programação Funcional
 - [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Coloque aqui links de projetos com funcionalidades que envolvam o BlueSky! 🦋💙
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
