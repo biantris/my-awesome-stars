@@ -499,7 +499,7 @@
 
 ## OCaml 
 
-- [nothenrin/lambda-calculus](https://github.com/nothenrin/lambda-calculus) - 
+- [hehehenri/lambda-calculus](https://github.com/hehehenri/lambda-calculus) - 
 - [teikalang/teika](https://github.com/teikalang/teika) - 
 - [Camilotk/ocaml4noobs](https://github.com/Camilotk/ocaml4noobs) - Tutorial de OCaml para iniciantes na Linguagem.
 
@@ -657,7 +657,7 @@
 ## PHP 
 
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [nothenrin/money-transaction-system](https://github.com/nothenrin/money-transaction-system) - 
+- [hehehenri/money-transaction-system](https://github.com/hehehenri/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
 
@@ -876,7 +876,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [superfly/flyctl-actions](https://github.com/superfly/flyctl-actions) - :octocat: GitHub Action that wraps the flyctl
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
