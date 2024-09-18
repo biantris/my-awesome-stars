@@ -511,7 +511,6 @@
 - [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
 - [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
-- [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
