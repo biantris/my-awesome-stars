@@ -1432,7 +1432,6 @@
 - [leandronsp/magali](https://github.com/leandronsp/magali) - A minimalist yet multi-threaded HTTP server coded in pure Assembly x86
 - [jgcmarins/mongodb-for-fintechs](https://github.com/jgcmarins/mongodb-for-fintechs) - 
 - [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
-- [stone-payments/desafio-backend](https://github.com/stone-payments/desafio-backend) - Desafio para o candidato na vaga de backend
 - [dellamora/reading-diary](https://github.com/dellamora/reading-diary) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
