@@ -349,7 +349,7 @@
 ## bash 
 
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -405,7 +405,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
 ## clojure 
@@ -857,6 +857,7 @@
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [fdaciuk/conduit-api](https://github.com/fdaciuk/conduit-api) - API for Real World App project (Conduit) using Node.js + TS with Functional Programming
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1043,7 +1044,7 @@
 - [thiagosousa-dev/myPortfolio](https://github.com/thiagosousa-dev/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
@@ -1357,7 +1358,7 @@
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
 - [vit0rr/users-graphiql](https://github.com/vit0rr/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -2202,7 +2203,7 @@
 ## shell 
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
