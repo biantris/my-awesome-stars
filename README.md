@@ -997,7 +997,7 @@
 - [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite) - A builder plugin to run and build Storybooks with Vite
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
-- [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - The easiest way to collect, manage, and consume real-time data to fuel personalized experiences.
+- [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - Croct's official SDK for JavaScript.
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [alvarosabu/modern-three](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.
 - [sekoyo/react-image-crop](https://github.com/sekoyo/react-image-crop) - A responsive image cropping tool for React
