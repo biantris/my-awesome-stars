@@ -1747,7 +1747,7 @@
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 - [somecodingwitch/OpenPixSDK](https://github.com/somecodingwitch/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
 - [fersilva16/openpix-client](https://github.com/fersilva16/openpix-client) - OpenPIX API client for JavaScript
-- [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Frontend Engineer.
+- [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Software Engineer.
 - [boazbk/crypto](https://github.com/boazbk/crypto) - Lecture notes for a course on cryptography
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
