@@ -303,7 +303,7 @@
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
-- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
+- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [Automattic/kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 - [NicolasLopes7/zan-challenges-portal](https://github.com/NicolasLopes7/zan-challenges-portal) - 
 - [NicolasPereira/nodejs-api-tcc](https://github.com/NicolasPereira/nodejs-api-tcc) - API feita em NodeJS para cadastrar e gerenciar lista de compras
@@ -471,7 +471,6 @@
 
 ## MDX 
 
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
@@ -885,6 +884,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - A lightweight React library for rendering complex After Effects animations in real time using Lottie.
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
