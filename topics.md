@@ -864,6 +864,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [commonlispbr/cl-cookbook](https://github.com/commonlispbr/cl-cookbook) - The Common Lisp Cookbook: Tradução para PT-BR [WIP].
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -1624,7 +1625,7 @@
 - [fersilva16/ts-report-action](https://github.com/fersilva16/ts-report-action) - GitHub Action to report TypeScript errors in Pull Requests
 - [franzinc/aserve](https://github.com/franzinc/aserve) - AllegroServe, a web server written in Common Lisp
 - [NicolasLopes7/queue-ts](https://github.com/NicolasLopes7/queue-ts) - a tiny engine to run background jobs without any dependency
-- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
+- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [Eckzzo/notdiscord](https://github.com/Eckzzo/notdiscord) - 
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [decaycs/wallpapers](https://github.com/decaycs/wallpapers) - 
