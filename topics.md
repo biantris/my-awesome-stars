@@ -843,6 +843,7 @@
 
 ## hacktoberfest 
 
+- [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
@@ -1276,6 +1277,7 @@
 
 ## nextjs 
 
+- [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [transitive-bullshit/react-static-tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
@@ -1408,7 +1410,6 @@
 
 ## others 
 
-- [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
 - [adolfont/caes005-introduction-to-functional-programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) - CAES005 - Introdução à Programação Funcional
 - [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Coloque aqui links de projetos com funcionalidades que envolvam o BlueSky! 🦋💙
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
