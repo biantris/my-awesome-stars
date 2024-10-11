@@ -378,6 +378,7 @@
 
 ## c 
 
+- [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -959,6 +960,7 @@
 
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
@@ -1454,7 +1456,6 @@
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lucasm/terminal](https://github.com/lucasm/terminal) - 💻 My terminal configs for macOS, Linux, and Windows.
-- [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
