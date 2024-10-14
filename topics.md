@@ -598,7 +598,7 @@
 
 ## dotnet 
 
-- [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 
 ## education 
 
@@ -1051,7 +1051,7 @@
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
-- [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1523,7 +1523,7 @@
 - [joao-pedrozo/shoppingify-client](https://github.com/joao-pedrozo/shoppingify-client) - 
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
 - [MonkeyDevelopers/boilerplate-nuxt3](https://github.com/MonkeyDevelopers/boilerplate-nuxt3) - 
-- [somecodingwitch/rust-rest-api](https://github.com/somecodingwitch/rust-rest-api) - 
+- [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
@@ -1564,7 +1564,7 @@
 - [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [somecodingwitch/Jext](https://github.com/somecodingwitch/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
+- [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [akinncar/business-name-generator](https://github.com/akinncar/business-name-generator) - 🤖 Generate business names with ChatGPT3 API
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
@@ -1651,7 +1651,7 @@
 - [flaviojmendes/trilhainfo](https://github.com/flaviojmendes/trilhainfo) - 
 - [worklab1/fullstack_challenge](https://github.com/worklab1/fullstack_challenge) - 
 - [VikramTiwari/reverse-geocode](https://github.com/VikramTiwari/reverse-geocode) - get reverse-geocoded :earth_americas: data from latitude and longitude values :globe_with_meridians:
-- [somecodingwitch/docker-api-melon](https://github.com/somecodingwitch/docker-api-melon) - Docker MelonRuntime API + Dockerfile
+- [scarletquasar/docker-api-melon](https://github.com/scarletquasar/docker-api-melon) - Docker MelonRuntime API + Dockerfile
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [eslint/eslint.org](https://github.com/eslint/eslint.org) - ESLint website
 - [maateusilva/display-automations](https://github.com/maateusilva/display-automations) - Scripts made with AppleScript to automate the display settings on Macs.
@@ -1663,7 +1663,7 @@
 - [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
 - [vit0rr/play-pause](https://github.com/vit0rr/play-pause) - 
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
-- [somecodingwitch/melon-helloworld-api](https://github.com/somecodingwitch/melon-helloworld-api) - 
+- [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -1726,7 +1726,7 @@
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
-- [somecodingwitch/ReactTsWebpack.QuickBoilerplate](https://github.com/somecodingwitch/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
+- [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 Readme Generator for Visual Studio Code ❤️
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
@@ -1749,7 +1749,7 @@
 - [noghartt/garden](https://github.com/noghartt/garden) - A digital garden prototype - my notes and links are here
 - [akinncar/crypto-colors](https://github.com/akinncar/crypto-colors) - 🎨 CryptoColors NFT Collection
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
-- [somecodingwitch/OpenPixSDK](https://github.com/somecodingwitch/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
+- [scarletquasar/OpenPixSDK](https://github.com/scarletquasar/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
 - [fersilva16/openpix-client](https://github.com/fersilva16/openpix-client) - OpenPIX API client for JavaScript
 - [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Software Engineer.
 - [boazbk/crypto](https://github.com/boazbk/crypto) - Lecture notes for a course on cryptography
