@@ -77,10 +77,10 @@
 
 - [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
-- [somecodingwitch/Jext](https://github.com/somecodingwitch/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
+- [scarletquasar/Jext](https://github.com/scarletquasar/Jext) - Experimental parallelism layer between JavaScript engines built on top of Jint
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-- [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 
 ## C++ 
 
@@ -136,7 +136,7 @@
 
 ## Dockerfile 
 
-- [somecodingwitch/docker-api-melon](https://github.com/somecodingwitch/docker-api-melon) - Docker MelonRuntime API + Dockerfile
+- [scarletquasar/docker-api-melon](https://github.com/scarletquasar/docker-api-melon) - Docker MelonRuntime API + Dockerfile
 
 ## Elixir 
 
@@ -370,7 +370,7 @@
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
-- [somecodingwitch/ReactTsWebpack.QuickBoilerplate](https://github.com/somecodingwitch/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
+- [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [VictorCazanave/react-svg-map](https://github.com/VictorCazanave/react-svg-map) - A set of React.js components to display an interactive SVG map
@@ -385,7 +385,7 @@
 - [Deividy/frete](https://github.com/Deividy/frete) - Consumo da API de calculo de frete, preços e prazos do correio. http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx
 - [akinncar/crypto-colors](https://github.com/akinncar/crypto-colors) - 🎨 CryptoColors NFT Collection
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
-- [somecodingwitch/OpenPixSDK](https://github.com/somecodingwitch/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
+- [scarletquasar/OpenPixSDK](https://github.com/scarletquasar/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
 - [wrongbyte/comments-section](https://github.com/wrongbyte/comments-section) - :sparkles: Interactive responsive comments section made with React
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
@@ -714,7 +714,7 @@
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [algebraic-dev/vulpi](https://github.com/algebraic-dev/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
 - [Canhassi12/binary-heap](https://github.com/Canhassi12/binary-heap) - Binary heap studies in Rust
-- [somecodingwitch/rust-rest-api](https://github.com/somecodingwitch/rust-rest-api) - 
+- [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [vcwild/trpl](https://github.com/vcwild/trpl) - The Rust Programming Language Book implementations
 - [lffg/fdb](https://github.com/lffg/fdb) - A simple (and unfinished!!) database management system.
 - [fnapi/fnapi](https://github.com/fnapi/fnapi) - A function is enough
@@ -957,7 +957,7 @@
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [remarkjs/react-remark](https://github.com/remarkjs/react-remark) - React component and hook to use remark to render markdown
-- [somecodingwitch/melon-helloworld-api](https://github.com/somecodingwitch/melon-helloworld-api) - 
+- [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
