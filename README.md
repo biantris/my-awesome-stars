@@ -606,7 +606,6 @@
 - [pscordeiro/pscordeiro](https://github.com/pscordeiro/pscordeiro) - Readme para a página inicial do perfil
 - [noghartt/garden](https://github.com/noghartt/garden) - A digital garden prototype - my notes and links are here
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
 - [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
@@ -745,6 +744,7 @@
 - [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
+- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
