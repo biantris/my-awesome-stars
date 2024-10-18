@@ -535,7 +535,7 @@
 - [computacaoraiz/aprenda-lisp](https://github.com/computacaoraiz/aprenda-lisp) - Estudo de Common Lisp pelo livro do Touretzky
 - [extensibleweb/manifesto](https://github.com/extensibleweb/manifesto) - The Extensible Web Manifesto
 - [kaduwaengertner/obs4noobs](https://github.com/kaduwaengertner/obs4noobs) - 
-- [yurimutti/frontend-resources](https://github.com/yurimutti/frontend-resources) - 
+- [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - 
 - [Allyhere/expert-css](https://github.com/Allyhere/expert-css) - Repositório contendo materiais de estudo de CSS avançado
 - [iamakulov/devtools-perf-features](https://github.com/iamakulov/devtools-perf-features) - Chrome DevTools’ little known features for perf debugging
 - [gdiasb/ClubeHe4rtDelas](https://github.com/gdiasb/ClubeHe4rtDelas) - Repositório para organização do clube do livro do He4rt Delas.
