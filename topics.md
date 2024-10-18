@@ -1551,7 +1551,7 @@
 - [extensibleweb/manifesto](https://github.com/extensibleweb/manifesto) - The Extensible Web Manifesto
 - [kaduwaengertner/obs4noobs](https://github.com/kaduwaengertner/obs4noobs) - 
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [yurimutti/frontend-resources](https://github.com/yurimutti/frontend-resources) - 
+- [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - 
 - [zoedsoupe/weather-playlist](https://github.com/zoedsoupe/weather-playlist) - Generates a Spotify song playlist based on your city's temperature!
 - [iamakulov/devtools-perf-features](https://github.com/iamakulov/devtools-perf-features) - Chrome DevTools’ little known features for perf debugging
 - [gdiasb/ClubeHe4rtDelas](https://github.com/gdiasb/ClubeHe4rtDelas) - Repositório para organização do clube do livro do He4rt Delas.
