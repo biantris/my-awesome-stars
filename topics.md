@@ -888,7 +888,7 @@
 - [colbyfayock/next-leaflet-starter](https://github.com/colbyfayock/next-leaflet-starter) - 🍃 A Next.js starter with Leafet to quickly build React apps with a map!
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [Camilotk/aprenda-clojure](https://github.com/Camilotk/aprenda-clojure) - Lista de materiais e ferramentas para quem quer aprender Clojure
@@ -1307,7 +1307,7 @@
 - [colbyfayock/next-leaflet-starter](https://github.com/colbyfayock/next-leaflet-starter) - 🍃 A Next.js starter with Leafet to quickly build React apps with a map!
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
@@ -2023,7 +2023,7 @@
 - [strateos/react-map-interaction](https://github.com/strateos/react-map-interaction) - Add map like zooming and dragging to any element
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [remarkjs/react-remark](https://github.com/remarkjs/react-remark) - React component and hook to use remark to render markdown
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
 - [jacques-blom/recoil-course](https://github.com/jacques-blom/recoil-course) - The code for my free Recoil Course, learnrecoil.com
@@ -2372,7 +2372,7 @@
 - [lunaperegrina/twitter-banner-followers](https://github.com/lunaperegrina/twitter-banner-followers) - Coloca as últimas pessoas que te seguiram no Twitter dentro do banner da sua conta ;D
 - [Nick-Gabe/netlify-functions-tutorial](https://github.com/Nick-Gabe/netlify-functions-tutorial) - Repo trying to teach how to use Netlify with Javascript and Typescript
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [codecov/example-typescript](https://github.com/codecov/example-typescript) - Example repo for uploading reports to Codecov https://codecov.io
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
