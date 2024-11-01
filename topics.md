@@ -871,7 +871,6 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
@@ -1388,7 +1387,7 @@
 - [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 
 ## numpy 
 
@@ -1417,7 +1416,7 @@
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
-- [conanbatt/interview-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice.
+- [conanbatt/interview-ready](https://github.com/conanbatt/interview-ready) - A repo for interview practice.
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -1912,7 +1911,7 @@
 
 ## publishing 
 
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 
 ## pwa 
 
