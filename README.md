@@ -777,7 +777,7 @@
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
-- [conanbatt/interview-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice.
+- [conanbatt/interview-ready](https://github.com/conanbatt/interview-ready) - A repo for interview practice.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
@@ -1014,7 +1014,7 @@
 - [sibelius/circleci-cancel](https://github.com/sibelius/circleci-cancel) - Cancel CircleCI pipeline per branch
 - [Wellers0n/4Fun-Fullstack](https://github.com/Wellers0n/4Fun-Fullstack) - Boilerplate fullstack using backend with graphql and frontend with relay
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [akinncar/frogchain](https://github.com/akinncar/frogchain) - :frog: :purple_heart: Crypto Wallet made with React Native
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [erictaylor/yarr](https://github.com/erictaylor/yarr) - A React router library enabling the render-as-you-fetch concurrent UI pattern.
