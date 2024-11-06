@@ -67,7 +67,7 @@
 ## Astro 
 
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
-- [vit0rr/portfolio](https://github.com/vit0rr/portfolio) - My blog repository
+- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
 
 ## C 
 
@@ -245,6 +245,7 @@
 
 ## JavaScript 
 
+- [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
