@@ -1029,7 +1029,6 @@
 - [sibelius/ccsseraphini](https://github.com/sibelius/ccsseraphini) - cc @sseraphini
 - [blipapp/vite-ssr-starter](https://github.com/blipapp/vite-ssr-starter) - A server-side-rendered project that leverages Vite, Relay, Prisma, and GiraphQL.
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
-- [fersilva16/openpix-client](https://github.com/fersilva16/openpix-client) - OpenPIX API client for JavaScript
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
 - [jondcallahan/remix-auth](https://github.com/jondcallahan/remix-auth) - A fully featured auth system built on Remix
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
