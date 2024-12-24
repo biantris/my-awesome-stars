@@ -564,7 +564,7 @@
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
-- [DanielHe4rt/livecoding4noobs](https://github.com/DanielHe4rt/livecoding4noobs) - 
+- [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
 - [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2024.
 - [asklisa/fullstack-challenge](https://github.com/asklisa/fullstack-challenge) - Full Stack Engineer Challenge
@@ -630,7 +630,7 @@
 - [tgmarinho/english-learning-tools](https://github.com/tgmarinho/english-learning-tools) - Learning English with it:
 - [he4rt/4noobs](https://github.com/he4rt/4noobs) - Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
-- [DanielHe4rt/journey](https://github.com/DanielHe4rt/journey) - idk i'm just overthinking
+- [danielhe4rt/journey](https://github.com/danielhe4rt/journey) - idk i'm just overthinking
 - [sindresorhus/ponyfill](https://github.com/sindresorhus/ponyfill) - 🦄 Like polyfill but with pony pureness
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
@@ -711,7 +711,7 @@
 
 ## Rust 
 
-- [DanielHe4rt/ascii-image-converter-rs](https://github.com/DanielHe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
+- [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
@@ -861,7 +861,7 @@
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
