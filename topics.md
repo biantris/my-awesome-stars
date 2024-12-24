@@ -742,7 +742,7 @@
 ## github 
 
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [stefanzweifel/changelog-updater-action](https://github.com/stefanzweifel/changelog-updater-action) - A GitHub Action to automatically update a "Keep a Changelog" CHANGELOG with the latest release notes.
@@ -884,7 +884,7 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
 - [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
-- [DanielHe4rt/livecoding4noobs](https://github.com/DanielHe4rt/livecoding4noobs) - 
+- [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
@@ -1160,7 +1160,7 @@
 ## library 
 
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [jgcmarins/rtl-everywhere](https://github.com/jgcmarins/rtl-everywhere) - [WIP] React Testing Library everywhere
 
@@ -1389,7 +1389,7 @@
 
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -1431,7 +1431,7 @@
 - [samsantosb/code-challenge](https://github.com/samsantosb/code-challenge) - A code challenge i did
 - [mauricioabreu/learn-request-coalescing](https://github.com/mauricioabreu/learn-request-coalescing) - 
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
-- [DanielHe4rt/ascii-image-converter-rs](https://github.com/DanielHe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
+- [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
@@ -1810,7 +1810,7 @@
 - [he4rt/4noobs](https://github.com/he4rt/4noobs) - Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.
 - [hoophq/sequence](https://github.com/hoophq/sequence) - Immutable, scalable, and easy to use ledger service.
 - [Camilotk/ocaml4noobs](https://github.com/Camilotk/ocaml4noobs) - Tutorial de OCaml para iniciantes na Linguagem.
-- [DanielHe4rt/journey](https://github.com/DanielHe4rt/journey) - idk i'm just overthinking
+- [danielhe4rt/journey](https://github.com/danielhe4rt/journey) - idk i'm just overthinking
 - [jorgef/fsharpworkshop](https://github.com/jorgef/fsharpworkshop) - F# Workshop
 - [arantespp/arantespp.com](https://github.com/arantespp/arantespp.com) - 
 - [sindresorhus/ponyfill](https://github.com/sindresorhus/ponyfill) - 🦄 Like polyfill but with pony pureness
@@ -2110,7 +2110,7 @@
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -2346,7 +2346,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [NicolasLopes7/ts-async-kit](https://github.com/NicolasLopes7/ts-async-kit) - the easiest API to deal with promises in Typescript. Currently, ↩️ Retrying 🏃‍♂️ looping & 😴 sleeping
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in one place, the administration of your github projects on your website.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
 - [LFSCamargo/vue.pnpm](https://github.com/LFSCamargo/vue.pnpm) - Vue and PNPM Monorepo
