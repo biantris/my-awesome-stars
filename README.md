@@ -861,7 +861,7 @@
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library, ReactJS, that automates, in your own GitHub, the visualization of your repository/project data in your Portfolio.
+- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
@@ -1097,7 +1097,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [rafaelsza/gobarber-web](https://github.com/rafaelsza/gobarber-web) - [ GoBarber ] (Em desenvolvimento) Projeto web sendo desenvolvido durante o bootcamp GoStack da Rocketseat, utilizando ReactJS e TypeScript.
 - [sibelius/landing-vpn](https://github.com/sibelius/landing-vpn) - Landing Page to practice CSS
-- [sibelius/relay-workshop](https://github.com/sibelius/relay-workshop) - Material for my Relay Workshop
+- [sibelius/relay-workshop](https://github.com/sibelius/relay-workshop) - Learn Relay
 - [mgechev/kanban-fire](https://github.com/mgechev/kanban-fire) - 
 - [glaucia86/curso-typescript-zero-to-hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Repositório responsável pelo Curso de TypeScript - Zero to Hero
 - [RenanRB/curso-angular](https://github.com/RenanRB/curso-angular) - Curso desenvolvido para a plataforma https://digitalinnovation.one/
