@@ -121,7 +121,7 @@
 - [fukamachi/caveman](https://github.com/fukamachi/caveman) - Lightweight web application framework for Common Lisp.
 - [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer :)
 - [cxxxr/sblint](https://github.com/cxxxr/sblint) - A linter for Common Lisp source code using SBCL
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [franzinc/aserve](https://github.com/franzinc/aserve) - AllegroServe, a web server written in Common Lisp
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
