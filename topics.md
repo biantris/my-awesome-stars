@@ -718,17 +718,17 @@
 ## game-development 
 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 
 ## game-engine 
 
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 
 ## gamedev 
 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 
 ## git 
 
@@ -1414,7 +1414,7 @@
 
 ## opengl 
 
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 
 ## others 
 
