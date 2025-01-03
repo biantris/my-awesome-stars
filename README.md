@@ -328,7 +328,7 @@
 - [strateos/react-map-interaction](https://github.com/strateos/react-map-interaction) - Add map like zooming and dragging to any element
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [vit0rr/play-pause](https://github.com/vit0rr/play-pause) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -374,7 +374,7 @@
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [VictorCazanave/react-svg-map](https://github.com/VictorCazanave/react-svg-map) - A set of React.js components to display an interactive SVG map
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -1009,7 +1009,7 @@
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 Readme Generator for Visual Studio Code ❤️
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
-- [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
+- [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [csr632/test-vite](https://github.com/csr632/test-vite) - 
 - [oscartbeaumont/vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - A vite plugin for Relay
