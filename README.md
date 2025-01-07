@@ -1127,7 +1127,7 @@
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application running on Cloudflare Pages, with zero configuration. Support D1, R2 and KV storages.
 - [atinux/talks](https://github.com/atinux/talks) - Slides & code for my talks.
 - [AntonyZ89/vue3-boilerplate](https://github.com/AntonyZ89/vue3-boilerplate) - VueJS 3 Boilerplate ( Vanilla / Nuxt 3 )
-- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
+- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
