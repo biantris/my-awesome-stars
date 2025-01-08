@@ -899,7 +899,6 @@
 - [Camilotk/aprenda-clojure](https://github.com/Camilotk/aprenda-clojure) - Lista de materiais e ferramentas para quem quer aprender Clojure
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus with Redoc
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -1456,7 +1455,7 @@
 - [zodern/meteor-relay](https://github.com/zodern/meteor-relay) - Type safe Meteor methods and publications
 - [Grubba27/meteor-rpc](https://github.com/Grubba27/meteor-rpc) - Meteor Methods Evolved
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - 
+- [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
