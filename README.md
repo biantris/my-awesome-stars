@@ -275,7 +275,6 @@
 - [ramonxm/functional-programming](https://github.com/ramonxm/functional-programming) - 🔢 |  Repository applying functional programming.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [fersilva16/type-level-typescript-talk](https://github.com/fersilva16/type-level-typescript-talk) - 
-- [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [ThePrimeagen/fem-algos](https://github.com/ThePrimeagen/fem-algos) - FrontEnd Master algorithms!
 - [Odorizzi1/Udemy-courses](https://github.com/Odorizzi1/Udemy-courses) - 
 - [Odorizzi1/discord](https://github.com/Odorizzi1/discord) - 
@@ -472,6 +471,7 @@
 
 ## MDX 
 
+- [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
@@ -1117,6 +1117,7 @@
 
 ## Vue 
 
+- [nuxtlabs/nuxt-ui3-vue-starter](https://github.com/nuxtlabs/nuxt-ui3-vue-starter) - Vue 3 + Vite + Nuxt UI 3
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
