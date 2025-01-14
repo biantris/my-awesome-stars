@@ -2438,6 +2438,7 @@
 
 ## vue 
 
+- [nuxtlabs/nuxt-ui3-vue-starter](https://github.com/nuxtlabs/nuxt-ui3-vue-starter) - Vue 3 + Vite + Nuxt UI 3
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
