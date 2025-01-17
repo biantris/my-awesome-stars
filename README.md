@@ -986,7 +986,7 @@
 - [Streeterxs/socialnetwork](https://github.com/Streeterxs/socialnetwork) - GraphQL - Nodejs - React - Relay
 - [jantimon/next-relay-demo](https://github.com/jantimon/next-relay-demo) - Relay React Concurrency Example
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
