@@ -1005,7 +1005,7 @@
 - [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - Croct's official SDK for JavaScript.
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [alvarosabu/modern-three](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.
-- [sekoyo/react-image-crop](https://github.com/sekoyo/react-image-crop) - A responsive image cropping tool for React
+- [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 Readme Generator for Visual Studio Code ❤️
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
