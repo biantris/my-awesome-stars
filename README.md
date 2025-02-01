@@ -209,7 +209,6 @@
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
 - [birobirobiro/macos-portfolio](https://github.com/birobirobiro/macos-portfolio) - Portfolio based in macOS Classic
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [endel/shieldsio-patreon](https://github.com/endel/shieldsio-patreon) - 🛡 Shields.io endpoint to display amount of donations/patrons you have on Patreon
@@ -688,6 +687,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [mthmontes/project-bd-python](https://github.com/mthmontes/project-bd-python) - 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [riccigrj/prd_provas_digitais_homofobia](https://github.com/riccigrj/prd_provas_digitais_homofobia) - Trabalho de Conclusão de Curso Ciência da Computação
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
