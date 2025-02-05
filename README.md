@@ -526,7 +526,7 @@
 - [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
