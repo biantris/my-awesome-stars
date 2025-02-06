@@ -2376,6 +2376,7 @@
 - [danestves/danestves.com](https://github.com/danestves/danestves.com) - ✨ My portfolio built with Remix, Tailwind, Prisma, and Fly.io.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
