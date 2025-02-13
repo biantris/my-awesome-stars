@@ -597,7 +597,7 @@
 - [daniloab/second-brain](https://github.com/daniloab/second-brain) - my second brain
 - [shanirivers/open-source-mathematics-degree](https://github.com/shanirivers/open-source-mathematics-degree) - The open-source curriculum for learning Mathematics.
 - [kinvoapp/kinvo-front-end-test](https://github.com/kinvoapp/kinvo-front-end-test) - Teste para candidatos à vaga de Front-End
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [significa/frontend-challenge](https://github.com/significa/frontend-challenge) - Significa's frontend challenge.
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [Apiki/front-end-challenge](https://github.com/Apiki/front-end-challenge) - Desafio para candidatos a front-end.
