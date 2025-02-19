@@ -906,7 +906,7 @@
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [lucasm/headly](https://github.com/lucasm/headly) - 🟣🔴🟠 Breaking news headlines reader. Trusted journalism to fight against misinformation.
+- [lucasm/headly](https://github.com/lucasm/headly) - 📰🔥🧠 Breaking news headlines reader. Trusted journalism to fight against misinformation.
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
