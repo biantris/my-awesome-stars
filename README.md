@@ -132,6 +132,7 @@
 
 ## Dart 
 
+- [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [guinterface/ecopoint](https://github.com/guinterface/ecopoint) - 
 
 ## Dockerfile 
@@ -243,6 +244,8 @@
 
 ## JavaScript 
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons) - Material Design Icons as Vue Single File Components
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
@@ -774,6 +777,9 @@
 
 ## TypeScript 
 
+- [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
+- [auth0/auth0-vue](https://github.com/auth0/auth0-vue) - Auth0 authentication SDK for Vue.js apps
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
@@ -786,7 +792,6 @@
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [samsantosb/code-challenge](https://github.com/samsantosb/code-challenge) - A code challenge i did
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
@@ -1117,13 +1122,14 @@
 
 ## Vue 
 
+- [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
 - [nuxtlabs/nuxt-ui3-vue-starter](https://github.com/nuxtlabs/nuxt-ui3-vue-starter) - Vue 3 + Vite + Nuxt UI 3
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-- [unovue/radix-vue](https://github.com/unovue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application running on Cloudflare Pages, with zero configuration. Support D1, R2 and KV storages.
 - [atinux/talks](https://github.com/atinux/talks) - Slides & code for my talks.
