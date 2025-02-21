@@ -1129,7 +1129,7 @@
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application running on Cloudflare Pages, with zero configuration. Support D1, R2 and KV storages.
 - [atinux/talks](https://github.com/atinux/talks) - Slides & code for my talks.
