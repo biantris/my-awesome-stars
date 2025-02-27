@@ -1124,7 +1124,7 @@
 ## Vue 
 
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
-- [nuxtlabs/nuxt-ui3-vue-starter](https://github.com/nuxtlabs/nuxt-ui3-vue-starter) - Vue 3 + Vite + Nuxt UI 3
+- [nuxtlabs/nuxt-ui-vue-starter](https://github.com/nuxtlabs/nuxt-ui-vue-starter) - Vue 3 + Vite + Nuxt UI 3
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
