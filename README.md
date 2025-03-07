@@ -936,7 +936,7 @@
 - [fersilva16/ts-report-action](https://github.com/fersilva16/ts-report-action) - GitHub Action to report TypeScript errors in Pull Requests
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [NicolasLopes7/redis-ui](https://github.com/NicolasLopes7/redis-ui) - ⚡ redis client made with care and acessibility-first 🚀
-- [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [NicolasLopes7/personal-notification-system](https://github.com/NicolasLopes7/personal-notification-system) - Notification system, that schedules alarms on redis and send to all consumers.
 - [NicolasLopes7/queue-ts](https://github.com/NicolasLopes7/queue-ts) - a tiny engine to run background jobs without any dependency
