@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim é uma biblioteca JavaScript moderna que implementa conceitos fundamentais de computação quântica e criptografia quântica. Projetada para ser intuitiva e educacional
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons) - Material Design Icons as Vue Single File Components
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
@@ -788,7 +789,7 @@
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
-- [conanbatt/interview-ready](https://github.com/conanbatt/interview-ready) - A repo for interview practice.
+- [silver-dev-org/interview-ready](https://github.com/silver-dev-org/interview-ready) - A repo for interview practice.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
