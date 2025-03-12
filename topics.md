@@ -1429,13 +1429,14 @@
 
 ## others 
 
+- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim é uma biblioteca JavaScript moderna que implementa conceitos fundamentais de computação quântica e criptografia quântica. Projetada para ser intuitiva e educacional
 - [filrak/vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [adolfont/caes005-introduction-to-functional-programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) - CAES005 - Introdução à Programação Funcional
 - [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Coloque aqui links de projetos com funcionalidades que envolvam o BlueSky! 🦋💙
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
-- [conanbatt/interview-ready](https://github.com/conanbatt/interview-ready) - A repo for interview practice.
+- [silver-dev-org/interview-ready](https://github.com/silver-dev-org/interview-ready) - A repo for interview practice.
 - [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
