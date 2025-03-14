@@ -461,6 +461,7 @@
 
 ## Lean 
 
+- [gaearon/formalising-mathematics-notes](https://github.com/gaearon/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2025
 - [algebraic-dev/soda](https://github.com/algebraic-dev/soda) - 🥤 | Toy parser combinator
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
@@ -476,6 +477,8 @@
 
 ## MDX 
 
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+- [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
