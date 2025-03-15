@@ -218,7 +218,7 @@
 - [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Software Engineer.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [italosantana/jogo-do-bicho-javascript](https://github.com/italosantana/jogo-do-bicho-javascript) - 
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [florinpop17/10websites-design-to-html-css](https://github.com/florinpop17/10websites-design-to-html-css) - 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
