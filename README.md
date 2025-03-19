@@ -699,7 +699,7 @@
 - [mthmontes/project-bd-python](https://github.com/mthmontes/project-bd-python) - 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [riccigrj/prd_provas_digitais_homofobia](https://github.com/riccigrj/prd_provas_digitais_homofobia) - Trabalho de Conclusão de Curso Ciência da Computação
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [fersilva16/minimalistic-icons](https://github.com/fersilva16/minimalistic-icons) - 
 
