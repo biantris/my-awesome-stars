@@ -39,6 +39,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PostScript](#postscript)
 - [Python](#python)
 - [ReScript](#rescript)
@@ -667,6 +668,10 @@
 - [hehehenri/money-transaction-system](https://github.com/hehehenri/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
+
+## Perl 
+
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 
 ## PostScript 
 
