@@ -524,6 +524,7 @@
 
 ## data-science 
 
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI Research
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
@@ -553,6 +554,7 @@
 
 ## deep-learning 
 
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI Research
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1194,6 +1196,7 @@
 
 ## machine-learning 
 
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you understand python from the scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1438,6 +1441,7 @@
 
 ## others 
 
+- [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - AST-based Codemod Framework for Vue projects
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
@@ -1956,6 +1960,7 @@
 
 ## python 
 
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI Research
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
