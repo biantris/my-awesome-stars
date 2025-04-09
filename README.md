@@ -961,7 +961,6 @@
 - [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [NicolasLopes7/tiny-background-job-redis-ts](https://github.com/NicolasLopes7/tiny-background-job-redis-ts) - creating a simple application to show how to use background jobs
-- [danestves/danestves.com](https://github.com/danestves/danestves.com) - ✨ My portfolio built with Remix, Tailwind, Prisma, and Fly.io.
 - [joaotuliojt/motivation](https://github.com/joaotuliojt/motivation) - 
 - [gabrielmeloc22/faro-bot](https://github.com/gabrielmeloc22/faro-bot) - A Rodrigo Faro bot that matches people
 - [NicolasLopes7/housefy-frontend](https://github.com/NicolasLopes7/housefy-frontend) - 
