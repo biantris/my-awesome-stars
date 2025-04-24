@@ -452,7 +452,7 @@
 ## Jupyter Notebook 
 
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Medicine, Genomics, Science Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you understand python from the scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
@@ -591,7 +591,6 @@
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [sgillespie/lambda-calculus](https://github.com/sgillespie/lambda-calculus) - An introduction to the Lambda Calculus
 - [luistak/idp-guideline](https://github.com/luistak/idp-guideline) - This guideline aims to help you prepare and elaborate your development plan based on a kaizen recurrent methodology.
-- [worklab1/fullstack_challenge](https://github.com/worklab1/fullstack_challenge) - 
 - [maateusilva/display-automations](https://github.com/maateusilva/display-automations) - Scripts made with AppleScript to automate the display settings on Macs.
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
