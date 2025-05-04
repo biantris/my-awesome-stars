@@ -516,6 +516,7 @@
 
 ## Others 
 
+- [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
 - [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - 
 - [filrak/vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
