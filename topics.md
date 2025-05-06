@@ -573,7 +573,7 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## development 
 
@@ -870,6 +870,7 @@
 
 ## hacktoberfest 
 
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [basementdevs/scylla-studio](https://github.com/basementdevs/scylla-studio) - Scylla Studio – ⚡ A modern and intuitive front-end for ScyllaDB 🐙, enabling visualization 👀, creation ✏️, and management ⚙️ of keyspaces and tables, with integrated metrics 📊 in a single tool.
@@ -2094,7 +2095,7 @@
 - [erictaylor/yarr](https://github.com/erictaylor/yarr) - A React router library enabling the render-as-you-fetch concurrent UI pattern.
 - [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next) - Easily translate your Gatsby website into multiple languages
 - [wrongbyte/comments-section](https://github.com/wrongbyte/comments-section) - :sparkles: Interactive responsive comments section made with React
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [Carolis/typescript4noobs](https://github.com/Carolis/typescript4noobs) - Typescript para iniciantes
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
@@ -2260,7 +2261,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## solidity 
 
