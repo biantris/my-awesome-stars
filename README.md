@@ -206,7 +206,7 @@
 
 - [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
-- [yayaflc/portfolio](https://github.com/yayaflc/portfolio) - 🌸 portfolio yaya.dev
+- [yayaflc/old-portfolio](https://github.com/yayaflc/old-portfolio) - 🌸 portfolio yaya.dev
 - [Grubba27/golings-site](https://github.com/Grubba27/golings-site) - Golings website
 - [lincolixavier/crimson-template](https://github.com/lincolixavier/crimson-template) - A starter portfolio/blog theme designed by me and created for developers tell stories about their work. 🚀
 - [LukeberryPi/posso-perguntar](https://github.com/LukeberryPi/posso-perguntar) - Esse site é o primo brasileiro do Don't Ask to Ask. É sobre como conseguir a resposta mais esclarecedora, o mais rápido possível.
