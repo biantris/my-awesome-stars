@@ -828,7 +828,7 @@
 - [Gabriel-Valin/elk-node](https://github.com/Gabriel-Valin/elk-node) - 
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [Grubba27/meteor-rpc](https://github.com/Grubba27/meteor-rpc) - Meteor Methods Evolved
-- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue.js
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [likui628/vue3-realworld-example-app](https://github.com/likui628/vue3-realworld-example-app) - real world example app
 - [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
