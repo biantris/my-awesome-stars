@@ -1451,6 +1451,7 @@
 
 ## others 
 
+- [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
