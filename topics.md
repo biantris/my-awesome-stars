@@ -413,7 +413,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -789,7 +789,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -804,7 +804,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1015,6 +1015,8 @@
 
 ## javascript 
 
+- [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1322,7 +1324,7 @@
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
 - [jrsousadev/live-chat-web](https://github.com/jrsousadev/live-chat-web) - 💬 Live chat web with NextJS and Socket.io
@@ -1385,7 +1387,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
@@ -1435,7 +1437,7 @@
 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - Links úteis e recursos essenciais para desenvolvedores frontend.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
 - [akinncar/talk-open-source](https://github.com/akinncar/talk-open-source) - Talk about Open Source
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -1450,6 +1452,8 @@
 
 ## others 
 
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+- [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores.
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
@@ -2027,7 +2031,7 @@
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -2230,11 +2234,11 @@
 
 ## security 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 ## security-tools 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 ## self-hosted 
 
@@ -2411,7 +2415,7 @@
 - [LFSCamargo/vue.pnpm](https://github.com/LFSCamargo/vue.pnpm) - Vue and PNPM Monorepo
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
