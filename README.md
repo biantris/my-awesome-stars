@@ -97,7 +97,6 @@
 
 ## CSS 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
 - [akinncar/business-name-generator](https://github.com/akinncar/business-name-generator) - 🤖 Generate business names with ChatGPT3 API
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
@@ -532,6 +531,7 @@
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
