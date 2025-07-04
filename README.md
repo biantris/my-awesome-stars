@@ -63,7 +63,6 @@
 
 - [leandronsp/magali](https://github.com/leandronsp/magali) - A minimalist yet multi-threaded HTTP server coded in pure Assembly x86
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
-- [justleoo/helloWorld](https://github.com/justleoo/helloWorld) - :hibiscus: just a project to show all types of hello world available!
 
 ## Astro 
 
@@ -97,6 +96,7 @@
 
 ## CSS 
 
+- [tatyquebralayout/n8n-Doc-pt-BR](https://github.com/tatyquebralayout/n8n-Doc-pt-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
 - [akinncar/business-name-generator](https://github.com/akinncar/business-name-generator) - 🤖 Generate business names with ChatGPT3 API
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
@@ -789,7 +789,6 @@
 
 ## TypeScript 
 
-- [tatyquebralayout/n8n-Doc-pt-BR](https://github.com/tatyquebralayout/n8n-Doc-pt-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores.
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
