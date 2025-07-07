@@ -385,7 +385,7 @@
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [Hy-Vee/lerna-yarn-workspaces-monorepo](https://github.com/Hy-Vee/lerna-yarn-workspaces-monorepo) - 🐉 A Monorepo with multiple packages and a shared build, test, and release process.
 - [sibelius/yarr-relay](https://github.com/sibelius/yarr-relay) - Created with CodeSandbox
-- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [theowenyoung/gatsby-plugin-intl](https://github.com/theowenyoung/gatsby-plugin-intl) - Gatsby plugin that turns your website into an internationalization-framework out of the box.
 - [Deividy/frete](https://github.com/Deividy/frete) - Consumo da API de calculo de frete, preços e prazos do correio. http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx
 - [akinncar/crypto-colors](https://github.com/akinncar/crypto-colors) - 🎨 CryptoColors NFT Collection
@@ -451,7 +451,7 @@
 ## Jupyter Notebook 
 
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Medicine, Genomics, Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you understand python from the scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
@@ -664,7 +664,7 @@
 
 ## PHP 
 
-- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 - [hehehenri/money-transaction-system](https://github.com/hehehenri/money-transaction-system) - 
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
 - [LiuvIT/larapix](https://github.com/LiuvIT/larapix) - OpenPix Laravel SDK
