@@ -243,7 +243,7 @@
 
 ## JavaScript 
 
-- [tatyquebralayout/n8n-Doc-pt-BR](https://github.com/tatyquebralayout/n8n-Doc-pt-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
+- [n8nDocPt-Br/n8n-Doc-pt-BR](https://github.com/n8nDocPt-Br/n8n-Doc-pt-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
@@ -886,7 +886,7 @@
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [NicolasLopes7/recipefy](https://github.com/NicolasLopes7/recipefy) - get recipes with whatever you have on your fridge 🍝
-- [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
+- [digoarthur/github-automated-repos](https://github.com/digoarthur/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
