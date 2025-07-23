@@ -67,7 +67,7 @@
 ## Astro 
 
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
-- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 
 ## C 
 
@@ -184,7 +184,7 @@
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [arthur404dev/ZooApi](https://github.com/arthur404dev/ZooApi) - RESTful API written in GOlang to be used as a boilerplate for GOlang projects.
-- [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
+- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [dilaragorum/real-time-competation-go](https://github.com/dilaragorum/real-time-competation-go) - 
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -254,7 +254,7 @@
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
-- [vit0rr/eslint-meteor-error](https://github.com/vit0rr/eslint-meteor-error) - Eslint rule for MeteorJS to use only Meteor.Error constructor
+- [vitorsouzaalmeida/eslint-meteor-error](https://github.com/vitorsouzaalmeida/eslint-meteor-error) - Eslint rule for MeteorJS to use only Meteor.Error constructor
 - [healeycodes/doom-checkboxes](https://github.com/healeycodes/doom-checkboxes) - 🕹️ DOOM rendered via checkboxes in a web browser.
 - [MattCozendey/doom-console-log](https://github.com/MattCozendey/doom-console-log) - 🕹️ DOOM rendered via console.log() in a web browser.
 - [igorfelipeduca/meteor-zodern](https://github.com/igorfelipeduca/meteor-zodern) - 
@@ -269,7 +269,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [sibelius/intern-to-cto](https://github.com/sibelius/intern-to-cto) - Intern to CTO path
-- [vit0rr/todo-meteor](https://github.com/vit0rr/todo-meteor) - A ToDo CRUD App using MeteorJS
+- [vitorsouzaalmeida/todo-meteor](https://github.com/vitorsouzaalmeida/todo-meteor) - A ToDo CRUD App using MeteorJS
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [herbsjs/herbs](https://github.com/herbsjs/herbs) - A domain-first framework. Code your domain and your infrastructure will follow
@@ -332,17 +332,17 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [vit0rr/play-pause](https://github.com/vit0rr/play-pause) - 
+- [vitorsouzaalmeida/play-pause](https://github.com/vitorsouzaalmeida/play-pause) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
-- [vit0rr/relay-basics](https://github.com/vit0rr/relay-basics) - Step-by-step relay guide
+- [vitorsouzaalmeida/relay-basics](https://github.com/vitorsouzaalmeida/relay-basics) - Step-by-step relay guide
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
-- [vit0rr/context-api](https://github.com/vit0rr/context-api) - Example of React Context API
-- [vit0rr/crud-react](https://github.com/vit0rr/crud-react) - React crud using LocalStorage
+- [vitorsouzaalmeida/context-api](https://github.com/vitorsouzaalmeida/context-api) - Example of React Context API
+- [vitorsouzaalmeida/crud-react](https://github.com/vitorsouzaalmeida/crud-react) - React crud using LocalStorage
 - [tiagoboeing/33-js-concepts](https://github.com/tiagoboeing/33-js-concepts) - 📜  33 Conceitos que todo desenvolvedor JS deve conhecer.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
@@ -350,7 +350,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [captbaritone/redux-to-relay-with-live-resolvers-example](https://github.com/captbaritone/redux-to-relay-with-live-resolvers-example) - Demonstrating migrating from Redux to Relay using Live Resolvers
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
-- [vit0rr/users-graphiql](https://github.com/vit0rr/users-graphiql) - Crud with GraphQL + Express + Json Server
+- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [audisiofilho/finaceApp](https://github.com/audisiofilho/finaceApp) - Front-End de um App de finanças
 - [Nick-Gabe/hackerman](https://github.com/Nick-Gabe/hackerman) - Website to simulate writing code, just as how films show.
 - [thiago-nsousa/myPortfolio](https://github.com/thiago-nsousa/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
@@ -360,7 +360,7 @@
 - [NicolasLopes7/basic-gallery-react-crud-begginer](https://github.com/NicolasLopes7/basic-gallery-react-crud-begginer) - repo to teach react for a friend
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [danbovey/react-infinite-scroller](https://github.com/danbovey/react-infinite-scroller) - ⏬ Infinite scroll component for React in ES6
-- [vit0rr/relay-crud](https://github.com/vit0rr/relay-crud) - 
+- [vitorsouzaalmeida/relay-crud](https://github.com/vitorsouzaalmeida/relay-crud) - 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
@@ -451,7 +451,7 @@
 ## Jupyter Notebook 
 
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
@@ -711,7 +711,7 @@
 
 ## ReScript 
 
-- [vit0rr/rescript-overview](https://github.com/vit0rr/rescript-overview) - Just an ReScript overview
+- [vitorsouzaalmeida/rescript-overview](https://github.com/vitorsouzaalmeida/rescript-overview) - Just an ReScript overview
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 
 ## Roff 
@@ -728,7 +728,7 @@
 ## Rust 
 
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
-- [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
+- [vitorsouzaalmeida/shorelark](https://github.com/vitorsouzaalmeida/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [algebraic-dev/vulpi](https://github.com/algebraic-dev/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
@@ -790,12 +790,12 @@
 ## TypeScript 
 
 - [n8n-brasil/n8n-Doc-PT-BR](https://github.com/n8n-brasil/n8n-Doc-PT-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
-- [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores.
+- [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Configurable persistence and rehydration of Pinia stores
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - AST-based Codemod Framework for Vue projects
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source assistant for decentralized search. Explore the best of Web, AI, and more.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant. Be free. Search on the Web, AI, and more.
 - [rxb3rth/nuxt-feature-flags](https://github.com/rxb3rth/nuxt-feature-flags) - A powerful, type-safe feature flag module for Nuxt 3 that enables both static and dynamic feature flag evaluation with server-side support. Perfect for A/B testing, gradual rollouts, and feature manag
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
