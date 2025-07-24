@@ -214,7 +214,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source assistant for decentralized search. Explore the best of Web, AI, and more.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant. Be free. Search on the Web, AI, and more.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -543,7 +543,7 @@
 
 ## data-science 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
@@ -574,7 +574,7 @@
 
 ## deep-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -683,7 +683,7 @@
 
 ## eslint 
 
-- [vit0rr/eslint-meteor-error](https://github.com/vit0rr/eslint-meteor-error) - Eslint rule for MeteorJS to use only Meteor.Error constructor
+- [vitorsouzaalmeida/eslint-meteor-error](https://github.com/vitorsouzaalmeida/eslint-meteor-error) - Eslint rule for MeteorJS to use only Meteor.Error constructor
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [discord/eslint-traverse](https://github.com/discord/eslint-traverse) - Create a sub-traversal of an AST node in your ESLint plugin
@@ -707,7 +707,7 @@
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
-- [vit0rr/users-graphiql](https://github.com/vit0rr/users-graphiql) - Crud with GraphQL + Express + Json Server
+- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 
 ## finance 
@@ -806,7 +806,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
+- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -823,7 +823,7 @@
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
+- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [dilaragorum/real-time-competation-go](https://github.com/dilaragorum/real-time-competation-go) - 
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -857,7 +857,7 @@
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
-- [vit0rr/users-graphiql](https://github.com/vit0rr/users-graphiql) - Crud with GraphQL + Express + Json Server
+- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [graphql-community/koa-graphql](https://github.com/graphql-community/koa-graphql) - Create a GraphQL HTTP server with Koa.
 - [graphql/graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
@@ -918,7 +918,7 @@
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
-- [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
+- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
@@ -1084,7 +1084,7 @@
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
-- [vit0rr/crud-react](https://github.com/vit0rr/crud-react) - React crud using LocalStorage
+- [vitorsouzaalmeida/crud-react](https://github.com/vitorsouzaalmeida/crud-react) - React crud using LocalStorage
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -1110,7 +1110,7 @@
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 - [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
@@ -1226,7 +1226,7 @@
 
 ## machine-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1275,10 +1275,10 @@
 ## mongodb 
 
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
-- [vit0rr/todo-meteor](https://github.com/vit0rr/todo-meteor) - A ToDo CRUD App using MeteorJS
+- [vitorsouzaalmeida/todo-meteor](https://github.com/vitorsouzaalmeida/todo-meteor) - A ToDo CRUD App using MeteorJS
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
-- [vit0rr/Govie](https://github.com/vit0rr/Govie) - Go + MongoDB Crud
+- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -1365,7 +1365,7 @@
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
-- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 
 ## no-code 
 
@@ -1421,7 +1421,7 @@
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
-- [vit0rr/users-graphiql](https://github.com/vit0rr/users-graphiql) - Crud with GraphQL + Express + Json Server
+- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
@@ -1429,7 +1429,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
-- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 - [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
 - [matheustanaka/challengeGraphql](https://github.com/matheustanaka/challengeGraphql) - CRUD using Graphql, Apollo server and Mongodb.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1473,7 +1473,7 @@
 
 - [dutradotdev/mcp-portal-transparencia](https://github.com/dutradotdev/mcp-portal-transparencia) - MCP para orquestração automatizada de chamadas à API do Portal da Transparência do Governo Federal brasileiro
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
-- [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores.
+- [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Configurable persistence and rehydration of Pinia stores
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
@@ -1500,7 +1500,7 @@
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
-- [vit0rr/shorelark](https://github.com/vit0rr/shorelark) - Learning to Fly - Shorelark
+- [vitorsouzaalmeida/shorelark](https://github.com/vitorsouzaalmeida/shorelark) - Learning to Fly - Shorelark
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
 - [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
 - [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
@@ -1669,7 +1669,7 @@
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [nandokferrari/woovi-front](https://github.com/nandokferrari/woovi-front) - 
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
-- [vit0rr/rescript-overview](https://github.com/vit0rr/rescript-overview) - Just an ReScript overview
+- [vitorsouzaalmeida/rescript-overview](https://github.com/vitorsouzaalmeida/rescript-overview) - Just an ReScript overview
 - [Universidade-Livre/matematica](https://github.com/Universidade-Livre/matematica) - 🧮 Um caminho para a educação autodidata em Matemática!
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
@@ -1728,7 +1728,7 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
-- [vit0rr/play-pause](https://github.com/vit0rr/play-pause) - 
+- [vitorsouzaalmeida/play-pause](https://github.com/vitorsouzaalmeida/play-pause) - 
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
@@ -1737,11 +1737,11 @@
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [padelis/relay-workshop](https://github.com/padelis/relay-workshop) - Material for my Relay Workshop
 - [Rinyaresu/crud-react-and-rails](https://github.com/Rinyaresu/crud-react-and-rails) - 
-- [vit0rr/relay-basics](https://github.com/vit0rr/relay-basics) - Step-by-step relay guide
+- [vitorsouzaalmeida/relay-basics](https://github.com/vitorsouzaalmeida/relay-basics) - Step-by-step relay guide
 - [EmanuelCampos/proxy-contract](https://github.com/EmanuelCampos/proxy-contract) - A basic proxy contract
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
-- [vit0rr/context-api](https://github.com/vit0rr/context-api) - Example of React Context API
+- [vitorsouzaalmeida/context-api](https://github.com/vitorsouzaalmeida/context-api) - Example of React Context API
 - [tiagoboeing/33-js-concepts](https://github.com/tiagoboeing/33-js-concepts) - 📜  33 Conceitos que todo desenvolvedor JS deve conhecer.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [HenriqueBros/Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) - Tutorial de Arduino para iniciantes
@@ -1762,7 +1762,7 @@
 - [michalzalobny/threejs-page-transition](https://github.com/michalzalobny/threejs-page-transition) - Web application, that uses THREE.JS and NextJS for the transitions between pages 👾. I've created this project to test the possibility of merging SPA'a and awwwards-like page transitions.
 - [Streeterxs/socialnetwork](https://github.com/Streeterxs/socialnetwork) - GraphQL - Nodejs - React - Relay
 - [jantimon/next-relay-demo](https://github.com/jantimon/next-relay-demo) - Relay React Concurrency Example
-- [vit0rr/relay-crud](https://github.com/vit0rr/relay-crud) - 
+- [vitorsouzaalmeida/relay-crud](https://github.com/vitorsouzaalmeida/relay-crud) - 
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1956,7 +1956,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source assistant for decentralized search. Explore the best of Web, AI, and more.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant. Be free. Search on the Web, AI, and more.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -2000,7 +2000,7 @@
 
 ## python 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI, Bio/Medicine & Science Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
@@ -2105,7 +2105,7 @@
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
 - [jacques-blom/recoil-course](https://github.com/jacques-blom/recoil-course) - The code for my free Recoil Course, learnrecoil.com
-- [vit0rr/crud-react](https://github.com/vit0rr/crud-react) - React crud using LocalStorage
+- [vitorsouzaalmeida/crud-react](https://github.com/vitorsouzaalmeida/crud-react) - React crud using LocalStorage
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
@@ -2202,7 +2202,7 @@
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [daniloab/rbaf-web](https://github.com/daniloab/rbaf-web) - Website Dashboard Manager built with React, Relay and GraphQL
-- [vit0rr/blog](https://github.com/vit0rr/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 - [ricokahler/hocify](https://github.com/ricokahler/hocify) - a simple library that converts hooks to HOCs for compatibility with class-based components.
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print) - Print React components in the browser
