@@ -47,6 +47,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -55,6 +56,7 @@
 - [deno](#deno)
 - [dependency-management](#dependency-management)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -541,6 +543,10 @@
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 
+## data-engineering 
+
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+
 ## data-science 
 
 - [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
@@ -592,6 +598,13 @@
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+
+## developer-tools 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## development 
 
@@ -1518,7 +1531,6 @@
 - [healeycodes/doom-checkboxes](https://github.com/healeycodes/doom-checkboxes) - 🕹️ DOOM rendered via checkboxes in a web browser.
 - [MattCozendey/doom-console-log](https://github.com/MattCozendey/doom-console-log) - 🕹️ DOOM rendered via console.log() in a web browser.
 - [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
-- [Gabriel-Valin/elk-node](https://github.com/Gabriel-Valin/elk-node) - 
 - [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [igorfelipeduca/meteor-zodern](https://github.com/igorfelipeduca/meteor-zodern) - 
 - [zodern/meteor-relay](https://github.com/zodern/meteor-relay) - Type safe Meteor methods and publications
