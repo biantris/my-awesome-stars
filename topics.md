@@ -1506,7 +1506,6 @@
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
 - [silver-dev-org/interview-ready](https://github.com/silver-dev-org/interview-ready) - A repo for interview practice.
-- [estartandodevs-course/ts-class](https://github.com/estartandodevs-course/ts-class) - 
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [patrickn2/OpenVPNServer](https://github.com/patrickn2/OpenVPNServer) - How to create an OPENVPN Server
