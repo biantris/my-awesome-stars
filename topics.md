@@ -604,7 +604,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Frontend Infrastructure Research
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## development 
@@ -756,7 +756,7 @@
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [mauriciomutte/learn-frontend-infrastructure](https://github.com/mauriciomutte/learn-frontend-infrastructure) - 📚 Studies about Frontend infrastructure
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - Links úteis e recursos essenciais para desenvolvedores frontend.
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Frontend Infrastructure Research
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
@@ -1073,7 +1073,7 @@
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Frontend Infrastructure Research
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
@@ -1081,7 +1081,7 @@
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2091,7 +2091,7 @@
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [jrsousadev/challenge-surflex-front](https://github.com/jrsousadev/challenge-surflex-front) - 👨🏻‍💻 System Front-end with React, NextJS and Mui
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [wrongbyte/tuwuitter](https://github.com/wrongbyte/tuwuitter) - :sparkles: fullstack twitter clone developed with GraphQL and Relay
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -2460,7 +2460,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Frontend Infrastructure Research
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
@@ -2607,7 +2607,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - A lightweight React library for rendering complex After Effects animations in real time using Lottie.
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
