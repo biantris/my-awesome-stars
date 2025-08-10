@@ -296,7 +296,7 @@
 - [Grazinascito/Brainzi](https://github.com/Grazinascito/Brainzi) - 🧠A document that contains my learnings about web development and software engineering. Inspired by @biantris
 - [discord/eslint-traverse](https://github.com/discord/eslint-traverse) - Create a sub-traversal of an AST node in your ESLint plugin
 - [vinibgoulart/zettelkasten](https://github.com/vinibgoulart/zettelkasten) - 📄 Thoughts and Blog
-- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Research on Frontend Infrastructure
+- [imteekay/frontend-infrastructure](https://github.com/imteekay/frontend-infrastructure) - ✨ Frontend Infrastructure Research
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
 - [akinncar/talk-open-source](https://github.com/akinncar/talk-open-source) - Talk about Open Source
@@ -304,7 +304,7 @@
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
 - [Epharmix/Toureiro](https://github.com/Epharmix/Toureiro) - A web monitor for the bull library.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
