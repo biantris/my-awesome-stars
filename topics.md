@@ -138,6 +138,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
@@ -1465,6 +1466,10 @@
 
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 
+## obsidian-md 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+
 ## open-source 
 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -1656,7 +1661,6 @@
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer :)
 - [LukeberryPi/job-log](https://github.com/LukeberryPi/job-log) - personal writings of my daily triumphs and challenges as a junior software engineer
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
