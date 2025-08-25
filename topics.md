@@ -267,7 +267,7 @@
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [sibelius/graphql-mock-api](https://github.com/sibelius/graphql-mock-api) - A GraphQL mock to any GraphQL schema
@@ -878,7 +878,7 @@
 - [daniloab/rbaf-web](https://github.com/daniloab/rbaf-web) - Website Dashboard Manager built with React, Relay and GraphQL
 - [codedamn/roadmaps](https://github.com/codedamn/roadmaps) - Curriculum for full-stack learning path on codedamn. Become a full-stack web developer with relevant technologies of 2022
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [oscartbeaumont/vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - A vite plugin for Relay
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [LauraBeatris/graphql-academy](https://github.com/LauraBeatris/graphql-academy) - Repository with all the code references from my workshop called "GraphQL Academy"
