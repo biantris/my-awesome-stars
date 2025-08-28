@@ -91,7 +91,7 @@
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [designerjgames/Jack](https://github.com/designerjgames/Jack) - Enhanced Jack Compiler (with inheritance, polymorphism and more)
 
 ## CSS 
@@ -185,7 +185,6 @@
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [arthur404dev/ZooApi](https://github.com/arthur404dev/ZooApi) - RESTful API written in GOlang to be used as a boilerplate for GOlang projects.
-- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [dilaragorum/real-time-competation-go](https://github.com/dilaragorum/real-time-competation-go) - 
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -332,16 +331,13 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [vitorsouzaalmeida/play-pause](https://github.com/vitorsouzaalmeida/play-pause) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
-- [vitorsouzaalmeida/relay-basics](https://github.com/vitorsouzaalmeida/relay-basics) - Step-by-step relay guide
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
-- [vitorsouzaalmeida/context-api](https://github.com/vitorsouzaalmeida/context-api) - Example of React Context API
 - [vitorsouzaalmeida/crud-react](https://github.com/vitorsouzaalmeida/crud-react) - React crud using LocalStorage
 - [tiagoboeing/33-js-concepts](https://github.com/tiagoboeing/33-js-concepts) - 📜  33 Conceitos que todo desenvolvedor JS deve conhecer.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
@@ -350,7 +346,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [captbaritone/redux-to-relay-with-live-resolvers-example](https://github.com/captbaritone/redux-to-relay-with-live-resolvers-example) - Demonstrating migrating from Redux to Relay using Live Resolvers
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
-- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [audisiofilho/finaceApp](https://github.com/audisiofilho/finaceApp) - Front-End de um App de finanças
 - [Nick-Gabe/hackerman](https://github.com/Nick-Gabe/hackerman) - Website to simulate writing code, just as how films show.
 - [thiago-nsousa/myPortfolio](https://github.com/thiago-nsousa/myPortfolio) - Portfólio pessoal inspirado no VS Code e Github,  usando React, Context API, html e CSS
@@ -360,7 +355,6 @@
 - [NicolasLopes7/basic-gallery-react-crud-begginer](https://github.com/NicolasLopes7/basic-gallery-react-crud-begginer) - repo to teach react for a friend
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [danbovey/react-infinite-scroller](https://github.com/danbovey/react-infinite-scroller) - ⏬ Infinite scroll component for React in ES6
-- [vitorsouzaalmeida/relay-crud](https://github.com/vitorsouzaalmeida/relay-crud) - 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
@@ -711,7 +705,6 @@
 
 ## ReScript 
 
-- [vitorsouzaalmeida/rescript-overview](https://github.com/vitorsouzaalmeida/rescript-overview) - Just an ReScript overview
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 
 ## Roff 
@@ -728,7 +721,6 @@
 ## Rust 
 
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
-- [vitorsouzaalmeida/shorelark](https://github.com/vitorsouzaalmeida/shorelark) - Learning to Fly - Shorelark
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [algebraic-dev/vulpi](https://github.com/algebraic-dev/vulpi) - 🦊 | A language that compiles to LLVM and has algebraic effects
