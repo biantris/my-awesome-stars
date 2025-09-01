@@ -217,7 +217,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant. Be free. Search on the Web, AI, and more.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant on AI, Web, and more. Be free.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -385,7 +385,7 @@
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin) - A simple blockchain in Javascript. For educational purposes only.
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 ## bootstrap 
@@ -495,7 +495,7 @@
 
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 
 ## cryptography 
 
@@ -711,7 +711,7 @@
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
 - [diasjuniorr/tip-tweet](https://github.com/diasjuniorr/tip-tweet) - Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum. Authors can claim their tips using their Twitter account. You only need the tweet URL to tip.  🚀 😎
 - [web3brasil/web3brasil](https://github.com/web3brasil/web3brasil) - Recursos pra aprender Web3 e DeFi
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 
@@ -721,7 +721,6 @@
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
-- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 
 ## finance 
@@ -820,7 +819,6 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -837,7 +835,6 @@
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [dilaragorum/real-time-competation-go](https://github.com/dilaragorum/real-time-competation-go) - 
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -871,7 +868,6 @@
 - [ramonxm/travel-map](https://github.com/ramonxm/travel-map) - 🗺️ | A project to add travel pins to a map
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
-- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [graphql-community/koa-graphql](https://github.com/graphql-community/koa-graphql) - Create a GraphQL HTTP server with Koa.
 - [graphql/graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
@@ -932,7 +928,6 @@
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
-- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
@@ -958,7 +953,7 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - The companion to the Youtube tutorials
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1197,7 +1192,7 @@
 
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 
 ## languages 
 
@@ -1292,7 +1287,6 @@
 - [vitorsouzaalmeida/todo-meteor](https://github.com/vitorsouzaalmeida/todo-meteor) - A ToDo CRUD App using MeteorJS
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
-- [vitorsouzaalmeida/Govie](https://github.com/vitorsouzaalmeida/Govie) - Go + MongoDB Crud
 - [biantris/koa-server](https://github.com/biantris/koa-server) - 🗄️ GraphQL Back-end Server with Relay, Koa, MongoDB and Mongoose
 - [jrsousadev/fullcalendar-scheduler-back](https://github.com/jrsousadev/fullcalendar-scheduler-back) - 🗓️ Component inspired by google calendar [Node/Express/Mongo]
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -1435,7 +1429,6 @@
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ddanielsantos/cloneboxd](https://github.com/ddanielsantos/cloneboxd) - An open-source Letterboxd clone
-- [vitorsouzaalmeida/users-graphiql](https://github.com/vitorsouzaalmeida/users-graphiql) - Crud with GraphQL + Express + Json Server
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [BemteviSeguros/jobs](https://github.com/BemteviSeguros/jobs) - bem.te.vi's Job Opportunities
@@ -1517,7 +1510,6 @@
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
-- [vitorsouzaalmeida/shorelark](https://github.com/vitorsouzaalmeida/shorelark) - Learning to Fly - Shorelark
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
 - [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
 - [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
@@ -1684,7 +1676,6 @@
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [nandokferrari/woovi-front](https://github.com/nandokferrari/woovi-front) - 
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
-- [vitorsouzaalmeida/rescript-overview](https://github.com/vitorsouzaalmeida/rescript-overview) - Just an ReScript overview
 - [Universidade-Livre/matematica](https://github.com/Universidade-Livre/matematica) - 🧮 Um caminho para a educação autodidata em Matemática!
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
@@ -1743,7 +1734,6 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [taiki-e/create-gh-release-action](https://github.com/taiki-e/create-gh-release-action) - GitHub Action for creating GitHub Releases based on changelog.
-- [vitorsouzaalmeida/play-pause](https://github.com/vitorsouzaalmeida/play-pause) - 
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [scarletquasar/melon-helloworld-api](https://github.com/scarletquasar/melon-helloworld-api) - 
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
@@ -1752,11 +1742,9 @@
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [padelis/relay-workshop](https://github.com/padelis/relay-workshop) - Material for my Relay Workshop
 - [Rinyaresu/crud-react-and-rails](https://github.com/Rinyaresu/crud-react-and-rails) - 
-- [vitorsouzaalmeida/relay-basics](https://github.com/vitorsouzaalmeida/relay-basics) - Step-by-step relay guide
 - [EmanuelCampos/proxy-contract](https://github.com/EmanuelCampos/proxy-contract) - A basic proxy contract
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
-- [vitorsouzaalmeida/context-api](https://github.com/vitorsouzaalmeida/context-api) - Example of React Context API
 - [tiagoboeing/33-js-concepts](https://github.com/tiagoboeing/33-js-concepts) - 📜  33 Conceitos que todo desenvolvedor JS deve conhecer.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [HenriqueBros/Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) - Tutorial de Arduino para iniciantes
@@ -1777,7 +1765,6 @@
 - [michalzalobny/threejs-page-transition](https://github.com/michalzalobny/threejs-page-transition) - Web application, that uses THREE.JS and NextJS for the transitions between pages 👾. I've created this project to test the possibility of merging SPA'a and awwwards-like page transitions.
 - [Streeterxs/socialnetwork](https://github.com/Streeterxs/socialnetwork) - GraphQL - Nodejs - React - Relay
 - [jantimon/next-relay-demo](https://github.com/jantimon/next-relay-demo) - Relay React Concurrency Example
-- [vitorsouzaalmeida/relay-crud](https://github.com/vitorsouzaalmeida/relay-crud) - 
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1971,7 +1958,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant. Be free. Search on the Web, AI, and more.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔴🟠🔵🟢🟡🟣 Findto is an open source decentralized search assistant on AI, Web, and more. Be free.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -2316,7 +2303,7 @@
 
 - [LearnWeb3DAO/14-Days-of-Solidity](https://github.com/LearnWeb3DAO/14-Days-of-Solidity) - Follow along with the "14 Days of Solidity" challenge with our instructors, Larry Cutts and Sahil Aulja
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 
 ## spring 
 
