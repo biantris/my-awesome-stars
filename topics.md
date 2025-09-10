@@ -1488,6 +1488,7 @@
 
 ## others 
 
+- [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [dutradotdev/mcp-portal-transparencia](https://github.com/dutradotdev/mcp-portal-transparencia) - MCP para orquestração automatizada de chamadas à API do Portal da Transparência do Governo Federal brasileiro
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 💾 Configurable persistence and rehydration of Pinia stores
