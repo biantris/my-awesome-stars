@@ -395,6 +395,7 @@
 - [mercurius-js/cache](https://github.com/mercurius-js/cache) - Adds an in-process caching layer to Mercurius. Federation is fully supported.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [edumaciel10/digital-garden](https://github.com/edumaciel10/digital-garden) - This repo is a zettelkasten, created on obsidian with community
+- [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
@@ -1053,7 +1054,6 @@
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [woovibr/codemods](https://github.com/woovibr/codemods) - Node.js/Javascript codemods used at @entria
 - [noghartt/fakeddit](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB
-- [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
