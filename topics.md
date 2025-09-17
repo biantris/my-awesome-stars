@@ -1693,7 +1693,6 @@
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [calixtocarolina/Pensamento-Computacional](https://github.com/calixtocarolina/Pensamento-Computacional) - Um repositório que ajuda a compreender os aspectos teóricos e práticos do Pensamento Computacional!
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
-- [gmdias727/woovi-challenge](https://github.com/gmdias727/woovi-challenge) - 
 - [g-101/projeto-frontbox](https://github.com/g-101/projeto-frontbox) - 
 - [thenicolau/openpix-sdk-go](https://github.com/thenicolau/openpix-sdk-go) - SDK OpenPix in Golang
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
