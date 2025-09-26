@@ -33,6 +33,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -443,6 +444,11 @@
 ## clojure 
 
 - [clj-br/aprenda-clojure](https://github.com/clj-br/aprenda-clojure) - Lista de materiais e ferramentas para quem quer aprender Clojure
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## cms 
 
@@ -931,6 +937,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Engenheira-Coelho/O-que-as-mulheres-de-tech-querem](https://github.com/Engenheira-Coelho/O-que-as-mulheres-de-tech-querem) - 
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
@@ -1681,7 +1688,6 @@
 - [techmagiccube/vagas](https://github.com/techmagiccube/vagas) - Tech Magic Cube - Divulgação de Vagas
 - [daniloab/generate-key-crypto](https://github.com/daniloab/generate-key-crypto) - generat a key from crypto
 - [tereza-org/tereza](https://github.com/tereza-org/tereza) - Tereza monorepo
-- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [jeffque/digital-garden](https://github.com/jeffque/digital-garden) - Meu próprio jardim digital
 - [ccsseraphini/sibsday-xmas](https://github.com/ccsseraphini/sibsday-xmas) - 
 - [Gabriel-Valin/control-infra-api](https://github.com/Gabriel-Valin/control-infra-api) - 
