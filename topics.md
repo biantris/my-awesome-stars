@@ -212,6 +212,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -435,7 +436,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -834,7 +835,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -848,7 +849,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1075,6 +1076,7 @@
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [digoarthur/github-automated-repos](https://github.com/digoarthur/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [imteekay/crafting-an-interpreter](https://github.com/imteekay/crafting-an-interpreter) - Crafting an interpreter/compiler with TypeScript.
@@ -1487,7 +1489,7 @@
 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - Links úteis e recursos essenciais para desenvolvedores frontend.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
 - [akinncar/talk-open-source](https://github.com/akinncar/talk-open-source) - Talk about Open Source
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -2282,11 +2284,11 @@
 
 ## security 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
 ## security-tools 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
 ## self-hosted 
 
@@ -2464,7 +2466,7 @@
 - [LFSCamargo/vue.pnpm](https://github.com/LFSCamargo/vue.pnpm) - Vue and PNPM Monorepo
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
@@ -2679,6 +2681,10 @@
 ## xml 
 
 - [atomotavio/XML4Noobs](https://github.com/atomotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
+
+## youtube 
+
+- [Rocketseat/awesome](https://github.com/Rocketseat/awesome) - Uma lista dos materiais gratuitos diponibilizados pela Rocketseat, incluindo conteúdos do Blog, Youtube e Instagram.
 
 ## zig 
 
