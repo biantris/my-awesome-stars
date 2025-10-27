@@ -288,7 +288,7 @@
 - [biantris/basic-api](https://github.com/biantris/basic-api) - API w/ Node.js, Express.js, MongoDB and Mongoose
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
+- [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
 - [Odorizzi1/my-design](https://github.com/Odorizzi1/my-design) - 
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [Grazinascito/Brainzi](https://github.com/Grazinascito/Brainzi) - 🧠A document that contains my learnings about web development and software engineering. Inspired by @biantris
@@ -824,7 +824,7 @@
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [Grubba27/meteor-rpc](https://github.com/Grubba27/meteor-rpc) - Meteor Methods Evolved
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [likui628/vue3-realworld-example-app](https://github.com/likui628/vue3-realworld-example-app) - real world example app
 - [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
