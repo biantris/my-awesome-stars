@@ -403,7 +403,7 @@
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [jmealo/koa-request-to-curl](https://github.com/jmealo/koa-request-to-curl) - Adds a toCurl method to each request context that converts that request into a ready to run Curl command.
 - [akinncar/talk-rn-architecture-21](https://github.com/akinncar/talk-rn-architecture-21) - 
-- [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
+- [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [brainnco/desafios-pre-work-b-academy](https://github.com/brainnco/desafios-pre-work-b-academy) - Desafios para a semana de pré-work do B. Academy
 - [daniloab/graphql-real-world](https://github.com/daniloab/graphql-real-world) - GraphQL - Real World - https://daniloab.github.io/graphql-real-world/#0 | https://github.com/daniloab/graphql-real-world-server
 - [ricokahler/hocify](https://github.com/ricokahler/hocify) - a simple library that converts hooks to HOCs for compatibility with class-based components.
