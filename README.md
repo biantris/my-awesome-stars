@@ -590,7 +590,7 @@
 - [andressadotpy/curriculum-CS](https://github.com/andressadotpy/curriculum-CS) - A repository with a selection of hand picked free courses from high quality universities that amount to a full Computer Science undergrad curriculum, based on 2019's MIT undergrad curriculum.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [WoMakersCode/challenges-front-end](https://github.com/WoMakersCode/challenges-front-end) - Repositório referente à desafios de front-end da womakerscode
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [terremoth/pc-carroca](https://github.com/terremoth/pc-carroca) - Teu computador é uma carroça? Não tem problema, vamos torná-lo utilizável
 - [appcumbuca/desafios](https://github.com/appcumbuca/desafios) - Desafios de contratação. Vem fazer parte do nosso time!
 - [clj-br/aprenda-clojure](https://github.com/clj-br/aprenda-clojure) - Lista de materiais e ferramentas para quem quer aprender Clojure
