@@ -1676,7 +1676,7 @@
 - [joaotuliojt/learnig-gsap](https://github.com/joaotuliojt/learnig-gsap) - Aprendendo a criar animações GSAP com pequenos projetos
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
-- [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer :)
+- [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer.
 - [LukeberryPi/job-log](https://github.com/LukeberryPi/job-log) - personal writings of my daily triumphs and challenges as a junior software engineer
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
