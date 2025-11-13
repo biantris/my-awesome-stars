@@ -117,7 +117,7 @@
 - [rajasegar/cl-warehouse](https://github.com/rajasegar/cl-warehouse) - A sample Warehouse management app in Common Lisp
 - [fukamachi/mito](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 - [fukamachi/caveman](https://github.com/fukamachi/caveman) - Lightweight web application framework for Common Lisp.
-- [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer :)
+- [vindarel/common-lisp-course-in-videos](https://github.com/vindarel/common-lisp-course-in-videos) - Learn Lisp efficiently and become a happy programmer.
 - [cxxxr/sblint](https://github.com/cxxxr/sblint) - A linter for Common Lisp source code using SBCL
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [franzinc/aserve](https://github.com/franzinc/aserve) - AllegroServe, a web server written in Common Lisp
