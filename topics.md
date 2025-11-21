@@ -1075,7 +1075,7 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [digoarthur/github-automated-repos](https://github.com/digoarthur/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
@@ -1431,7 +1431,7 @@
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
-- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
@@ -2448,7 +2448,7 @@
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [vinibgoulart/observability-with-discord](https://github.com/vinibgoulart/observability-with-discord) - 🦅 App observability using Discord
 - [vinibgoulart/discord-bot-github-notifications](https://github.com/vinibgoulart/discord-bot-github-notifications) - 🤖 Discord bot to see your github notifications
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
