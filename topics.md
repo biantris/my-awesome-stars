@@ -568,7 +568,7 @@
 
 ## data-science 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
@@ -599,7 +599,7 @@
 
 ## deep-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1255,7 +1255,7 @@
 
 ## machine-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2024,7 +2024,7 @@
 
 ## python 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML/AI & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
