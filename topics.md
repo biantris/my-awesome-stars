@@ -232,7 +232,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open source decentralized search assistant. Search on AI, Web, and more. Be free.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -817,7 +817,7 @@
 
 ## generative-ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open source decentralized search assistant. Search on AI, Web, and more. Be free.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
 
 ## git 
 
@@ -1624,7 +1624,7 @@
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
-- [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
+- [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoio o trabalho remoto divulgando vagas semanalmente para +30.000 inscritos.
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [learn-video/continue-watching-api](https://github.com/learn-video/continue-watching-api) - 
@@ -2013,7 +2013,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open source decentralized search assistant. Search on AI, Web, and more. Be free.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
