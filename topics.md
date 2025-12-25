@@ -232,7 +232,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -817,7 +817,7 @@
 
 ## generative-ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI.
 
 ## git 
 
@@ -2013,7 +2013,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI. Take control of your search.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is an open-source, decentralized search assistant for the Web and AI.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
