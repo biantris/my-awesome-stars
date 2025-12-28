@@ -1556,7 +1556,7 @@
 - [gaearon/formalising-mathematics-notes](https://github.com/gaearon/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2025
 - [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - 
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim é uma biblioteca JavaScript moderna que implementa conceitos fundamentais de computação quântica e criptografia quântica. Projetada para ser intuitiva e educacional
+- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
 - [filrak/vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [adolfont/caes005-introduction-to-functional-programming](https://github.com/adolfont/caes005-introduction-to-functional-programming) - CAES005 - Introdução à Programação Funcional
 - [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Coloque aqui links de projetos com funcionalidades que envolvam o BlueSky! 🦋💙
