@@ -587,7 +587,7 @@
 
 ## data-science 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML for Biology & Medicine Research
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 
@@ -618,7 +618,7 @@
 
 ## deep-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML for Biology & Medicine Research
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1282,7 +1282,7 @@
 
 ## machine-learning 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML for Biology & Medicine Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2066,7 +2066,7 @@
 
 ## python 
 
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML for Biology & Medicine Research
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
@@ -2078,7 +2078,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2025.
+- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2026.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
