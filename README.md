@@ -445,7 +445,7 @@
 ## Jupyter Notebook 
 
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
-- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ AI/ML & Bio/Medicine Research
+- [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research) - ✨ ML for Biology & Medicine Research
 - [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
@@ -572,7 +572,7 @@
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
-- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2025.
+- [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2026.
 - [asklisa/fullstack-challenge](https://github.com/asklisa/fullstack-challenge) - Full Stack Engineer Challenge
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) - :microscope: Espaço para divulgação de vagas para front-enders.
