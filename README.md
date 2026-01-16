@@ -201,6 +201,7 @@
 ## HTML 
 
 - [dutradotdev/mcp-portal-transparencia](https://github.com/dutradotdev/mcp-portal-transparencia) - MCP para orquestração automatizada de chamadas à API do Portal da Transparência do Governo Federal brasileiro
+- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
 - [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [yayaflc/old-portfolio](https://github.com/yayaflc/old-portfolio) - 🌸 portfolio yaya.dev
@@ -246,7 +247,6 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
-- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [robcresswell/vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons) - Material Design Icons as Vue Single File Components
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
