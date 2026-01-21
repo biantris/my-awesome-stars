@@ -43,7 +43,6 @@
 - [PostScript](#postscript)
 - [Python](#python)
 - [ReScript](#rescript)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -706,10 +705,6 @@
 
 - [zth/rescript-relay](https://github.com/zth/rescript-relay) - Use Relay with ReScript.
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -750,6 +745,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lucasm/terminal](https://github.com/lucasm/terminal) - 💻 My terminal configs for macOS, Linux, and Windows.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [lanjoni/lpi4noobs](https://github.com/lanjoni/lpi4noobs) - Guia completo para preparação da certificação LPI Essentials (LPI LE-1)! 🐧
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
