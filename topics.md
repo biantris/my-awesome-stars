@@ -1752,7 +1752,6 @@
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
 - [antonio-ricardo/sql-node](https://github.com/antonio-ricardo/sql-node) - repositorio para estudar postgres e coisas de banco relacionais
 - [myat-hsu-mon/GuardRails-FullStack-Engineer-Challenge](https://github.com/myat-hsu-mon/GuardRails-FullStack-Engineer-Challenge) - Application security scanning results challenge
-- [asklisa/fullstack-challenge](https://github.com/asklisa/fullstack-challenge) - Full Stack Engineer Challenge
 - [mthmontes/project-bd-python](https://github.com/mthmontes/project-bd-python) - 
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
