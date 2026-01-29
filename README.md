@@ -571,7 +571,6 @@
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
 - [Devinterview-io/python-interview-questions](https://github.com/Devinterview-io/python-interview-questions) - 🟣 Python interview questions and answers to help you prepare for your next technical interview in 2026.
-- [asklisa/fullstack-challenge](https://github.com/asklisa/fullstack-challenge) - Full Stack Engineer Challenge
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) - :microscope: Espaço para divulgação de vagas para front-enders.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
