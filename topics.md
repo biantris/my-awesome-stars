@@ -1599,7 +1599,7 @@
 - [igorfelipeduca/meteor-zodern](https://github.com/igorfelipeduca/meteor-zodern) - 
 - [zodern/meteor-relay](https://github.com/zodern/meteor-relay) - Type safe Meteor methods and publications
 - [Grubba27/meteor-rpc](https://github.com/Grubba27/meteor-rpc) - Meteor Methods Evolved
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
