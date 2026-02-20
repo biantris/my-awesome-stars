@@ -1210,7 +1210,7 @@
 ## json 
 
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 
 ## jupyter-notebook 
 
@@ -1416,7 +1416,7 @@
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
 - [jrsousadev/live-chat-web](https://github.com/jrsousadev/live-chat-web) - 💬 Live chat web with NextJS and Socket.io
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
@@ -2138,7 +2138,7 @@
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [Avarios/use-lilius](https://github.com/Avarios/use-lilius) - 📅 A headless calendar hook for React.
 - [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
@@ -2615,7 +2615,7 @@
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
 
