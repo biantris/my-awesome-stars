@@ -2059,7 +2059,7 @@
 
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [lucasm/memeh](https://github.com/lucasm/memeh) - 🔴🔴🔴📰 Memeh is a news reader with memes and trusted journalism.
+- [lucasm/memeh](https://github.com/lucasm/memeh) - 🔴🔴🔴📰 Memeh is a news reader with trusted journalism without algorithms.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
