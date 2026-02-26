@@ -543,7 +543,7 @@
 ## csharp 
 
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 
 ## css 
 
@@ -1078,7 +1078,7 @@
 
 - [Quackster/Kepler](https://github.com/Quackster/Kepler) - A server created in Java designed to revive Habbo Hotel v14 from the 2007 era.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 
 ## javascript 
@@ -1168,7 +1168,7 @@
 - [kay-is/web3-from-zero](https://github.com/kay-is/web3-from-zero) - A basic introduction to web3 and its concepts, using the JavaScript you already know.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -1229,7 +1229,7 @@
 
 ## kotlin 
 
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 
 ## kubernetes 
 
@@ -1498,7 +1498,7 @@
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [matheustanaka/challengeGraphql](https://github.com/matheustanaka/challengeGraphql) - CRUD using Graphql, Apollo server and Mongodb.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
@@ -2083,7 +2083,7 @@
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
-- [juntossomosmais/code-challenge](https://github.com/juntossomosmais/code-challenge) - Conheça nosso desafio para trabalhar conosco como engenheiro de software
+- [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
