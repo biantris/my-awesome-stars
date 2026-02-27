@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -67,6 +68,10 @@
 
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
+
+## Batchfile 
+
+- [pvorb/learn-you-a-haskell](https://github.com/pvorb/learn-you-a-haskell) - “Learn You a Haskell for Great Good!” by Miran Lipovača
 
 ## C 
 
@@ -481,7 +486,6 @@
 
 - [commonlispbr/cl-cookbook](https://github.com/commonlispbr/cl-cookbook) - The Common Lisp Cookbook: Tradução para PT-BR [WIP].
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [pvorb/learn-you-a-haskell](https://github.com/pvorb/learn-you-a-haskell) - “Learn You a Haskell for Great Good!” by Miran Lipovača
 
 ## Markdown 
 
@@ -921,7 +925,7 @@
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴🔴🔴📰 Aspiral is a news reader of trusted journalism, without algorithms.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴🔴🔴📰 Aspiral is a news feed of trusted journalism, without algorithms.
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
