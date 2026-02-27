@@ -2059,7 +2059,7 @@
 
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴🔴🔴📰 Aspiral is a news reader of trusted journalism, without algorithms.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴🔴🔴📰 Aspiral is a news feed of trusted journalism, without algorithms.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
