@@ -478,7 +478,7 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
-- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - 🍰 Architectural methodology for frontend projects
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - Architectural methodology for frontend projects
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
 ## Makefile 
