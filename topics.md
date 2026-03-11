@@ -570,7 +570,7 @@
 ## dart 
 
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## data 
 
@@ -1180,7 +1180,7 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 - [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print) - Print React components in the browser
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development :rocket:
@@ -2086,7 +2086,7 @@
 - [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## python3 
 
@@ -2315,7 +2315,7 @@
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## sass 
 
@@ -2567,7 +2567,7 @@
 - [woovibr/graphql-mongo-helpers](https://github.com/woovibr/graphql-mongo-helpers) - GraphQL + MongoDB helpers that scale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [daniloab/koa-crud-backend](https://github.com/daniloab/koa-crud-backend) - Backend implementation of REST api with Node.js, Koa.js, MongoDB and Jest Tests
