@@ -159,7 +159,7 @@
 
 - [jack-pappas/fsharp-logic-examples](https://github.com/jack-pappas/fsharp-logic-examples) - Examples from John Harrison's "Handbook of Practical Logic and Automated Reasoning", ported to F#.
 - [jorgef/fsharpworkshop](https://github.com/jorgef/fsharpworkshop) - F# Workshop
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## Go 
 
