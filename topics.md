@@ -1547,6 +1547,7 @@
 
 ## others 
 
+- [samsantosb/How-to-Promises](https://github.com/samsantosb/How-to-Promises) - How to properly use Promises with examples
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
