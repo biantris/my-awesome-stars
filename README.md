@@ -1007,7 +1007,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
 - [FuelLabs/fuel-ui](https://github.com/FuelLabs/fuel-ui) - Fuel design system
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus with Redoc
