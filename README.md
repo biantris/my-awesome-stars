@@ -612,7 +612,6 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
-- [1729/content](https://github.com/1729/content) - Open-source backend for content at 1729.com, beginning with the Network State lecture series.
 - [pscordeiro/pscordeiro](https://github.com/pscordeiro/pscordeiro) - Readme para a página inicial do perfil
 - [noghartt/garden](https://github.com/noghartt/garden) - A digital garden prototype - my notes and links are here
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
