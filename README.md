@@ -539,7 +539,7 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
-- [atomotavio/XML4Noobs](https://github.com/atomotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
+- [execotavio/XML4Noobs](https://github.com/execotavio/XML4Noobs) - Repositório 4Noobs que ensina conceitos de XML
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [ladamalina/coursera-startup](https://github.com/ladamalina/coursera-startup) - Startup Engineering. Lecture Slides (june 2013)
 - [sandersn/manual](https://github.com/sandersn/manual) - Explanatory writing
