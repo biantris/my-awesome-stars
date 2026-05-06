@@ -1678,7 +1678,7 @@
 - [MonkeyDevelopers/boilerplate-nuxt3](https://github.com/MonkeyDevelopers/boilerplate-nuxt3) - 
 - [scarletquasar/rust-rest-api](https://github.com/scarletquasar/rust-rest-api) - 
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [veloce-web/veloce](https://github.com/veloce-web/veloce) - kinda fast web framework
 - [ThePrimeagen/fem-algos](https://github.com/ThePrimeagen/fem-algos) - FrontEnd Master algorithms!
 - [lanjoni/lpi4noobs](https://github.com/lanjoni/lpi4noobs) - Guia completo para preparação da certificação LPI Essentials (LPI LE-1)! 🐧
