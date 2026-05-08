@@ -235,7 +235,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for the Web and AI.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized Web and AI search assistant.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -829,7 +829,7 @@
 
 ## generative-ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for the Web and AI.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized Web and AI search assistant.
 
 ## git 
 
@@ -1587,7 +1587,6 @@
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [brunocroh/bolhadev.chat](https://github.com/brunocroh/bolhadev.chat) - A free platform for Brazilian developers to improve their English skills.
-- [bankme-tech/aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
 - [tchaguitos/djangoframeworknapratica](https://github.com/tchaguitos/djangoframeworknapratica) - Repositório destinado à apostila do curso "Django framework na prática" disponível na Udemy através do link: https://bit.ly/3uwIpmC.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [duplicateduuid/banoffee](https://github.com/duplicateduuid/banoffee) - Banoffee is a social networking platform tailored for avid readers and knowledge seekers.
@@ -2024,7 +2023,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for the Web and AI.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized Web and AI search assistant.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -2065,7 +2064,7 @@
 
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news feed of trusted journalism, without algorithms.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news reader by trusted journalism, without algorithms.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
