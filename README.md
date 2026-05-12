@@ -715,6 +715,7 @@
 ## Rust 
 
 - [leandronsp/cortex](https://github.com/leandronsp/cortex) - A nano-LLM built entirely in Rust. From scratch. No deps, no libraries, no Python.
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -779,7 +780,6 @@
 
 ## TypeScript 
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
 - [n8n-brasil/n8n-Doc-PT-BR](https://github.com/n8n-brasil/n8n-Doc-PT-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
