@@ -402,7 +402,6 @@
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [jmealo/koa-request-to-curl](https://github.com/jmealo/koa-request-to-curl) - Adds a toCurl method to each request context that converts that request into a ready to run Curl command.
 - [akinncar/talk-rn-architecture-21](https://github.com/akinncar/talk-rn-architecture-21) - 
 - [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - Simple set of CLIs to scaffold and build React Native libraries for different targets
@@ -1069,6 +1068,7 @@
 - [Streeterxs/mongoose-partial-monorepo-example](https://github.com/Streeterxs/mongoose-partial-monorepo-example) - example of monorepo package which uses mongoose-partial-dump
 - [Streeterxs/timeout-server](https://github.com/Streeterxs/timeout-server) - node server to timeout requests
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [sibelius/ui-boilerplate](https://github.com/sibelius/ui-boilerplate) - Basic UI boilerplate to practice CSS
 - [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [akinncar/rn-mirror-lists](https://github.com/akinncar/rn-mirror-lists) - 🪞 Mirror scroll lists for React Native
