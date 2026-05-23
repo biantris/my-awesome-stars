@@ -75,6 +75,7 @@
 ## C 
 
 - [ariasdiniz/c_http_client](https://github.com/ariasdiniz/c_http_client) - A Simple and efficient HTTP Client for C
+- [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 
 ## C# # 
 
@@ -89,7 +90,6 @@
 
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
-- [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 - [HenriqueBros/Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) - Tutorial de Arduino para iniciantes
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
@@ -239,6 +239,7 @@
 
 ## Java 
 
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [Quackster/Kepler](https://github.com/Quackster/Kepler) - A server created in Java designed to revive Habbo Hotel v14 from the 2007 era.
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
@@ -713,7 +714,6 @@
 ## Rust 
 
 - [leandronsp/cortex](https://github.com/leandronsp/cortex) - A nano-LLM built entirely in Rust. From scratch. No deps, no libraries, no Python.
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -787,7 +787,7 @@
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - AST-based Codemod Framework for Vue projects
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized Web and AI search assistant.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
 - [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - A powerful, type-safe feature flag module for Nuxt 3 that enables both static and dynamic feature flag evaluation with server-side support. Perfect for A/B testing, gradual rollouts, and feature manag
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
@@ -924,7 +924,7 @@
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news reader by trusted journalism, without algorithms.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news reader powered by trusted journalism.
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
