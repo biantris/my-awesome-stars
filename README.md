@@ -239,7 +239,6 @@
 
 ## Java 
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [Quackster/Kepler](https://github.com/Quackster/Kepler) - A server created in Java designed to revive Habbo Hotel v14 from the 2007 era.
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
@@ -477,6 +476,7 @@
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - Architectural methodology for frontend projects
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
 ## Makefile 
@@ -714,6 +714,7 @@
 ## Rust 
 
 - [leandronsp/cortex](https://github.com/leandronsp/cortex) - A nano-LLM built entirely in Rust. From scratch. No deps, no libraries, no Python.
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -1003,7 +1004,6 @@
 - [Streeterxs/socialnetwork](https://github.com/Streeterxs/socialnetwork) - GraphQL - Nodejs - React - Relay
 - [jantimon/next-relay-demo](https://github.com/jantimon/next-relay-demo) - Relay React Concurrency Example
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
