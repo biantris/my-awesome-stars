@@ -239,6 +239,7 @@
 
 ## Java 
 
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [Quackster/Kepler](https://github.com/Quackster/Kepler) - A server created in Java designed to revive Habbo Hotel v14 from the 2007 era.
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
@@ -714,7 +715,6 @@
 ## Rust 
 
 - [leandronsp/cortex](https://github.com/leandronsp/cortex) - A nano-LLM built entirely in Rust. From scratch. No deps, no libraries, no Python.
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
