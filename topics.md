@@ -1856,7 +1856,7 @@
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
-- [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 Readme Generator for Visual Studio Code ❤️
+- [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 A lightweight VS Code extension that generates clean and professional README files in seconds, helping developers document their projects faster and more consistently 🚀
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [csr632/test-vite](https://github.com/csr632/test-vite) - 
