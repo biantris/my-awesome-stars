@@ -707,7 +707,7 @@
 
 ## Ruby 
 
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [Rinyaresu/crud-react-and-rails](https://github.com/Rinyaresu/crud-react-and-rails) - 
 - [leandronsp/adelnor](https://github.com/leandronsp/adelnor) - A dead simple, yet Rack-compatible, HTTP server written in Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
