@@ -304,7 +304,6 @@
 - [imteekay/crafting-frontend](https://github.com/imteekay/crafting-frontend) - ✨ Research, studies, and practice on Frontend
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
-- [Epharmix/Toureiro](https://github.com/Epharmix/Toureiro) - A web monitor for the bull library.
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
@@ -1056,7 +1055,7 @@
 - [akinncar/amora](https://github.com/akinncar/amora) - 🫐 Amora is an app to help establishments to retain customers made with React Native
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [aelbore/esbuild-jest](https://github.com/aelbore/esbuild-jest) - A Jest transformer using esbuild
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
