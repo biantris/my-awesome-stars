@@ -394,10 +394,9 @@
 - [sibelius/create-react-app-relay-modern](https://github.com/sibelius/create-react-app-relay-modern) - Create React App + Relay Modern
 - [Cesar-Roberto/random-quote-generator](https://github.com/Cesar-Roberto/random-quote-generator) - A Random Quote Generator app created using ClojureScript, gets quotes from an api and can post them to your Twitter!
 - [mercurius-js/cache](https://github.com/mercurius-js/cache) - Adds an in-process caching layer to Mercurius. Federation is fully supported.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [edumaciel10/digital-garden](https://github.com/edumaciel10/digital-garden) - This repo is a zettelkasten, created on obsidian with community
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
-- [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [marcin-wosinek/esbuild-tutorial](https://github.com/marcin-wosinek/esbuild-tutorial) - Example repository for a tutorial
 - [edumaciel10/codemods](https://github.com/edumaciel10/codemods) - 
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -1056,6 +1055,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+- [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
 - [aelbore/esbuild-jest](https://github.com/aelbore/esbuild-jest) - A Jest transformer using esbuild
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [woovibr/graphql-mongoose-loader](https://github.com/woovibr/graphql-mongoose-loader) - GraphQL Mongoose Loader helpers
