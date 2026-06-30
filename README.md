@@ -269,7 +269,6 @@
 - [webpack/sass-loader](https://github.com/webpack/sass-loader) - Compiles Sass to CSS
 - [anabastos/daledale](https://github.com/anabastos/daledale) - 🕺🍻 Dale dale dale dale PQP!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [sibelius/intern-to-cto](https://github.com/sibelius/intern-to-cto) - Intern to CTO path
 - [vitorsouzaalmeida/todo-meteor](https://github.com/vitorsouzaalmeida/todo-meteor) - A ToDo CRUD App using MeteorJS
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -835,6 +834,7 @@
 - [gabrielduete/virtual-healthcare](https://github.com/gabrielduete/virtual-healthcare) - Website Virtual healthcare builded with tailwindcss and react
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoio o trabalho remoto divulgando vagas semanalmente para +30.000 inscritos.
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [EmanuelCampos/monorepo-llama-index](https://github.com/EmanuelCampos/monorepo-llama-index) - Packages to use llama indexes on a react app with flask
 - [Wellers0n/node-kafka](https://github.com/Wellers0n/node-kafka) - nodejs application using kafka streams
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
