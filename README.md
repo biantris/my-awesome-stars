@@ -622,7 +622,6 @@
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
 - [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [he4rt/he4rtconf](https://github.com/he4rt/he4rtconf) - 
 - [tgmarinho/english-learning-tools](https://github.com/tgmarinho/english-learning-tools) - Learning English with it:
@@ -694,6 +693,7 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [fersilva16/minimalistic-icons](https://github.com/fersilva16/minimalistic-icons) - 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## ReScript 
