@@ -473,7 +473,6 @@
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - Architectural methodology for frontend projects
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 
 ## Makefile 
 
@@ -1022,6 +1021,7 @@
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 A lightweight VS Code extension that generates clean and professional README files in seconds, helping developers document their projects faster and more consistently 🚀
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
+- [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [csr632/test-vite](https://github.com/csr632/test-vite) - 
