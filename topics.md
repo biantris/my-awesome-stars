@@ -1881,7 +1881,6 @@
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 - [scarletquasar/OpenPixSDK](https://github.com/scarletquasar/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
 - [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Software Engineer.
-- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 - [boazbk/crypto](https://github.com/boazbk/crypto) - Lecture notes for a course on cryptography
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
@@ -2206,7 +2205,7 @@
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
 - [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
-- [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
+- [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native/Expo library to mask text and inputs
 - [ricokahler/hocify](https://github.com/ricokahler/hocify) - a simple library that converts hooks to HOCs for compatibility with class-based components.
 - [guilhermedinardi/entria](https://github.com/guilhermedinardi/entria) - 
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
@@ -2240,7 +2239,7 @@
 - [brandingbrand/flagship](https://github.com/brandingbrand/flagship) - 🚢 A React Native Configuration as Code Toolkit
 - [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [akinncar/rn-mirror-lists](https://github.com/akinncar/rn-mirror-lists) - 🪞 Mirror scroll lists for React Native
-- [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native and Expo library to mask text and inputs
+- [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native/Expo library to mask text and inputs
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
@@ -2319,6 +2318,7 @@
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
