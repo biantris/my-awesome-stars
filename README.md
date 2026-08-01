@@ -472,7 +472,6 @@
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [bigstair-monorepo/monorepo](https://github.com/bigstair-monorepo/monorepo) - 
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation) - Architectural methodology for frontend projects
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ## Makefile 
 
@@ -999,6 +998,7 @@
 - [Streeterxs/socialnetwork](https://github.com/Streeterxs/socialnetwork) - GraphQL - Nodejs - React - Relay
 - [jantimon/next-relay-demo](https://github.com/jantimon/next-relay-demo) - Relay React Concurrency Example
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [daniserafs/entria-challenge](https://github.com/daniserafs/entria-challenge) - 
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [EmanuelCampos/sseraphiniDAO](https://github.com/EmanuelCampos/sseraphiniDAO) - monorepo for sibeliusDAO
