@@ -720,7 +720,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [fnapi/fnapi](https://github.com/fnapi/fnapi) - A function is enough
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
-- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - My blog repository
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - Where I write a few things sometimes
 - [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
