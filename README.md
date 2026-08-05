@@ -518,7 +518,7 @@
 - [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
