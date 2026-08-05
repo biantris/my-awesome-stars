@@ -421,7 +421,7 @@
 
 ## bootstrap 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 
@@ -1053,7 +1053,7 @@
 
 ## html5 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -1105,7 +1105,7 @@
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -1203,11 +1203,11 @@
 
 ## jquery 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 
 ## js 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1384,7 +1384,7 @@
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## natural-language-processing 
@@ -2001,7 +2001,7 @@
 
 ## php 
 
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
@@ -2327,7 +2327,7 @@
 
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [webpack/sass-loader](https://github.com/webpack/sass-loader) - Compiles Sass to CSS
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web development study projects, including courses and my own.
+- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
 - [mauvieira/tengen](https://github.com/mauvieira/tengen) - 🌹 Pretty website for a garden school
 
 ## security 
