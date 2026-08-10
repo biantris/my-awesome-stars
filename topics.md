@@ -354,6 +354,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -709,6 +710,7 @@
 ## education 
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
@@ -1135,6 +1137,7 @@
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [aripiprazole/ticoteco](https://github.com/aripiprazole/ticoteco) - 📱| Tiktok web clone
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [Nick-Gabe/DiscordV13-template](https://github.com/Nick-Gabe/DiscordV13-template) - A template to use for creating a Discord Bot using version 13.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -1779,7 +1782,6 @@
 - [TwilioDevEd/api-snippets](https://github.com/TwilioDevEd/api-snippets) - Code snippets for the Twilio API Documentation
 - [NicolasPereira/nodejs-api-tcc](https://github.com/NicolasPereira/nodejs-api-tcc) - API feita em NodeJS para cadastrar e gerenciar lista de compras
 - [joaotuliojt/motivation](https://github.com/joaotuliojt/motivation) - 
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [sgillespie/lambda-calculus](https://github.com/sgillespie/lambda-calculus) - An introduction to the Lambda Calculus
 - [mauvieira/template-modern-spa](https://github.com/mauvieira/template-modern-spa) - React, TypeScript, Tailwind, Vite, Vitest, React Testing Library, MSW and React Query
 - [jack-pappas/fsharp-logic-examples](https://github.com/jack-pappas/fsharp-logic-examples) - Examples from John Harrison's "Handbook of Practical Logic and Automated Reasoning", ported to F#.
