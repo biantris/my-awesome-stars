@@ -1613,7 +1613,6 @@
 - [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
-- [githubanotaai/new-test-backend-nodejs](https://github.com/githubanotaai/new-test-backend-nodejs) - 
 - [lucasm/terminal](https://github.com/lucasm/terminal) - ⚫️💻 My terminal settings for macOS | Linux | Windows.
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3.
 - [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
