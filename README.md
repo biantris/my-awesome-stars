@@ -902,7 +902,7 @@
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - A lightweight React library for rendering complex After Effects animations in real time using Lottie.
+- [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - Lottie animations in React: one component for the easy path, the whole engine when you need control.
 - [joaotuliojt/motivation-fullstack](https://github.com/joaotuliojt/motivation-fullstack) - A motivation website to make all your days easier
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
