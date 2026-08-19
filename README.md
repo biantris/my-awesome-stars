@@ -599,7 +599,6 @@
 - [Apiki/front-end-challenge](https://github.com/Apiki/front-end-challenge) - Desafio para candidatos a front-end.
 - [learning-in-public/learn-you-computer-science](https://github.com/learning-in-public/learn-you-computer-science) - 
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [pscordeiro/pscordeiro](https://github.com/pscordeiro/pscordeiro) - Readme para a página inicial do perfil
 - [noghartt/garden](https://github.com/noghartt/garden) - A digital garden prototype - my notes and links are here
@@ -663,7 +662,7 @@
 
 - [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
-- [josethz00/distributed-like-counter](https://github.com/josethz00/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
+- [josethoz/distributed-like-counter](https://github.com/josethoz/distributed-like-counter) - Distributed Like Counter built with Redis, Python, FastAPI, PostgreSQL, RabbitMQ and TCP sockets
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -749,7 +748,7 @@
 - [juntossomosmais/backend-challenge](https://github.com/juntossomosmais/backend-challenge) - 🚀 Our hiring challenge to Back-end Developers
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [lukemorales/ubuntu-dev-setup](https://github.com/lukemorales/ubuntu-dev-setup) - Script for installing all software and dependencies for web/mobile development
 
 ## Solidity 
@@ -874,7 +873,7 @@
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [KindaSloth/zod-express-endpoint](https://github.com/KindaSloth/zod-express-endpoint) - Create fully inferred typesafe express endpoints using zod schemas
-- [josethz00/sql-cyclomatic-complexity](https://github.com/josethz00/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
+- [josethoz/sql-cyclomatic-complexity](https://github.com/josethoz/sql-cyclomatic-complexity) - Simple parser to calculate the Cyclomatic Complexity of a database from a given schema
 - [dellamora/create-portal-react-dom](https://github.com/dellamora/create-portal-react-dom) - 
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
@@ -1017,6 +1016,7 @@
 - [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
 - [maurodesouza/vscode-simple-readme](https://github.com/maurodesouza/vscode-simple-readme) - 📝 A lightweight VS Code extension that generates clean and professional README files in seconds, helping developers document their projects faster and more consistently 🚀
 - [dai-shi/react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers
+- [croct-tech/challenges](https://github.com/croct-tech/challenges) - Technical challenges that simulate real-world challenges you may face in day-to-day work at Croct.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
