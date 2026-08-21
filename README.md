@@ -203,7 +203,7 @@
 ## HTML 
 
 - [dutradotdev/mcp-portal-transparencia](https://github.com/dutradotdev/mcp-portal-transparencia) - MCP para orquestração automatizada de chamadas à API do Portal da Transparência do Governo Federal brasileiro
-- [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
+- [asimovtechsolutions/QubitSim](https://github.com/asimovtechsolutions/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
 - [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [zanfranceschi/rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [yayaflc/old-portfolio](https://github.com/yayaflc/old-portfolio) - 🌸 portfolio yaya.dev
