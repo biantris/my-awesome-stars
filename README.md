@@ -515,7 +515,7 @@
 - [juligaioso/awesome-secure-code-review](https://github.com/juligaioso/awesome-secure-code-review) - 
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
-- [s2te/web-studies](https://github.com/s2te/web-studies) - repository for web study projects, including courses and my own.
+- [s2te/study-notes](https://github.com/s2te/study-notes) - repository for study projects, including courses and my own.
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [ddanielsantos/system-design](https://github.com/ddanielsantos/system-design) - Open studies about system design
@@ -612,7 +612,7 @@
 - [Carolis/typescript4noobs](https://github.com/Carolis/typescript4noobs) - Typescript para iniciantes
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [juntossomosmais/frontend-challenge](https://github.com/juntossomosmais/frontend-challenge) - 🚀 Our hiring challenge to Front-end Developers
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [typescript-cheatsheets/react-pt](https://github.com/typescript-cheatsheets/react-pt) - React Typescript Cheatsheet in Portuguese 🇧🇷
 - [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
