@@ -155,6 +155,7 @@
 - [package-manager](#package-manager)
 - [phaser](#phaser)
 - [php](#php)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -1558,7 +1559,7 @@
 - [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
 - [imteekay/linear-regression](https://github.com/imteekay/linear-regression) - Building a Linear Regression from Scratch with Python & Mathematics
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
-- [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - AST-based Codemod Framework for Vue projects
+- [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - Codemod Framework for Vue
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [gaearon/formalising-mathematics-notes](https://github.com/gaearon/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2025
 - [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - 
@@ -1993,6 +1994,13 @@
 - [he4rt/scylladb-php-driver](https://github.com/he4rt/scylladb-php-driver) - PHP Driver for ScyllaDB/Apache Cassandra
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [vinibgoulart/wp-brazilian-fields-registry](https://github.com/vinibgoulart/wp-brazilian-fields-registry) - 💳 WordPress/WooCoommerce Brazilian Fields in Registry
+
+## portfolio 
+
+- [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
+- [digoarthur/github-automated-repos](https://github.com/digoarthur/github-automated-repos) - The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
+- [jrsousadev/jrsousa-fullstack-v1](https://github.com/jrsousadev/jrsousa-fullstack-v1) - 👋 Hello, my name is Junior, check out my portfolio and leave your feedback!
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 
 ## portfolio-website 
 
