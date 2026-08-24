@@ -777,7 +777,7 @@
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
-- [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - AST-based Codemod Framework for Vue projects
+- [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - Codemod Framework for Vue
 - [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
 - [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - Type-safe feature flags for Nuxt 3 and Nuxt 4, with server-side runtime evaluation and built-in A/B testing.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
