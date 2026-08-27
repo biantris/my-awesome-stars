@@ -503,7 +503,7 @@
 
 - [samsantosb/How-to-Promises](https://github.com/samsantosb/How-to-Promises) - How to properly use Promises with examples
 - [renatorib/posts](https://github.com/renatorib/posts) - rena.to posts source repo
-- [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - 
+- [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - Uma lista de recursos pra estudar e ir fundo em ⚡ Teoria de Tipos ⚡
 - [filrak/vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [lunaperegrina/awesome-bsky](https://github.com/lunaperegrina/awesome-bsky) - Coloque aqui links de projetos com funcionalidades que envolvam o BlueSky! 🦋💙
