@@ -1562,7 +1562,7 @@
 - [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - Codemod Framework for Vue
 - [3b1b/3Blue1Brown.com](https://github.com/3b1b/3Blue1Brown.com) - 
 - [gaearon/formalising-mathematics-notes](https://github.com/gaearon/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2025
-- [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - 
+- [lincolixavier/awesome-type-theory](https://github.com/lincolixavier/awesome-type-theory) - Uma lista de recursos pra estudar e ir fundo em ⚡ Teoria de Tipos ⚡
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [asimovtechsolutions/QubitSim](https://github.com/asimovtechsolutions/QubitSim) - QubitSim is a modern JavaScript library that simulates core quantum computing concepts and post-quantum cryptography. Designed for intuitive educational use, it allows developers to prototype algorith
 - [filrak/vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
