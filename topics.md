@@ -1876,7 +1876,6 @@
 - [italosantana/jogo-do-bicho-javascript](https://github.com/italosantana/jogo-do-bicho-javascript) - 
 - [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
 - [jondcallahan/remix-auth](https://github.com/jondcallahan/remix-auth) - A fully featured auth system built on Remix
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ktfth/typescript-livro-de-bolso](https://github.com/ktfth/typescript-livro-de-bolso) - Um livro breve para conceitos avançados utilizando typescript
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [JasonEtco/jasonet.co](https://github.com/JasonEtco/jasonet.co) - 📝 My personal site and blog
@@ -2683,6 +2682,7 @@
 - [hurbcom/challenge-charlie](https://github.com/hurbcom/challenge-charlie) - Frontend code challenge
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## web-components 
@@ -2693,6 +2693,7 @@
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## web3 
