@@ -798,6 +798,7 @@
 - [silver-dev-org/interview-ready](https://github.com/silver-dev-org/interview-ready) - A repo for interview practice.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
+- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1045,7 +1046,7 @@
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
 - [jondcallahan/remix-auth](https://github.com/jondcallahan/remix-auth) - A fully featured auth system built on Remix
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [ktfth/typescript-livro-de-bolso](https://github.com/ktfth/typescript-livro-de-bolso) - Um livro breve para conceitos avançados utilizando typescript
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [woovibr/codemods](https://github.com/woovibr/codemods) - Node.js/Javascript codemods used at @entria
@@ -1137,7 +1138,6 @@
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
-- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Vercel AI Gateway (Nano Banana) & R2.
