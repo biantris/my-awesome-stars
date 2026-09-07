@@ -528,7 +528,6 @@
 - [SouJunior/soujunior-labs](https://github.com/SouJunior/soujunior-labs) - List of projects SouJunior Lab
 - [SouJunior-Labs/project-list](https://github.com/SouJunior-Labs/project-list) - List of projects SouJunior Labs
 - [NicolasPereira/estudos-docker](https://github.com/NicolasPereira/estudos-docker) - Repositório que visa centralizar meus estudos sobre docker
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [CodingGarden/mac-setup](https://github.com/CodingGarden/mac-setup) - This repo contains info on all the apps / tools / settings I use on my Mac.
 - [rubenmarcus/120-perguntas-frontend](https://github.com/rubenmarcus/120-perguntas-frontend) - 120 Perguntas Front-end separadas por níveis
@@ -846,6 +845,7 @@
 - [vncsmrqs/test-globo-api](https://github.com/vncsmrqs/test-globo-api) - 
 - [italosantana/barbershop](https://github.com/italosantana/barbershop) - solution for scheduling and monitoring in your barbershop.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
