@@ -314,6 +314,7 @@
 - [NicolasLopes7/zan-challenges-portal](https://github.com/NicolasLopes7/zan-challenges-portal) - 
 - [NicolasPereira/nodejs-api-tcc](https://github.com/NicolasPereira/nodejs-api-tcc) - API feita em NodeJS para cadastrar e gerenciar lista de compras
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Archived
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [mauvieira/template-modern-spa](https://github.com/mauvieira/template-modern-spa) - React, TypeScript, Tailwind, Vite, Vitest, React Testing Library, MSW and React Query
 - [willhoney7/eslint-plugin-import-helpers](https://github.com/willhoney7/eslint-plugin-import-helpers) - ESLint plugin to help enforce a configurable order for import statements
 - [akinncar/compress](https://github.com/akinncar/compress) - node script to compress/optimize png images
@@ -576,7 +577,6 @@
 - [decaycs/wallpapers](https://github.com/decaycs/wallpapers) - 
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [sgillespie/lambda-calculus](https://github.com/sgillespie/lambda-calculus) - An introduction to the Lambda Calculus
 - [luistak/idp-guideline](https://github.com/luistak/idp-guideline) - This guideline aims to help you prepare and elaborate your development plan based on a kaizen recurrent methodology.
