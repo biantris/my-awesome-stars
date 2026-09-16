@@ -171,7 +171,7 @@
 - [learn-video/rtmp-live](https://github.com/learn-video/rtmp-live) - Learn how to build a simple streaming platform based on the Real Time Messaging Protocol
 - [dellamora/data-structures-and-algorithms](https://github.com/dellamora/data-structures-and-algorithms) - 
 - [learn-video/mosaic-video](https://github.com/learn-video/mosaic-video) - Generate mosaics from video inputs
-- [LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication, Redis cache and MongoDB for logging
+- [LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template) - Template for REST API using Gin framework, PostgreSQL database, JWT authentication, Redis cache, MongoDB for logging, domain event publishing to Kafka
 - [mauricioabreu/load-balancingo](https://github.com/mauricioabreu/load-balancingo) - 
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [learn-video/manifest-manipulator](https://github.com/learn-video/manifest-manipulator) - 
