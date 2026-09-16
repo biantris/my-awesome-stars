@@ -880,7 +880,7 @@
 ## golang 
 
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
-- [LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template) - Template for REST API made with Golang using Gin framework, PostgreSQL database, JWT authentication, Redis cache and MongoDB for logging
+- [LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template) - Template for REST API using Gin framework, PostgreSQL database, JWT authentication, Redis cache, MongoDB for logging, domain event publishing to Kafka
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
