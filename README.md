@@ -637,6 +637,7 @@
 - [MarcoWorms/learn.js](https://github.com/MarcoWorms/learn.js) - 📒 A fast introduction to programming with JavaScript modern features
 - [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books) - :books: Directory of Python books
 - [the-akira/Python-Iluminado](https://github.com/the-akira/Python-Iluminado) - Guia para Iniciantes com a Linguagem Python
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [getomni/omni](https://github.com/getomni/omni) - Dark theme created by Rocketseat 🚀
 - [Rocketseat/awesome](https://github.com/Rocketseat/awesome) - Uma lista dos materiais gratuitos diponibilizados pela Rocketseat, incluindo conteúdos do Blog, Youtube e Instagram.
 - [react-brasil/vagas](https://github.com/react-brasil/vagas) - Espaço para divulgação de vagas relacionadas com React
@@ -703,7 +704,6 @@
 - [Rinyaresu/crud-react-and-rails](https://github.com/Rinyaresu/crud-react-and-rails) - 
 - [leandronsp/adelnor](https://github.com/leandronsp/adelnor) - A dead simple, yet Rack-compatible, HTTP server written in Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 
 ## Rust 
 
