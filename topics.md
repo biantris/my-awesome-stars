@@ -1719,7 +1719,7 @@
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
-- [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
+- [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - ⚠️ No longer maintained — do not use. This repository is archived.
 - [Odorizzi1/my-design](https://github.com/Odorizzi1/my-design) - 
 - [cxxxr/sblint](https://github.com/cxxxr/sblint) - A linter for Common Lisp source code using SBCL
 - [superfly/flyctl-actions](https://github.com/superfly/flyctl-actions) - :octocat: GitHub Action that wraps the flyctl
@@ -1753,7 +1753,7 @@
 - [mthmontes/project-bd-python](https://github.com/mthmontes/project-bd-python) - 
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [biantris/braintris](https://github.com/biantris/braintris) - 🧠 Repositories that contain everything I've created and studied (bia knowledge base)
-- [frontendbr/vagas](https://github.com/frontendbr/vagas) - :microscope: Espaço para divulgação de vagas para front-enders.
+- [frontendbr/vagas](https://github.com/frontendbr/vagas) - Espaço para divulgação de vagas para front-enders
 - [fersilva16/ts-report-action](https://github.com/fersilva16/ts-report-action) - GitHub Action to report TypeScript errors in Pull Requests
 - [franzinc/aserve](https://github.com/franzinc/aserve) - AllegroServe, a web server written in Common Lisp
 - [NicolasLopes7/queue-ts](https://github.com/NicolasLopes7/queue-ts) - a tiny engine to run background jobs without any dependency
