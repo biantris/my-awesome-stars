@@ -6,7 +6,9 @@
 ## Contents
 
 - [3d](#3d)
+- [agents](#agents)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
@@ -234,12 +236,20 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
+## agents 
+
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
+
 ## ai 
 
 - [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
+
+## ai-agents 
+
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 
 ## algorithm 
 
@@ -454,7 +464,6 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -870,7 +879,6 @@
 
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -884,7 +892,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [yurecouto/api-golang](https://github.com/yurecouto/api-golang) - Template Restful API Written in Go for future projects.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1232,6 +1239,7 @@
 ## kubernetes 
 
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## language 
@@ -1531,7 +1539,7 @@
 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - Links úteis e recursos essenciais para desenvolvedores frontend.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
 - [akinncar/talk-open-source](https://github.com/akinncar/talk-open-source) - Talk about Open Source
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -2324,11 +2332,11 @@
 
 ## security 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 
 ## security-tools 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 
 ## self-hosted 
 
@@ -2506,7 +2514,6 @@
 - [LFSCamargo/vue.pnpm](https://github.com/LFSCamargo/vue.pnpm) - Vue and PNPM Monorepo
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - Lottie animations in React: one component for the easy path, the whole engine when you need control.
