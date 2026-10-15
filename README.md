@@ -360,7 +360,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
-- [eryc-cc/home-bills](https://github.com/eryc-cc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [daniloab/rbaf-web](https://github.com/daniloab/rbaf-web) - Website Dashboard Manager built with React, Relay and GraphQL
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
