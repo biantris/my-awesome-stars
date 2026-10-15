@@ -81,7 +81,6 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
-- [finance](#finance)
 - [firebase](#firebase)
 - [font](#font)
 - [framework](#framework)
@@ -781,10 +780,6 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
-
-## finance 
-
-- [eryc-cc/home-bills](https://github.com/eryc-cc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
 
 ## firebase 
 
