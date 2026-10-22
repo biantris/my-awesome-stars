@@ -1872,6 +1872,7 @@
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 - [scarletquasar/OpenPixSDK](https://github.com/scarletquasar/OpenPixSDK) - Develop solutions quickly with an unnoficial OpenPix SDK
 - [renatorib/curriculum-vitae](https://github.com/renatorib/curriculum-vitae) - Renato Ribeiro, Software Engineer.
+- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - Where I write a few things sometimes
 - [boazbk/crypto](https://github.com/boazbk/crypto) - Lecture notes for a course on cryptography
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [lucasfloriani/use-step-animation](https://github.com/lucasfloriani/use-step-animation) - 
@@ -2314,7 +2315,6 @@
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
-- [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - Where I write a few things sometimes
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
