@@ -66,6 +66,7 @@
 
 ## Astro 
 
+- [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
 - [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - Where I write a few things sometimes
 
@@ -915,7 +916,6 @@
 - [nandokferrari/woovi-front](https://github.com/nandokferrari/woovi-front) - 
 - [jrsousadev/live-chat-web](https://github.com/jrsousadev/live-chat-web) - 💬 Live chat web with NextJS and Socket.io
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
-- [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
