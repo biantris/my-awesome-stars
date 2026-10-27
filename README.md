@@ -864,7 +864,7 @@
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [dellamora/react-query-ts-generics](https://github.com/dellamora/react-query-ts-generics) - 
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [BemteviSeguros/antd-input-mask](https://github.com/BemteviSeguros/antd-input-mask) - A Masked Input Component based on Ant Design.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
