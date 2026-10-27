@@ -293,7 +293,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [JakeFenley/koa-zod-router](https://github.com/JakeFenley/koa-zod-router) - Build typesafe routes for Koa with ease. Utilizes Typescript, Zod, and Koa-Router to provide an easy solution to I/O validation and type inference.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 - [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
@@ -1394,7 +1394,7 @@
 ## nestjs 
 
 - [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [ananeridev/nestjs-api-bookmark](https://github.com/ananeridev/nestjs-api-bookmark) - Complete rest api with testing using nestjs and typescrit to practice
 
 ## neural-network 
@@ -1413,7 +1413,7 @@
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -2116,7 +2116,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -2498,7 +2498,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gabrielduete/frontend-template-nextjs](https://github.com/gabrielduete/frontend-template-nextjs) - Front-end template with nextjs, typescript, styled-componentes, jest react/testing libarary, prettier, ESLint, husky, pre-commit, pre-push, github actions and patterns
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌄 - RPC-like client, contract, and server implementation for a pure REST API
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
