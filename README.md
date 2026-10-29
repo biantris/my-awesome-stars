@@ -340,7 +340,7 @@
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+- [meta/jscodeshift](https://github.com/meta/jscodeshift) - A JavaScript codemod toolkit.
 - [Deividy/curso-nodejs-2018](https://github.com/Deividy/curso-nodejs-2018) - Curso Node.js em pt-br inicialmente produzido em 2018 (abandonado no momento...)
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [tiagoboeing/33-js-concepts](https://github.com/tiagoboeing/33-js-concepts) - 📜  33 Conceitos que todo desenvolvedor JS deve conhecer.
@@ -722,7 +722,7 @@
 - [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
 ## SCSS 
 
@@ -976,7 +976,7 @@
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️
 - [daniloab/ecommerce-op](https://github.com/daniloab/ecommerce-op) - ecommerce monorepo implementing openpix APIs
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [padelis/relay-workshop](https://github.com/padelis/relay-workshop) - Material for my Relay Workshop
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
 - [EmanuelCampos/proxy-contract](https://github.com/EmanuelCampos/proxy-contract) - A basic proxy contract
@@ -1100,7 +1100,7 @@
 - [daniloab/fullstack-playground](https://github.com/daniloab/fullstack-playground) - Monorepo playground with GraphQL Server, Rest API Server, typescript config, test utils, jest config, webpack and more
 - [contra/graphql-helix](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server 🧬
 - [daniloab/koa-crud-backend](https://github.com/daniloab/koa-crud-backend) - Backend implementation of REST api with Node.js, Koa.js, MongoDB and Jest Tests
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [allabouttech0803/graphql-mongodb-typescript-blog](https://github.com/allabouttech0803/graphql-mongodb-typescript-blog) - 
 - [Open-Pix/expo-openpix-demo](https://github.com/Open-Pix/expo-openpix-demo) - OpenPix Demo Integration with Expo
 - [woovibr/node-backend-integration](https://github.com/woovibr/node-backend-integration) - OpenPix Backend Integration
