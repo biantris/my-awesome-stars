@@ -14,6 +14,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -283,6 +284,16 @@
 - [angular/flex-layout](https://github.com/angular/flex-layout) - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## animation 
+
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [Gamote/lottie-react](https://github.com/Gamote/lottie-react) - Lottie animations in React: one component for the easy path, the whole engine when you need control.
+- [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 
 ## ansible 
 
@@ -1828,7 +1839,6 @@
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [angeloocana/gatsby-plugin-i18n](https://github.com/angeloocana/gatsby-plugin-i18n) - Multi language routes for Gatsby
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
-- [ab-inbev-ze-company/ze-code-challenges](https://github.com/ab-inbev-ze-company/ze-code-challenges) - 
 - [Streeterxs/testing-relay](https://github.com/Streeterxs/testing-relay) - relay 13, react 18, testing-library/react 13 testing
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [arantespp/cryptobot](https://github.com/arantespp/cryptobot) - 
