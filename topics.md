@@ -107,6 +107,7 @@
 - [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -409,7 +410,7 @@
 
 - [Wellers0n/jest-everywhere](https://github.com/Wellers0n/jest-everywhere) - Use jest anywhere
 - [jrsousadev/live-chat-api](https://github.com/jrsousadev/live-chat-api) - 💬 Live chat with Websocket, Nodejs, Prisma and Jest
-- [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
+- [backend-br/desafios](https://github.com/backend-br/desafios) - Desafios para aprimorar habilidades de programação com foco em backend.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Wellers0n/Backend-diff](https://github.com/Wellers0n/Backend-diff) - graphql vs rest
 - [Wellers0n/yin-yang-playground](https://github.com/Wellers0n/yin-yang-playground) - Fullstack application
@@ -703,6 +704,7 @@
 
 ## docker 
 
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [Wellers0n/upload](https://github.com/Wellers0n/upload) - Fullstack monorepo for uploading transaction files
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -996,7 +998,7 @@
 - [akinncar/tse2022](https://github.com/akinncar/tse2022) - Vote Counting Brazilian Elections 2022
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
+- [backend-br/desafios](https://github.com/backend-br/desafios) - Desafios para aprimorar habilidades de programação com foco em backend.
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gabrielduete/BEECROWD-JS-GUIA](https://github.com/gabrielduete/BEECROWD-JS-GUIA) - Guia destinado a ajudar programadores com dificuldade em enviar respostas no Beecrowd, e mostrar todas minhas soluções enviadas com JavaScript que vou fazendo ao longos dos meus dias. Também é aceito 
@@ -1079,6 +1081,10 @@
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+
+## image-processing 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## ios 
 
@@ -1546,7 +1552,7 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend) - Links úteis e recursos essenciais para desenvolvedores frontend.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
-- [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
+- [backend-br/desafios](https://github.com/backend-br/desafios) - Desafios para aprimorar habilidades de programação com foco em backend.
 - [akinncar/talk-open-source](https://github.com/akinncar/talk-open-source) - Talk about Open Source
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
