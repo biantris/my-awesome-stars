@@ -564,7 +564,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [calixtocarolina/Pensamento-Computacional](https://github.com/calixtocarolina/Pensamento-Computacional) - Um repositório que ajuda a compreender os aspectos teóricos e práticos do Pensamento Computacional!
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-- [backend-br/desafios](https://github.com/backend-br/desafios) - Aqui você encontrará uma coleção de desafios projetados para aprimorar suas habilidades de programação com foco em backend.
+- [backend-br/desafios](https://github.com/backend-br/desafios) - Desafios para aprimorar habilidades de programação com foco em backend.
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
 - [danielhe4rt/livecoding4noobs](https://github.com/danielhe4rt/livecoding4noobs) - 
 - [engenheiracoelho/engenheiracoelho](https://github.com/engenheiracoelho/engenheiracoelho) - 
