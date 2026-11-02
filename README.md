@@ -324,7 +324,7 @@
 - [eslint/eslint.org](https://github.com/eslint/eslint.org) - ESLint website
 - [colbyfayock/next-leaflet-starter](https://github.com/colbyfayock/next-leaflet-starter) - 🍃 A Next.js starter with Leafet to quickly build React apps with a map!
 - [GBDev13/ip-address-tracker](https://github.com/GBDev13/ip-address-tracker) - Aplicação desenvolvida durante um desafio do Front-end Mentor
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [eruptionjs/core](https://github.com/eruptionjs/core) - Boilerplate for React/Typescript, built on top of Vite ⚡️
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
