@@ -214,6 +214,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1766,7 +1767,6 @@
 - [Luisnadachi/SQL4Noobs](https://github.com/Luisnadachi/SQL4Noobs) - 
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [arthur404dev/ZooApi](https://github.com/arthur404dev/ZooApi) - RESTful API written in GOlang to be used as a boilerplate for GOlang projects.
-- [guilhermerodz/veist-theme](https://github.com/guilhermerodz/veist-theme) - A dark theme inspired by Vercel & Geist ⚡️
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [calixtocarolina/Pensamento-Computacional](https://github.com/calixtocarolina/Pensamento-Computacional) - Um repositório que ajuda a compreender os aspectos teóricos e práticos do Pensamento Computacional!
 - [wbraganca/desafios-de-ti](https://github.com/wbraganca/desafios-de-ti) - Desafios para testar conhecimentos de TI
@@ -2639,6 +2639,13 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
+
+## vscode 
+
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [guilhermerodz/veist-theme](https://github.com/guilhermerodz/veist-theme) - A dark theme inspired by Vercel & Geist ⚡️
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 
 ## vue 
 
