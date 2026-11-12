@@ -412,7 +412,6 @@
 - [discord/eslint-traverse](https://github.com/discord/eslint-traverse) - Create a sub-traversal of an AST node in your ESLint plugin
 - [Hy-Vee/lerna-yarn-workspaces-monorepo](https://github.com/Hy-Vee/lerna-yarn-workspaces-monorepo) - 🐉 A Monorepo with multiple packages and a shared build, test, and release process.
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 
 ## backend 
 
@@ -965,7 +964,6 @@
 - [relay-tools/relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks
 - [sibelius/graphql-mock-api](https://github.com/sibelius/graphql-mock-api) - A GraphQL mock to any GraphQL schema
 - [daniloab/fullstack-playground](https://github.com/daniloab/fullstack-playground) - Monorepo playground with GraphQL Server, Rest API Server, typescript config, test utils, jest config, webpack and more
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [sibs-projects/relay-modern-course](https://github.com/sibs-projects/relay-modern-course) - Relay Modern Course
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [sibelius/relay-workshop](https://github.com/sibelius/relay-workshop) - Learn Relay
@@ -1972,7 +1970,6 @@
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [koajs/ejs](https://github.com/koajs/ejs) - a koa view render middleware, support all feature of ejs
 - [DiegoTeles/react-base-webpack-config-ts](https://github.com/DiegoTeles/react-base-webpack-config-ts) - React v17.0.2 with TypeScript
-- [entria/entria-workshop](https://github.com/entria/entria-workshop) - 
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books) - :books: Directory of Python books
 - [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -2243,7 +2240,6 @@
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
 - [filippobarcellos/instagram-clone-react](https://github.com/filippobarcellos/instagram-clone-react) - Instagram clone built with React & Node.js
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [entria/jobs](https://github.com/entria/jobs) - Come and join the Entria team
@@ -2266,7 +2262,6 @@
 - [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text) - 🎭 A React Native/Expo library to mask text and inputs
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [Rocketseat/awesome](https://github.com/Rocketseat/awesome) - Uma lista dos materiais gratuitos diponibilizados pela Rocketseat, incluindo conteúdos do Blog, Youtube e Instagram.
 - [entria/jobs](https://github.com/entria/jobs) - Come and join the Entria team
@@ -2598,7 +2593,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [daniloab/koa-crud-backend](https://github.com/daniloab/koa-crud-backend) - Backend implementation of REST api with Node.js, Koa.js, MongoDB and Jest Tests
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [NinjaCodeGen/angular-landing-page](https://github.com/NinjaCodeGen/angular-landing-page) - Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary, and nice animations/scrolling.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
