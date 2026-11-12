@@ -422,7 +422,6 @@
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [koajs/ejs](https://github.com/koajs/ejs) - a koa view render middleware, support all feature of ejs
 - [DiegoTeles/react-base-webpack-config-ts](https://github.com/DiegoTeles/react-base-webpack-config-ts) - React v17.0.2 with TypeScript
-- [entria/entria-workshop](https://github.com/entria/entria-workshop) - 
 - [jgcmarins/rtl-everywhere](https://github.com/jgcmarins/rtl-everywhere) - [WIP] React Testing Library everywhere
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
 - [sibelius/graphql-mock-api](https://github.com/sibelius/graphql-mock-api) - A GraphQL mock to any GraphQL schema
@@ -812,6 +811,7 @@
 - [transitive-bullshit/react-static-tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
 - [samthor/kuto](https://github.com/samthor/kuto) - Faster updates for big JS projects
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Devtools for debugging Vue.js applications.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [mutoe/vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Explore the charm of Vue composition API! Vite?
@@ -1103,7 +1103,6 @@
 - [allabouttech0803/graphql-mongodb-typescript-blog](https://github.com/allabouttech0803/graphql-mongodb-typescript-blog) - 
 - [Open-Pix/expo-openpix-demo](https://github.com/Open-Pix/expo-openpix-demo) - OpenPix Demo Integration with Expo
 - [woovibr/node-backend-integration](https://github.com/woovibr/node-backend-integration) - OpenPix Backend Integration
-- [entria/entria-fullstack](https://github.com/entria/entria-fullstack) - Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest
 - [tgmarinho/README-ecoleta](https://github.com/tgmarinho/README-ecoleta) - 🎁  Três modelos de README com o Projeto criados para o blog da @Rocketseat 🚀
 - [sibelius/recoil-todo](https://github.com/sibelius/recoil-todo) - Recoil Todo App
 - [NinjaCodeGen/angular-landing-page](https://github.com/NinjaCodeGen/angular-landing-page) - Beautiful Angular landing page with firebase, chat, poll, dynamic features/gallary, and nice animations/scrolling.
@@ -1140,7 +1139,6 @@
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Vercel AI Gateway (Nano Banana) & R2.
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [vue-email/nuxt](https://github.com/vue-email/nuxt) - 💚 Official Nuxt module for Vue Email. Build email templates with Vue components.
 - [nuxt-hub/starter](https://github.com/nuxt-hub/starter) - Full-stack application with Nuxt, using Database (Postgres / SQLite / MySQL), Blob (S3, R2, Vercel Blob) and KV (Redis, Upstash)
 - [atinux/talks](https://github.com/atinux/talks) - Slides & code for my talks.
