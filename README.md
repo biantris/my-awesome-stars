@@ -67,7 +67,6 @@
 ## Astro 
 
 - [sibelius/zettelkasten](https://github.com/sibelius/zettelkasten) - Thoughts and Ideas
-- [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [vitorsouzaalmeida/blog](https://github.com/vitorsouzaalmeida/blog) - Where I write a few things sometimes
 
 ## Batchfile 
@@ -716,6 +715,7 @@
 - [lffg/fdb](https://github.com/lffg/fdb) - A simple (and unfinished!!) database management system.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [fnapi/fnapi](https://github.com/fnapi/fnapi) - A function is enough
+- [noghartt/blog](https://github.com/noghartt/blog) - My personal blog
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [Gabriel-Jeronimo/learning-rust](https://github.com/Gabriel-Jeronimo/learning-rust) - Just a repository with a bunch of rust code
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
