@@ -243,7 +243,7 @@
 
 ## Java 
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - To gain access, please finish setting up this repository now at:
 - [Quackster/Kepler](https://github.com/Quackster/Kepler) - A server created in Java designed to revive Habbo Hotel v14 from the 2007 era.
 - [he4rt/he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 - [he4rt/he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
