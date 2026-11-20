@@ -197,6 +197,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -1330,6 +1331,7 @@
 
 ## markdown 
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
@@ -2418,6 +2420,14 @@
 
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
 
+## static-site-generator 
+
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+
 ## storybook 
 
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
@@ -2649,6 +2659,7 @@
 
 ## vue 
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
