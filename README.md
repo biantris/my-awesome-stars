@@ -770,6 +770,7 @@
 
 ## TypeScript 
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
 - [n8n-brasil/n8n-Doc-PT-BR](https://github.com/n8n-brasil/n8n-Doc-PT-BR) - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação
