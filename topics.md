@@ -90,7 +90,6 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
-- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -248,7 +247,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🟡🔴🟢🟣🟠 Aspiral is a decentralized search assistant for AI and Web.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -853,10 +852,6 @@
 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
-
-## generative-ai 
-
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
 
 ## git 
 
@@ -2047,7 +2042,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🔎 Findto is a decentralized search assistant for AI and Web.
+- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🟡🔴🟢🟣🟠 Aspiral is a decentralized search assistant for AI and Web.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
