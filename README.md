@@ -839,6 +839,7 @@
 - [Nick-Gabe/central-nickgabe](https://github.com/Nick-Gabe/central-nickgabe) - Um site para ver assuntos dos quais eu já ensinei ou falei sobre.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [fdaciuk/conduit-api](https://github.com/fdaciuk/conduit-api) - API for Real World App project (Conduit) using Node.js + TS with Functional Programming
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -1149,7 +1150,6 @@
 - [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [laineus/phavuer](https://github.com/laineus/phavuer) - A integration library seamlessly combining Phaser 3 with Vue for enhanced game development.
 - [santanagabi/pokedex-search](https://github.com/santanagabi/pokedex-search) - 
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vncsmrqs/test-globo-app](https://github.com/vncsmrqs/test-globo-app) - 
 - [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
