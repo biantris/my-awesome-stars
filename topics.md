@@ -247,7 +247,7 @@
 
 ## ai 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🟡🔴🟢🟣🟠 Aspiral is a decentralized search assistant for AI and Web.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔵🟡🔴🟢🟣🟠 Aspiral is an assistant for Web and AI.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dpbm/dreambooth-tutorial](https://github.com/Dpbm/dreambooth-tutorial) - Crie imagens suas usando IA de forma fácil
@@ -478,7 +478,7 @@
 
 ## cli 
 
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -1536,7 +1536,7 @@
 
 ## npm 
 
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [cyclic-software/cyclic-sdk](https://github.com/cyclic-software/cyclic-sdk) - Cyclic.sh SDK to build APIs
@@ -1573,6 +1573,7 @@
 
 ## others 
 
+- [LFSCamargo/orbit](https://github.com/LFSCamargo/orbit) - The controller-first game launcher for your Mac. Switch, Steam, Windows games through Orbit Wine and Apple's Game Porting Toolkit, and your Mac apps, in one beautiful library.
 - [samsantosb/How-to-Promises](https://github.com/samsantosb/How-to-Promises) - How to properly use Promises with examples
 - [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
@@ -1869,7 +1870,7 @@
 - [endel/shieldsio-patreon](https://github.com/endel/shieldsio-patreon) - 🛡 Shields.io endpoint to display amount of donations/patrons you have on Patreon
 - [learning-in-public/learn-you-computer-science](https://github.com/learning-in-public/learn-you-computer-science) - 
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [made-in-common/sponsorkit](https://github.com/made-in-common/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 - [scarletquasar/ReactTsWebpack.QuickBoilerplate](https://github.com/scarletquasar/ReactTsWebpack.QuickBoilerplate) - Quick boilerplate for React + TypeScript + Webpack
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
@@ -2002,7 +2003,7 @@
 
 ## package-manager 
 
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 
@@ -2042,7 +2043,7 @@
 
 ## privacy 
 
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🟡🔴🟢🟣🟠 Aspiral is a decentralized search assistant for AI and Web.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔵🟡🔴🟢🟣🟠 Aspiral is an assistant for Web and AI.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -2083,7 +2084,7 @@
 
 - [eimwe/notes](https://github.com/eimwe/notes) - CRUD PWA on Vue 3 + TS + Pinia
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news reader powered by trusted journalism.
+- [lucasm/aspiral_archived](https://github.com/lucasm/aspiral_archived) - 🔴📰 Aspiral is a news reader powered by trusted journalism.
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
