@@ -770,6 +770,7 @@
 
 ## TypeScript 
 
+- [LFSCamargo/orbit](https://github.com/LFSCamargo/orbit) - The controller-first game launcher for your Mac. Switch, Steam, Windows games through Orbit Wine and Apple's Game Porting Toolkit, and your Mac apps, in one beautiful library.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
@@ -779,7 +780,7 @@
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [UnrefinedBrain/vue-metamorph](https://github.com/UnrefinedBrain/vue-metamorph) - Codemod Framework for Vue
-- [lucasm/findto](https://github.com/lucasm/findto) - 🔵🟡🔴🟢🟣🟠 Aspiral is a decentralized search assistant for AI and Web.
+- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔵🟡🔴🟢🟣🟠 Aspiral is an assistant for Web and AI.
 - [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - Type-safe feature flags for Nuxt 3 and Nuxt 4, with server-side runtime evaluation and built-in A/B testing.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
@@ -793,7 +794,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [igorfelipeduca/twitter-bsky-blogpost-automation](https://github.com/igorfelipeduca/twitter-bsky-blogpost-automation) - 
 - [silver-dev-org/interview-ready](https://github.com/silver-dev-org/interview-ready) - A repo for interview practice.
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -920,7 +921,7 @@
 - [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) - 🦄 Front-end build with React, Relay and GraphQL
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [lucasm/aspiral](https://github.com/lucasm/aspiral) - 🔴📰 Aspiral is a news reader powered by trusted journalism.
+- [lucasm/aspiral_archived](https://github.com/lucasm/aspiral_archived) - 🔴📰 Aspiral is a news reader powered by trusted journalism.
 - [NicolasLopes7/hacktoberfest-ufcg-graphql-talk](https://github.com/NicolasLopes7/hacktoberfest-ufcg-graphql-talk) - ⚡ monorepo comparing a tiny pokedex application made in REST and graphQL 🦄✨
 - [ubmit/atomic-state-management](https://github.com/ubmit/atomic-state-management) - 👻  a comparison between Jotai and Recoil, which are libraries that offer atomic state management
 - [jrsousadev/api-pagarme-nodejs](https://github.com/jrsousadev/api-pagarme-nodejs) - 😺 Pagarme API Integration with NodeJS, Prisma and MongoDB
@@ -1014,7 +1015,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite) - A builder plugin to run and build Storybooks with Vite
 - [Wellers0n/aws-s3-example](https://github.com/Wellers0n/aws-s3-example) - upload file to aws-3
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [made-in-common/sponsorkit](https://github.com/made-in-common/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [croct-tech/plug-js](https://github.com/croct-tech/plug-js) - Croct's official SDK for JavaScript.
 - [software-mansion-labs/react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) - A new way to create navigation in react-native
 - [alvarosabu/modern-three](https://github.com/alvarosabu/modern-three) - Modern ThreeJS boilerplate powered by Vite & Typescript.
