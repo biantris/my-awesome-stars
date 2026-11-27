@@ -704,6 +704,7 @@
 
 ## Rust 
 
+- [LFSCamargo/orbit](https://github.com/LFSCamargo/orbit) - The controller-first game launcher for your Mac. Switch, Steam, Windows games through Orbit Wine and Apple's Game Porting Toolkit, and your Mac apps, in one beautiful library.
 - [leandronsp/cortex](https://github.com/leandronsp/cortex) - A nano-LLM built entirely in Rust. From scratch. No deps, no libraries, no Python.
 - [leandronsp/synapse](https://github.com/leandronsp/synapse) - A Neural CPU trained using neural networks
 - [danielhe4rt/ascii-image-converter-rs](https://github.com/danielhe4rt/ascii-image-converter-rs) - Just a study of Image to ASCII that will be turned into a article later on.
@@ -770,7 +771,6 @@
 
 ## TypeScript 
 
-- [LFSCamargo/orbit](https://github.com/LFSCamargo/orbit) - The controller-first game launcher for your Mac. Switch, Steam, Windows games through Orbit Wine and Apple's Game Porting Toolkit, and your Mac apps, in one beautiful library.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [isaac-mason/navcat](https://github.com/isaac-mason/navcat) - javascript navigation mesh construction and querying library for 3D floor-based navigation
